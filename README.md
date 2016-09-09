@@ -1,2 +1,2 @@
-# drakeMTB
-The website for the Sir Francis Drake Mountain Biking Team
+# Drake2017-jekyll
+new jekyll site for the Drake HS team

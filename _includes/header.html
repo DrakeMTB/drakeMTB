@@ -1,30 +1,59 @@
-<head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-  {% include elements.html %}
+<header>
+  <div class="w3-top">
+ <ul class="w3-navbar w3-theme-d2 w3-left-align w3-large">
+  <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+    <a class="w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
 
-  <meta charset="utf-8" />
-  <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+  </li>
+  <li><a href="{{ site.baseurl }}/" class="w3-teal"><i class="fa fa-home w3-margin-right"></i>Home</a></li>
+  <!--<li class="w3-hide-small"><a href="{{ site.baseurl }}/calendar" class="w3-hover-white">Calendar</a></li>-->
+  <li class="w3-hide-small"><a href="{{ site.baseurl }}/parents" class="w3-hover-white">Parents</a></li>
+  <li class="w3-hide-small"><a href="{{ site.baseurl }}/riders" class="w3-hover-white">Riders</a></li>
+  <li class="w3-hide-small"><a href="{{ site.baseurl }}/faq" class="w3-hover-white">FAQ's</a></li>
+  <li class="w3-hide-small"><a href="{{ site.baseurl }}/races" class="w3-hover-white">Races</a></li>
+  <li class="w3-hide-small"><a href="{{ site.baseurl }}/coaches" class="w3-hover-white">Coaches</a></li>
+  <li class="w3-hide-small"><a href="https://goo.gl/photos/YpAmTJrjciYyz6YK7">Photos</a></li>
+  <li class="w3-hide-small"><a href="https://docs.google.com/forms/d/e/1FAIpQLScSaBhR-IExv9IegCc4d8l2m8VLGucKxmbjzy1GPpAXHpPUFA/viewform">Join</a></li>
+ </ul>
+</div>
 
-  {% if page.excerpt %}
-  <meta name="description" content="{{ page.excerpt| strip_html }}" />
-  <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-  {% else %}
-  <meta name="description" content="{{ site.description }}">
-  <meta property="og:description" content="{{ site.description }}" />
-  {% endif %}
-  <meta name="author" content="{{ site.name }}" />
+<!-- Navbar on small screens -->
+<div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:43px;">
+  <ul class="w3-navbar w3-left-align w3-large w3-theme">
+    <!--<li><a href="{{ site.baseurl }}/calendar">Calendar</a></li>-->
+    <li><a href="{{ site.baseurl }}/parents">Parents</a></li>
+    <li><a href="{{ site.baseurl }}/riders">Riders</a></li>
+    <li><a href="{{ site.baseurl }}/faq">FAQ's</a></li>
+    <li><a href="{{ site.baseurl }}/races">Races</a></li>
+    <li><a href="{{ site.baseurl }}/coaches">Coaches</a></li>
+    <li><a href="https://goo.gl/photos/YpAmTJrjciYyz6YK7">Photos</a><li>
+    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScSaBhR-IExv9IegCc4d8l2m8VLGucKxmbjzy1GPpAXHpPUFA/viewform">Join</a><li>
+  </ul>
+</div>
 
-  {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta property="twitter:title" content="{{ page.title }}" />
-  {% endif %}
+<!-- Script for the side navagation -->
+<script>
+function w3_open() {
+    var x = document.getElementById("mySidenav");
+    x.style.width = "300px";
+    x.style.textAlign = "center";
+    x.style.fontSize = "40px";
+    x.style.paddingTop = "10%";
+    x.style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidenav").style.display = "none";
+}
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+// Used to toggle the menu on smaller screens when clicking on the menu button
+function openNav() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
 
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-</head>
+</header>

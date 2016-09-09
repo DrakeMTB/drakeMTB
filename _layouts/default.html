@@ -1,49 +1,19 @@
 <!DOCTYPE html>
 <html>
 
-  {% include header.html %}
+  {% include head.html %}
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <a href="//www.norcalmtb.org"><img src="{{ site.baseurl }}/images/norcal.png" class="norcal" /></a>
-          <a href="//www.nationalmtb.org"><img src="{{ site.baseurl }}/images/NICA-Logo.jpg" /></a>
-
-          <nav>
-            <a href="{{ site.baseurl }}/riders">Parents+Riders</a>
-			      <a href="{{ site.baseurl }}/races">Race+Travel</a>
-		        <a href="{{ site.baseurl }}/news">News</a>
-		        <a href="{{ site.baseurl }}/coaches">Coaches</a>
-			      <a href="{{ site.baseurl }}/sponsors">Sponsors</a>
-			      <a href="{{ site.baseurl }}/links">Forms+Links</a>
-				    <a href="https://goo.gl/photos/YpAmTJrjciYyz6YK7">Photos</a>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScSaBhR-IExv9IegCc4d8l2m8VLGucKxmbjzy1GPpAXHpPUFA/viewform">Join</a>
-          </nav>
-        </header>
-      </div>
+  {% include header.html %}
+    <div class="w3-container">
+        {{ content }}
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+    {% include footer.html %}
 
     {% include analytics.html %}
 
   </body>
+
 </html>
