@@ -5,6 +5,8 @@ permalink: /riders/
 ---
 # Riders
 
+![deer park first team meeting]({{site.baseurl}}/images/deerpark.jpg)
+
 [Team Calendar]({{site.baseurl}}/calendar)
 
 [Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)

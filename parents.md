@@ -5,6 +5,8 @@ permalink: /parents/
 ---
 # Parents
 
+![pic of parents and riders]({{site.baseurl}}/images/parents-riders.jpg)
+
 Being a mountain bike parent can be an amazing way to connect with other parents and Riders on the team.  Our goal is to help families and Riders have the most efficient and rewarding Drake MTB experience.  There are mandatory administrative items and fees for getting your Rider on the team, but beyond that parents can choose the level of time and resource commitments that match what their family can support throughout the season.  For questions that we do not address below, please contact <DrakeMTBParents@gmail.com>.
 
 The Drake Mountain Bike Team is a club sport, which means that the team cannot function without volunteer labor and support, most of which comes from you, the Parents.  At a minimum, **we ask that parents do the following:**

@@ -11,6 +11,8 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Marya Smith
 
+![Marya]({{site.basurl}}/images/marya_captain.jpg)
+
 My name is **Marya Smith** and I will be a Senior this year at Drake! This will be my second year as a varsity rider.
 
 Growing up at the foot of Mt. Tam and Fairfax, I couldn’t wait to get my bike on the mountain from the second I took off the training wheels. Growing up just riding with my dad and then going to bike camps in the summer I was eager to start up on the team when I got to Drake. Even while being a little hesitant and nervous about the racing in the beginning, I decided why not be different and try something new! (Also the sport was in desperate need of some girl power).
@@ -22,6 +24,8 @@ As a captain, I strive to serve as a role model to younger riders (especially fo
 Mountain biking is not only an awesome group of kids but an even better sport that encompasses both my love for the outdoors, being active, and chit chatting away with my friends! Biking will forever be a part of my life and I can't wait to see where it takes me! Go pirates!
 
 #### Walden Reed
+
+![Walden]({{site.basurl}}/images/walden_captain.jpg)
 
 My name is **Walden Reed** and I am a Senior and Varsity Rider.
 When I moved to California at the beginning of freshman year I wanted to become a mountain biker. I love airplanes and things that move fast... I really like going fast. Over the last 3 years of biking, I worked hard and became fast on a bike. I don't talk much, but I like helping others, so please reach out to me if you have any questions :)
