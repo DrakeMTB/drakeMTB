@@ -9,26 +9,45 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 ## The following individuals are currently Captains for the Drake MTB team:
 
-#### Marya Smith
+#### Hannah Childress
 
-![Marya]({{site.basurl}}/images/marya_captain.jpg)
+![Hannah]({{site.basurl}}/images/hannah_captain.jpg)
 
-My name is **Marya Smith** and I will be a Senior this year at Drake! This will be my second year as a varsity rider.
+The Drake Mountain Bike Team is a very big part of my life and I want to make sure that all the people coming into the team feel like I did when I joined. I want to make sure that everybody feels welcomed and everybody is comfortable in a place where they are going to be pushed.
 
-Growing up at the foot of Mt. Tam and Fairfax, I couldn’t wait to get my bike on the mountain from the second I took off the training wheels. Growing up just riding with my dad and then going to bike camps in the summer I was eager to start up on the team when I got to Drake. Even while being a little hesitant and nervous about the racing in the beginning, I decided why not be different and try something new! (Also the sport was in desperate need of some girl power).
+The thing I love the most about the Drake mountain biking team is that everyone is so supportive of each other. I have always thought of this team as a family, and hope to help new Riders feel that way too.
 
-Over the years I have grown to become a more skilled rider as well as develop a strong understanding of the team and our strengths and weaknesses as a whole.
+I think that a great team captain needs to be able to support everyone and understand that they are not only there to be their friend, but also their teacher. 
 
-As a captain, I strive to serve as a role model to younger riders (especially for the small number of girls on the team!) and help build a strong and supportive community that motivates and encourages riders to work hard at practice and races but also have lots and lots of fun!
 
-Mountain biking is not only an awesome group of kids but an even better sport that encompasses both my love for the outdoors, being active, and chit chatting away with my friends! Biking will forever be a part of my life and I can't wait to see where it takes me! Go pirates!
+#### Ronan Goulden
 
-#### Walden Reed
+![Ronan]({{site.basurl}}/images/ronan_captain.jpg)
 
-![Walden]({{site.basurl}}/images/walden_captain.jpg)
+Hey! My name is Ronan Goulden and I am a junior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates! #### Ronan Goulden
 
-My name is **Walden Reed** and I am a Senior and Varsity Rider.
-When I moved to California at the beginning of freshman year I wanted to become a mountain biker. I love airplanes and things that move fast... I really like going fast. Over the last 3 years of biking, I worked hard and became fast on a bike. I don't talk much, but I like helping others, so please reach out to me if you have any questions :)
+
+#### Alec Levy O’Brien
+
+![Alec]({{site.basurl}}/images/alec_captain.jpg)
+
+Howdy all! My name is Alec Levy-O’Brien, and I am a senior at Drake! Since the age of seven, I have been very active as a cyclist. Growing up in Marin County has been a privilege, with picturesque trails, roads, and paths providing endless opportunities to ride. I could not have asked for a better place to live. When I entered high school, I did not intend on joining the team, as I was deeply involved with road cycling at the time and was partaking in charity endurance road rides. But since I have, I have been able to create bonds and friendships that will last a lifetime, as well as harness the skills I will need to further my cycling prowess. I have been racing for three years now and I am excited to race with all of you in my fourth season. I have come to enjoy all sorts of cycling disciplines including track cycling, road cycling, XC, as well as enduro and downhill as well. As team captain, I hope to be a strong voice in the cycling community to better our public image, open new trails, and help you improve your riding in any way I can. Don’t be afraid to talk to me, I usually don’t bite. See you all soon!
+
+
+#### Elise Nicol
+
+![Elise]({{site.basurl}}/images/elise_captain.jpg)
+
+Hi! I'm Elise. I'm a junior on the team this year racing JV for the first time! When I (reluctantly) signed up for mountain biking freshman year, I had no idea how much I would grow to love the people, places, and things we do together. I didn't used to be athletic, but I learned that I'm very competitive and I can use that to help me go fast. Mountain biking is a great opportunity to get out and see the beautiful areas of marin and California. I love cheering teammates on from hammocks suspended in trees, breathlessly racing to the top of Loma Alta, team dinners and playing cards against humanity in hotel rooms, and running up to the top tier of the podium with everyone. My goal as a captain is to help everyone feel the same joy and pride as I do. Drake mountain biking means so much to me and I hope that I can share that love with everyone on the team! Please ask me anything or let me know if I can help. Roll pirates!
+
+
+#### Lily Willis
+
+![Lily]({{site.basurl}}/images/lily_captain.jpg)
+
+Good day. My name is Lily Willis. I am told my name has too many "L's" and too many "I's". I also respond to "Howdy Butt" (it's a bike team thing, ask me about it), "the loud one", "Willy Lillis", and sometimes "Hermione". I am passionate about many things, but Drake MTB is at the top of my list. Other things I am passionate about include laughing, books, people, and the ocean.
+It is my dream that as captain I will support every rider all that I can. This team has meant so much to me, and I hope I can show you exactly what I'm talking about.
+
 
 **Drake Captains** also meet a stringent set of **requirements** above and beyond showing up to team practices and races:
 
