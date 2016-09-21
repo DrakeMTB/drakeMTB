@@ -13,11 +13,8 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 ![Hannah]({{site.basurl}}/images/hannah_captain.jpg)
 
-The Drake Mountain Bike Team is a very big part of my life and I want to make sure that all the people coming into the team feel like I did when I joined. I want to make sure that everybody feels welcomed and everybody is comfortable in a place where they are going to be pushed.
-
-The thing I love the most about the Drake mountain biking team is that everyone is so supportive of each other. I have always thought of this team as a family, and hope to help new Riders feel that way too.
-
-I think that a great team captain needs to be able to support everyone and understand that they are not only there to be their friend, but also their teacher. 
+Hey everyone! 
+My name is Hannah Childress and I am a senior riding Varsity this year. I am so excited to meet everyone and get together to share one common interest, the love of mountain biking! I want all of you to know that it doesn't matter how long you have been riding, or what bike you have, or what shoes you wear, it's all about your attitude on the bike. This has always been something really important to the  Drake MTB Team, because we know that this can affect the way you and lots of the people around you ride. This year my goal is to make sure that everyone knows that they have a place on the team (and to learn everyone's names) Feel free to contact me anytime with questions, concerns or especially if you want to go on a ride! hg.childress@gmail.com It's gonna be a rad year! Go Pirates!
 
 
 #### Ronan Goulden
