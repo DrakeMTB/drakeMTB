@@ -30,13 +30,13 @@ The co-head coaches are involved with every aspect of the team, but have primary
 
 ###### Coach Otis Guy
 
-![Otis]({{site.basurl}}/images/otis_coach.jpg)
+![Otis](../images/Otis-Guy.jpg)
 
 ###### Coach Rob Reed
 
-![Rob]({{site.basurl}}/images/rob_coach.jpg)
+![Rob](../images/rob-reed.jpg)
 
- 
+
 
 **Five Assistant Coaches**  
 Like the head coaches, assistant coaches tend to be involved with every aspect of the team.  They are most important, however, in helping the head coaches with the following:
@@ -50,13 +50,13 @@ As the name suggests, Ride Leaders are strong adult mountain bikers who work wit
 
 ###### Ride Leader Alexis White
 
-![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
+![Alexis](../images/alexis_ride.jpg)
 
-I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride! 
+I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride!
 
 ###### Ride Leader Chris Enbom
 
-![Chris E]({{site.basurl}}/images/chris_ride.jpg)
+![Chris E](../images/chris_ride.jpg)
 
 I started riding after Margot and my oldest son Ben decided to ride for Drake 5 years ago.  I knew Otis from surfing...I even had been on a couple trips to Mexico with him.  Little did I know how much he was a part of biking!  I now love biking just like the kids, and I have given up my role as co President of the parent club for an equally satisfying "career" with the team.  Riding with a bunch of amazing kids, watching the grow more confident throughout the year, and watching them get really strong!  I have a wife (Margot), a son in college (Ben), a senior (eric) and a 7th grader (annie) and I run a commercial equipment finance company.
 
