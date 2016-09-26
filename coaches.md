@@ -28,6 +28,16 @@ The co-head coaches are involved with every aspect of the team, but have primary
  * Work with [Norcal](http://www.norcalmtb.org/) on race scheduling and race-day logistics
  * Organize team workouts at sponsors [Pelo](https://www.pelofitness.com/) and [Marin Power Yoga](http://marinpoweryoga.com/)
 
+###### Coach Otis Guy
+
+![Otis]({{site.basurl}}/images/otis_coach.jpg)
+
+###### Coach Rob Reed
+
+![Rob]({{site.basurl}}/images/rob_coach.jpg)
+
+ 
+
 **Five Assistant Coaches**  
 Like the head coaches, assistant coaches tend to be involved with every aspect of the team.  They are most important, however, in helping the head coaches with the following:
 
@@ -37,6 +47,20 @@ Like the head coaches, assistant coaches tend to be involved with every aspect o
 
 **Seven Ride Leaders**  
 As the name suggests, Ride Leaders are strong adult mountain bikers who work with the coaches to make sure that team rides are safe, organized, challenging, and fun.  Each group of riders that goes on a team ride has at least one Ride Leader at the front and one Ride Leader at the back (aka “Sweep”) so that no riders within a specific group are without immediate assistance in the event of injury or confusion as to ride route.  All Ride Leaders have been trained in Wilderness First Aid, CPR, and concussion identification.  At the end of every team ride, Ride Leaders let the head coaches know that all riders have completed the ride and made it back home (or to Deer Park) safely.
+
+###### Ride Leader Alexis White
+
+![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
+
+I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride! 
+
+###### Ride Leader Chris Enbom
+
+![Chris E]({{site.basurl}}/images/chris_ride.jpg)
+
+I started riding after Margot and my oldest son Ben decided to ride for Drake 5 years ago.  I knew Otis from surfing...I even had been on a couple trips to Mexico with him.  Little did I know how much he was a part of biking!  I now love biking just like the kids, and I have given up my role as co President of the parent club for an equally satisfying "career" with the team.  Riding with a bunch of amazing kids, watching the grow more confident throughout the year, and watching them get really strong!  I have a wife (Margot), a son in college (Ben), a senior (eric) and a 7th grader (annie) and I run a commercial equipment finance company.
+
+
 
 **Three Team Mechanics in the Pit Zone during races**  
 Mountain bikes are complex mechanical devices with many points of failure.  Riders put in long hours of training to prepare for races, and mechanical failures can put their personal safety at risk.  One of the best ways to minimize this risk is to train your Rider to know his her bike inside and out; as a back-up to that, the Drake team is extremely fortunate to have three team mechanics that check every single Rider’s bike in detail just before every race.  In the pre-race Pit Zone, the Drake team has seen last-minute drivetrain replacements, wheel swaps, brake change-outs, shock servicing, and a host of other complex issues addressed under great time pressure to keep the Riders ready to race.  The Mechanic’s Area of the Pit Zone is an amazing place, and staffed by bike mechanics with more than 60 years of wrenching… and more than 100 years of very entertaining bicycling-related stories.  Please encourage your Rider to treat them with the highest level of gratitude – they, too, are adult volunteers and do their jobs for altruistic reasons, and a single fussy or impatient rider who does not know his or her bike can wipe the smile off of a Mechanic’s face.

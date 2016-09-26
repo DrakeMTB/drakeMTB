@@ -7,7 +7,13 @@ permalink: /riders/
 
 ![deer park first team meeting]({{site.baseurl}}/images/deerpark.jpg)
 
-[Team Calendar]({{site.baseurl}}/calendar)
+[Eligilibility requirements for Riders]({{site.baseurl}}/eligibility)
+
+[What you need to know for Team Rides]({{site.baseurl}}/practices)
+
+[Estimate of annual Team expenses]({{site.baseurl}}/expenses)
+
+[Team Ride and Activities Calendar]({{site.baseurl}}/calendar)
 
 [Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)
 
