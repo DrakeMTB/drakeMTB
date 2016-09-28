@@ -66,7 +66,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 
 #### Co-Head Coach Otis Guy
 
-![Otis]({{site.basurl}}/images/otis_coach.jpg)
+![Otis]({{site.basurl}}/images/Otis-Guy.jpg)
 
 Otis started riding mountain bikes in 1973 with Joe Breeze and Marc Vendetti. They first rode single speed pre-WWII Schwinns all over Mt. Tam. They later progressed to adding gears to old frames until Joe began building new frames in 1978. Otis started building frames in 1982 under his own name. He’s the only person to have raced the first Repack downhill mountain bike race (just outside Fairfax), the first Mountain Bike National Championships (1983), and the first Mountain Bike World Championships (1990). He holds the record for third fastest time ever on Repack, and won the event once. For 15 years he had his own race team (1985-2000). Otis was inducted into the Mountain Bike Hall of Fame in 1993. Otis is also a Paramedic and worked for the Ross Valley Fire Service from 1975 to 2007. In the summer Otis runs the [Otis Guy Mountain Bike camp][id] for 7-13 year olds. This camp has helped fill out the rosters in many of the local high schools. More importantly has given the spark of cycling to many kids. He is a certified EMS, Wilderness First Aid and First Aid instructor. Otis is one of the founding board members of the Marin Museum of Bicycling and the Mountain Bike Hall of fame located at 1966 SFD Blvd. in Fairfax [id]:http://www.otisguymountainbikecamp.com/
 His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling graduated from Drake in 2015 and is now racing on a MTB scholarship from Warren Wilson College in Ashville, North Carolina. His youngest son Marcus is now a Sophomore at Drake and rides on the MTB team. DrakeMTBCoaches@gmail.com
@@ -74,25 +74,25 @@ His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling gr
 
 #### Co-Head Coach Rob Reed
 
-![Rob]({{site.basurl}}/images/rob_coach.jpg)
+![Rob]({{site.basurl}}/images/rob-reed.jpg)
 
  Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last three years, and this year is delighted to work with Otis on the coaching staff.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob works in San Francisco and commutes into the city, and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
  
 #### Assistant Coach Scott Samet
 
-![scott](../images/scott.jpg)
+![scott](../images/samet-coach.JPG)
 
 Growing up in Fairfax, the birthplace of mountain biking, I guess you could say I was destined to be a mountain biker. I lived only a few blocks away from Repack--the famed location of the world’s very first mountain bike races--and I will never forget the day as a young boy that I sat on my little BMX bike and watched in awe as the fat-tired founding fathers of mountain biking sped by me, dirty and grinning, on their prototype “clunkers”.  I was hooked immediately and have been passionately riding bikes on dirt ever since.  As an early mountain biking convert, and now the father of two boys, there is nothing I enjoy more than helping young riders catch the mountain bike bug.
 
 #### Ride Leader Alexis White
 
-![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
+![Alexis]({{site.basurl}}/images/alexis_ride.jpeg)
 
 I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride! 
 
 #### Ride Leader Chris Enbom
 
-![Chris E]({{site.basurl}}/images/chris_ride.jpg)
+![Chris E]({{site.basurl}}/images/chris_ride.JPG)
 
 I started riding after Margot and my oldest son Ben decided to ride for Drake 5 years ago.  I knew Otis from surfing...I even had been on a couple trips to Mexico with him.  Little did I know how much he was a part of biking!  I now love biking just like the kids, and I have given up my role as co President of the parent club for an equally satisfying "career" with the team.  Riding with a bunch of amazing kids, watching the grow more confident throughout the year, and watching them get really strong!  I have a wife (Margot), a son in college (Ben), a senior (eric) and a 7th grader (annie) and I run a commercial equipment finance company.
 
