@@ -78,11 +78,25 @@ His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling gr
 
  Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last three years, and this year is delighted to work with Otis on the coaching staff.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob works in San Francisco and commutes into the city, and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
  
+#### Assistant Coach Greg Murphy
+
+![greg](../images/murphy-coach.JPG)
+
+My son Conner joined the team as a freshman two years ago, and within weeks he was passing me on the way up Shaver Grade, heading into the Water District. He has developed a true love of mountain biking, and it has been a pleasure to watch.  I’m proud to be able to join him as ride leader and assistant coach. It is a pleasure to be a part of such a strong and determined group, and share in the development and success of all these kids.  We’re so fortunate to have Mt. Tam in our backyard and be able to explore it on bikes.  We live in the cradle of this sport here in Marin, and learning about the history of the sport has been fascinating to me.  I invite all parents to get involved in all elements of the team.  Come out and ride!
+
 #### Assistant Coach Scott Samet
 
 ![scott](../images/samet-coach.JPG)
 
 Growing up in Fairfax, the birthplace of mountain biking, I guess you could say I was destined to be a mountain biker. I lived only a few blocks away from Repack--the famed location of the world’s very first mountain bike races--and I will never forget the day as a young boy that I sat on my little BMX bike and watched in awe as the fat-tired founding fathers of mountain biking sped by me, dirty and grinning, on their prototype “clunkers”.  I was hooked immediately and have been passionately riding bikes on dirt ever since.  As an early mountain biking convert, and now the father of two boys, there is nothing I enjoy more than helping young riders catch the mountain bike bug.
+
+#### Assistant Coach Pete Sutherland
+
+![scott](../images/pete-coach.JPG)
+
+I’m Pete. I am a parent, ride leader, and assistant coach. Although I have owned a mountain bike for 20+ years, I feel that I have really started Mountain Biking in the last 5 years with my family. The connections I have made over the last two years helping with the team and riding with such a great group of riders are ones that I cherish. I am eager to support the team this year in helping each rider connect with the Drake MTB community at the place where mountain biking speaks to them. 
+
+
 
 #### Ride Leader Alexis White
 
