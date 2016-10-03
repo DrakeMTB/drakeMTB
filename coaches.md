@@ -91,10 +91,15 @@ Growing up in Fairfax, the birthplace of mountain biking, I guess you could say 
 
 #### Assistant Coach Pete Sutherland
 
-![scott](../images/pete-coach.jpeg)
+![pete](../images/pete-coach.jpeg)
 
 I’m Pete. I am a parent, ride leader, and assistant coach. Although I have owned a mountain bike for 20+ years, I feel that I have really started Mountain Biking in the last 5 years with my family. The connections I have made over the last two years helping with the team and riding with such a great group of riders are ones that I cherish. I am eager to support the team this year in helping each rider connect with the Drake MTB community at the place where mountain biking speaks to them. 
 
+#### Assistant Coach Phillip Swett
+
+![phillip](../images/phillip-coach.jpeg)
+
+[bio in process] 
 
 
 #### Ride Leader Alexis White
