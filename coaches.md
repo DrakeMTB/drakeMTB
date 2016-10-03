@@ -99,7 +99,7 @@ I’m Pete. I am a parent, ride leader, and assistant coach. Although I have own
 
 #### Ride Leader Alexis White
 
-![Alexis]({{site.basurl}}/images/alexis_ride.jpeg)
+![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
 
 I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride! 
 
@@ -130,6 +130,6 @@ Joe helps keep the teams gears running smoothly. He also happens to be one of th
 
 #### Team Mechanic Tony Merz
 
-![tonymerz](../images/tony-merz.jpg)
+![tonymerz](../images/tony-mech.jpg)
 
 Tony is a lifelong Fairfaxian who has ridden and raced almost all his life. The Drake High graduate married his Redwood High sweetheart and they have raised two great kids, one of whom was a captain on the Drake MTB team (Noah). He’s a big part of the cycling community as shop manager at Sunshine Bikes in Fairfax (25 years) and also has worked at WTB, White Industries and the original Fisher Mountain Bikes. Tony is proud to wrench for the team racers both at Sunshine and volunteering at races and has enjoyed supporting Drake MTB in their recent seasons!
