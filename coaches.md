@@ -85,7 +85,7 @@ My son Conner joined the team as a freshman two years ago, and within weeks he w
 
 #### Assistant Coach Scott Samet
 
-![scott](../images/samet-coach.jpg)
+![scott](../images/samet-coach.JPG)
 
 Growing up in Fairfax, the birthplace of mountain biking, I guess you could say I was destined to be a mountain biker. I lived only a few blocks away from Repack--the famed location of the world’s very first mountain bike races--and I will never forget the day as a young boy that I sat on my little BMX bike and watched in awe as the fat-tired founding fathers of mountain biking sped by me, dirty and grinning, on their prototype “clunkers”.  I was hooked immediately and have been passionately riding bikes on dirt ever since.  As an early mountain biking convert, and now the father of two boys, there is nothing I enjoy more than helping young riders catch the mountain bike bug.
 
