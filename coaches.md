@@ -95,6 +95,12 @@ Growing up in Fairfax, the birthplace of mountain biking, I guess you could say 
 
 I’m Pete. I am a parent, ride leader, and assistant coach. Although I have owned a mountain bike for 20+ years, I feel that I have really started Mountain Biking in the last 5 years with my family. The connections I have made over the last two years helping with the team and riding with such a great group of riders are ones that I cherish. I am eager to support the team this year in helping each rider connect with the Drake MTB community at the place where mountain biking speaks to them. 
 
+#### Assistant Coach Philip Swett
+
+![philip](../images/philip-coach.jpg)
+
+I'm thrilled to be helping out the team this year as an assistant coach for the Drake MTB team.  My son Logan joined the team as a freshman in the 2016 season and brought me along as a willing and enthusiastic parent rider.  Logan has helped get me out on the trails of Marin since he was 6 years old and we would go out and back on the Shoreline Trail at China Camp, and NOT make it all the way from Deer Park to 5 Corners.  Times have certainly changed in that respect! The grit and determination that the kids on the Mountain Bike team display on the training rides and races is incredible and it's endlessly inspiring to watch. I'm thankful for all the work that all the parents and volunteers put into making this organization work so well and I look forward to another great season for the Drake MTB team.   
+
 #### Ride Leader Alexis White
 
 ![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
@@ -118,12 +124,6 @@ Hi, I'm Alec's mom, who is a Senior this year. I will be supporting the team as 
 ![charlie simpson](../images/Charlie_Simpson.jpg)
 
 Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
-
-#### Assistant Coach Phillip Swett
-
-![phillip](../images/phillip-coach.jpeg)
-
-[bio in process] 
 
 #### Team Mechanic Eric Brandt
 
