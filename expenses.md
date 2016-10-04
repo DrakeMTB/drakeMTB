@@ -7,7 +7,7 @@ permalink: /expenses/
 Mountain biking is a resource-intensive sport.  The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel.  The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform).
 
 Item	  | Cost
-------------- | -------------
+-----------| ----------
 Team Dues  | 350
 Bicycle  | 1,500
 Bicycle upkeep  | 350
