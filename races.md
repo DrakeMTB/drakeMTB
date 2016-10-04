@@ -4,6 +4,10 @@ title: Race and travel
 permalink: /races/
 ---
 
+## [Tentative Race Schedule for 2017 Season](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
+
+*******
+
 ## [What Does a typical Race Day Look Like?]({{site.baseurl}}/raceday)
 
 *******
