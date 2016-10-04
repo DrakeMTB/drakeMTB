@@ -95,13 +95,6 @@ Growing up in Fairfax, the birthplace of mountain biking, I guess you could say 
 
 I’m Pete. I am a parent, ride leader, and assistant coach. Although I have owned a mountain bike for 20+ years, I feel that I have really started Mountain Biking in the last 5 years with my family. The connections I have made over the last two years helping with the team and riding with such a great group of riders are ones that I cherish. I am eager to support the team this year in helping each rider connect with the Drake MTB community at the place where mountain biking speaks to them. 
 
-#### Assistant Coach Phillip Swett
-
-![phillip](../images/phillip-coach.jpeg)
-
-[bio in process] 
-
-
 #### Ride Leader Alexis White
 
 ![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
@@ -114,12 +107,23 @@ I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team
 
 I started riding after Margot and my oldest son Ben decided to ride for Drake 5 years ago.  I knew Otis from surfing...I even had been on a couple trips to Mexico with him.  Little did I know how much he was a part of biking!  I now love biking just like the kids, and I have given up my role as co President of the parent club for an equally satisfying "career" with the team.  Riding with a bunch of amazing kids, watching the grow more confident throughout the year, and watching them get really strong!  I have a wife (Margot), a son in college (Ben), a senior (eric) and a 7th grader (annie) and I run a commercial equipment finance company.
 
+#### Ride Leader Stephanie O'Brien
+
+![Stephanie O]({{site.basurl}}/images/obrien_ride.JPG)
+
+Hi, I'm Alec's mom, who is a Senior this year. I will be supporting the team as a ride leader, mainly to make everyone else look good! I've been a road rider for 30+ years, and will be doing my best to keep up with all the incredibly strong and enthusiastic Pirates as they conquer the trails of Marin and beyond. 
+
 #### Ride Leader Charlie Simpson
 
 ![charlie simpson](../images/Charlie_Simpson.jpg)
 
 Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
 
+#### Assistant Coach Phillip Swett
+
+![phillip](../images/phillip-coach.jpeg)
+
+[bio in process] 
 
 #### Team Mechanic Eric Brandt
 
