@@ -12,8 +12,6 @@ permalink: /races/
 
 *******
 
-## Race Day Info [HERE]({{site.baseurl}}/raceday)
-
 ## Where to Stay... (Don't forget to book early) [Coming Soon](http://google.com)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/what_to_bring.jpg)  
