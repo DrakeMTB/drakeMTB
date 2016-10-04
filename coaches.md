@@ -77,6 +77,12 @@ His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling gr
 
  Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last three years, and this year is delighted to work with Otis on the coaching staff.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob works in San Francisco and commutes into the city, and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
  
+#### Assistant Coach Chris Kenton
+
+![chris-k](../images/kenton-coach.JPG)
+
+I'm Chris, aka Tommy's dad. I grew up in Sunnyvale, riding BMX bikes in the golden age of anodized alloy. Linda and I moved to Cascade in autumn of 1999, just in time to see the annual Appetite Seminar parade down our street. I was out raking leaves before our Thanksgiving guests arrived, watching hundreds of mountain bikers stream past. The next day I bought my first mountain bike to find out what I was missing and never looked back. I've learned more about myself from mountain biking than almost any other pursuit. The mental, physical and technical challenges never get old—and neither do the rewards of fresh air, adrenaline and alpine views. Unlike a lot of sports that you have to put on a shelf sooner or later, mountain biking is a life-long ride. I couldn't be happier sharing it with such a dedicated and passionate group of people. 
+
 #### Assistant Coach Greg Murphy
 
 ![greg](../images/murphy-coach.jpg)
