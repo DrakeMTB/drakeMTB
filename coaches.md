@@ -109,7 +109,7 @@ I started riding after Margot and my oldest son Ben decided to ride for Drake 5 
 
 #### Ride Leader Stephanie O'Brien
 
-![Stephanie O]({{site.basurl}}/images/obrien_ride.JPG)
+![Stephanie O]({{site.basurl}}/images/obrien_ride2.JPG)
 
 Hi, I'm Alec's mom, who is a Senior this year. I will be supporting the team as a ride leader, mainly to make everyone else look good! I've been a road rider for 30+ years, and will be doing my best to keep up with all the incredibly strong and enthusiastic Pirates as they conquer the trails of Marin and beyond. 
 
