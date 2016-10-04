@@ -79,7 +79,7 @@ His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling gr
  
 #### Assistant Coach Chris Kenton
 
-![chris-k](../images/kenton-coach.JPG)
+![chris-k](../images/kenton-coach.jpg)
 
 I'm Chris, aka Tommy's dad. I grew up in Sunnyvale, riding BMX bikes in the golden age of anodized alloy. Linda and I moved to Cascade in autumn of 1999, just in time to see the annual Appetite Seminar parade down our street. I was out raking leaves before our Thanksgiving guests arrived, watching hundreds of mountain bikers stream past. The next day I bought my first mountain bike to find out what I was missing and never looked back. I've learned more about myself from mountain biking than almost any other pursuit. The mental, physical and technical challenges never get old—and neither do the rewards of fresh air, adrenaline and alpine views. Unlike a lot of sports that you have to put on a shelf sooner or later, mountain biking is a life-long ride. I couldn't be happier sharing it with such a dedicated and passionate group of people. 
 
