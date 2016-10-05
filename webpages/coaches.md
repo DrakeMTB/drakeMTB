@@ -109,7 +109,7 @@ I'm thrilled to be helping out the team this year as an assistant coach for the 
 
 #### Ride Leader Alexis White
 
-![Alexis]({{site.basurl}}/images/alexis_ride.jpg)
+![Alexis]({{site.basurl}}/images/alexis_ride.JPG)
 
 I’m Alexis. I am a parent, ride leader, and co-president of the Drake MTB team. I love mountain biking, since getting dirty is way more fun than staying clean. I’ve been riding a long time, and I have lots of different kinds of experience in training, racing and race support. I love the Drake team, the coaches, riders and families form one big family, and I love being a part of that incredible energy. You can find me in the pit zone and feed zone at races, organizing behind the scenes throughout the year, and on rides with the Drake riders. I also love getting women out riding, so you will see my name attached to the Drake Diva invitations to the moms of Drake riders. Come on out and ride!
 
