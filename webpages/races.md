@@ -20,6 +20,8 @@ permalink: /races/
 
 ## Volunteer Sign Up Sheet [Coming Soon](http://google.com)  
 
+## Food Sign Up Sheet [Coming Soon](http://google.com)  
+
 # Race Day schedules
 
  * Varsity Girls [Coming Soon](http://google.com)
