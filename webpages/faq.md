@@ -3,7 +3,7 @@ layout: page
 title: Frequently Asked Questions
 permalink: /faq/
 ---
-# FAQ's
+# FAQs
 
 **What is the training like?**  
 The training starts out gradual in the late fall and increases in duration and intensity until around March or April when the duration steadies. We create a training schedule for student athletes to be in peak performance shape at the championship races, and the details can be seen on the [Team Calendar]({{site.baseurl}}/calendar).
