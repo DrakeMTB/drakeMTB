@@ -4,12 +4,7 @@ title: Race and travel
 permalink: /races/
 ---
 
-<div class="w3-display-container w3-animate-opacity">
-  <img class="testimg" src="images/states_2016.JPG" alt="Podium! States 2016" style="width:75%;height:75%;">
-  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-    <button onclick="document.getElementById('id01').style.display='block'" class="w3-btn w3-xlarge w3-theme w3-hover-teal" title="About the Drake MTB Team">Drake HS MTB 2015-16</button>
-  </div>
-</div>
+<img class="testimg" src="images/states_2016.JPG" alt="Podium! States 2016" style="width:75%;height:75%;">
 
 ## Tentative Race Schedule for 2017 Season 
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
