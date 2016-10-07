@@ -20,3 +20,5 @@ permalink: /contacts/
 <DrakeMTBScholarships@gmail.com> – Ask about the scholarship program
 
 <DrakeMTBWeb@gmail.com> - Submit questions or corrections for www.drakemtb.org
+
+Staff Emergency Contact Information
