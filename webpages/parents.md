@@ -11,15 +11,16 @@ Being a mountain bike parent can be an amazing way to connect with other parents
 
 The Drake Mountain Bike Team is a club sport, which means that the team cannot function without volunteer labor and support, most of which comes from you, the Parents.  At a minimum, **we ask that parents do the following:**
 
- * Take care of Mandatory Drake MTB forms and fees (see links and deadlines below)
- *  Assure that your Rider agrees to the Team Commitments and [Eligibility requirements]({{site.baseurl}}/eligibility),
- *  Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf).  
+* Take care of Mandatory Drake MTB forms and fees (see links and deadlines below)
+* Assure that your Rider agrees to the Team Commitments and [Eligibility requirements]({{site.baseurl}}/eligibility),
+* Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
+* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf).  
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
-|:------------- |:---------------:| -------------:|
+|:-------------|:---------------:| -------------:|
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
 | [Register for the Drake Team](https://docs.google.com/forms/d/e/1FAIpQLSeeRteOoGFZ9LBc6l9TrZnWuFevB70yp5xl9nxQIs3ugJve-w/viewform)     | Info the coaches and high school needs to let you participate in a club sport | October 15th |
 | Sign Tam District Release of Liability | Drake High School liability coverage |            October 15th |
@@ -50,6 +51,6 @@ Parent Committee meetings are schedule for the 1st Tuesday of the Month in the D
 The purpose of the meetings is to create an opportunity to share news about upcoming events, help plan for those events and get involved to help support team activities. All are welcome and encouraged to attend. We try to limit the meetings to one hour but you often see parents sticking around for a while after catching up with one another. Drake Mountain biking has been a powerhouse in cycling for the past 15 years because of our parents.  We are well organized, enthusiastic, friendly and involved.  We need a village to operate the club with fundraising, a couple parties, and the races (food, feed zones, cheering, video clips, etc). Hope you can make it!
 
 **Ride with the team on Sundays**
-Parents are invited to ride with the team on Sunday rides if they so choose.  We ask that such parents meet the same physical requirements [insert Eligibility link here], bike-ready requirements [insert FAQ link here], and wear-the-right-stuff requirements [insert what-to-wear link here] as the Riders.  In doing so, parents have the opportunity to spend time with their Rider while assisting Coaches and Ride Leaders with managing team rides [insert Practices link here].  Please reach out to <DrakeMTBCoaches@gmail.com> or <DrakeMTBRideLeaders@gmail.com> if you have any questions.
+Parents are invited to ride with the team on Sunday rides if they so choose.  We ask that such parents meet the same [physical requirements]({{site.baseurl}}/eligibility), [bike-ready requirements from the FAQs]({{site.baseurl}}/faq), and [wear-the-right-stuff requirements]({{site.baseurl}}/images/what_to_wear_v2.pdf) as the Riders.  In doing so, parents have the opportunity to spend time with their Rider while assisting Coaches and Ride Leaders with [managing team rides]({{site.baseurl}}/practices).  Please reach out to <DrakeMTBCoaches@gmail.com> or <DrakeMTBRideLeaders@gmail.com> if you have any questions.
 
 We are a **PEANUT-FREE TEAM**, so no foods with peanut ingredients or peanut-flavor energy bars. Please check ingredients of the foods you are bringing.
