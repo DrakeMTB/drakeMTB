@@ -4,7 +4,8 @@ title: Race and travel
 permalink: /races/
 ---
 
-## Tentative Race Schedule for 2017 Season (for most up-to-date information, check this [pdf link to Norcal site)](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
+## Tentative Race Schedule for 2017 Season 
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
 
 * Race #1 – February 25 & 26th
 * Race #2 – March 11 & 12th
