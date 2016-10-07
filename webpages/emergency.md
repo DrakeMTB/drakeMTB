@@ -5,8 +5,6 @@ permalink: /emergency/
 ---
 ## Emergency Contact Information
 
-##### Please use discretion before calling or texting coaches 
-
 |Title|Name|Cell phone number|
 |:----|:----|:----|
 |Team Director |Lynn Valdivia| 	 	415.302.0310|
