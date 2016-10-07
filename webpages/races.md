@@ -4,7 +4,7 @@ title: Race and travel
 permalink: /races/
 ---
 
-<img class="testimg" src="images/states_2016.JPG" alt="Podium! States 2016" style="width:75%;height:75%;">
+<img src="{{site.basurl}}/images/states_2016.JPG" alt="Podium! States 2016" style="width:75%;height:75%;">
 
 ## Tentative Race Schedule for 2017 Season 
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
