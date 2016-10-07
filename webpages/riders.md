@@ -9,12 +9,12 @@ permalink: /riders/
 
 ## What you need to know ##
 
-[Eligilibility requirements for Riders]({{site.baseurl}}/eligibility)
-[Team and Norcal League Rules]({{site.baseurl}}/rules)
-[How to prepare for team rides]({{site.baseurl}}/practices)
-[Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)
-[Know what to bring on a team ride]({{site.baseurl}}/images/what_to_bring.jpg)
-[Estimate of annual team expenses]({{site.baseurl}}/expenses)
+* [Eligilibility requirements for Riders]({{site.baseurl}}/eligibility)
+* [Team and Norcal League Rules]({{site.baseurl}}/rules)
+* [How to prepare for team rides]({{site.baseurl}}/practices)
+* [Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)
+* [Know what to bring on a team ride]({{site.baseurl}}/images/what_to_bring.jpg)
+* [Estimate of annual team expenses]({{site.baseurl}}/expenses)
 
 
 **Why we ride**  
