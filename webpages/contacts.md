@@ -5,7 +5,7 @@ permalink: /contacts/
 ---
 # Contact Us
 
-<DrakeMTBDivas@gmail.com> – Help us get more girls on bikes
+<DrakeMTBGirls@gmail.com> – Help us get more girls on bikes
 
 <DrakeMTBParents@gmail.com> – Submit comments or agenda items for Parent Committee meetings
 
