@@ -5,7 +5,7 @@ permalink: /emergency/
 ---
 ## Emergency Contact Information
 
-### Please use discretion before calling or texting coaches 
+##### Please use discretion before calling or texting coaches 
 
 |Title|Name|Cell phone number|
 |:----|:----|:----|
@@ -21,3 +21,4 @@ permalink: /emergency/
 | | | |
 |Parent co-President|Margot Enbom| 	415.699.8979|
 |Parent co-President|Alexis White| 	415.250.3030|
+||||
