@@ -21,4 +21,4 @@ permalink: /contacts/
 
 <DrakeMTBWeb@gmail.com> - Submit questions or corrections for www.drakemtb.org
 
-[Staff Emergency Contact Information] ({{site.baseurl}}/emergency)
+[Staff Emergency Contact Information]({{site.baseurl}}/emergency)
