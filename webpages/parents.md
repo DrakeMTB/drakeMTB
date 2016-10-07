@@ -15,7 +15,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 * Assure that your Rider meets the [Eligibility requirements]({{site.baseurl}}/eligibility)
 * Review and understand [Team and Norcal League Rules]({{site.baseurl}}/rules)
 * Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
-* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf).  
+* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg) 
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
