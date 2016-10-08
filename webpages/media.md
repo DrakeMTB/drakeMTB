@@ -11,7 +11,7 @@ permalink: /media/
 ### News Articles
 
 * [Drake honored by San Anselmo Mayor for second straight state championship (photo only)]({{site.baseurl}}/images/townhall_2016.jpg)
-* [Wyatt likes to ride his bike! MCBC feature article](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
+* [Wyatt likes to ride his bike! (MCBC feature article)](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
 
 ### Youtube Videos 
 
@@ -38,14 +38,14 @@ permalink: /media/
 ## Archives
 
 #### 2015
-* [Between the Lyons?](http://www.marinij.com/sports/20150512/prep-mountain-biking-lyons-trying-to-help-drake-get-back-on-top-at-state-race)
-* [Tails and Tires, horses and bikes!](http://www.marinij.com/article/NO/20150307/NEWS/150309851)
+* [Between the Lyons? (Marin IJ Sports)](http://www.marinij.com/sports/20150512/prep-mountain-biking-lyons-trying-to-help-drake-get-back-on-top-at-state-race)
+* [Tails and Tires, horses and bikes! (Marin IJ News)](http://www.marinij.com/article/NO/20150307/NEWS/150309851)
 
 #### 2014
 * [They are polite, humble and hardworking (Sports Illustrated)](http://www.si.com/edge/2014/03/30/drake-highs-mountain-biking-dynasty)
-* [The Amazing Stanleys... aka, "Singletrack High", the documentary](https://vimeo.com/95958080)
+* [The Amazing Stanleys... aka, "Singletrack High", the documentary (Vimeo)](https://vimeo.com/95958080)
 
 #### 2013
-* [Fast Times at Single Track High](http://www.outsideonline.com/1918441/fast-times-singletrack-high)
+* [Fast Times at Single Track High (Outside Magazine)](http://www.outsideonline.com/1918441/fast-times-singletrack-high)
 
 
