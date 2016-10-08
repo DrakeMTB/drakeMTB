@@ -41,6 +41,9 @@ permalink: /media/
 * [Between the Lyons?](http://www.marinij.com/sports/20150512/prep-mountain-biking-lyons-trying-to-help-drake-get-back-on-top-at-state-race)
 * [Tails and Tires, horses and bikes!](http://www.marinij.com/article/NO/20150307/NEWS/150309851)
 
+#### 2014
+* [They are polite, humble and hardworking (Sports Illustrated)](http://www.si.com/edge/2014/03/30/drake-highs-mountain-biking-dynasty)
+
 #### 2013
 * [Fast Times at Single Track High](http://www.outsideonline.com/1918441/fast-times-singletrack-high)
 
