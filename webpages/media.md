@@ -7,7 +7,7 @@ permalink: /media/
 ## Drake MTB on the Web and In the News 2016
 
 * [Drake honored by San Anselmo Mayor for second straight state championship (photo only)]({{site.baseurl}}/images/townhall_2016.jpg)
-* [Wyatt likes to ride his bike](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
+* [Wyatt likes to ride his bike! MCBC feature article](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
 
 ## Youtube Videos 
 
