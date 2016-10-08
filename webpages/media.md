@@ -6,7 +6,7 @@ permalink: /media/
 
 ## Drake MTB on the Web and In the News
 
-* [Drake honored by San Anselmo Mayor for second straight state championship]({{site.baseurl}}/images/townhall_2016.JPG)
+* [Drake honored by San Anselmo Mayor for second straight state championship]({{site.baseurl}}/images/townhall_2016.jpg)
 * Wyatt Micellin in 
 * Otis Guy in 
 
