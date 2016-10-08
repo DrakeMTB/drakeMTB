@@ -11,6 +11,7 @@ permalink: /media/
 ### News Articles
 
 * [Drake honored by San Anselmo Mayor for second straight state championship (photo only)]({{site.baseurl}}/images/townhall_2016.jpg)
+* [Drake wins 2016 Norcal championship (Marin IJ Sports)](http://www.marinij.com/sports/20160508/marin-briefs-drake-claims-norcal-mountain-biking-championship)
 * [Wyatt likes to ride his bike! (MCBC feature article)](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
 
 ### Youtube Videos 
