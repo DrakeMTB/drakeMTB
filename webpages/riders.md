@@ -5,7 +5,7 @@ permalink: /riders/
 ---
 # Riders
 
-![deer park first team meeting]({{site.baseurl}}/images/deerpark.jpg)
+![heading out on the team ride]({{site.baseurl}}/images/riders.jpg)
 
 ## What you need to know ##
 
