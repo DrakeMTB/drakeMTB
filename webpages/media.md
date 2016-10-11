@@ -6,6 +6,8 @@ permalink: /media/
 
 # Drake MTB on the Web and In the News 
 
+![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
+
 ## 2016
 
 ### News Articles
