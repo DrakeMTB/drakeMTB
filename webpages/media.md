@@ -33,10 +33,11 @@ permalink: /media/
  * [Drake Sophomore Boys  This tight group of friends knows how to ride with a smile at Granite Bay 2016](https://www.youtube.com/watch?v=jVMlhFWBko0)
  * [JV and Varsity boys talk about longer races at Petaluma 2016…](https://www.youtube.com/watch?v=moe36leZhhk)  #sufferfest!
 
+![best finish of the year]({{site.baseurl}}/images/race_finish.JPG)
+
 ### Public Photo Sharing Site
 
 [Drake 2016 Google photos (look for your friends! embarass your parents!)](https://goo.gl/photos/YpAmTJrjciYyz6YK7)
-![best finish of the year]({{site.baseurl}}/images/race_finish.JPG)
 
 
 ## Archives
