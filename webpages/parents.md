@@ -23,7 +23,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
-||||
+|-------|-------|---------|
 | [Register for the Drake Team](https://docs.google.com/forms/d/e/1FAIpQLSeeRteOoGFZ9LBc6l9TrZnWuFevB70yp5xl9nxQIs3ugJve-w/viewform)     | Info the coaches and high school needs to let you participate in a club sport | October 15th |
 | Sign Tam District Release of Liability | Drake High School liability coverage |            October 15th |
 | [Submit School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | The Document that Drake High School REQUIRES for folks who drive to weekend races | October 15th |
