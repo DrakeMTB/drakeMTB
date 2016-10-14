@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schwag
-permalink: /contacts/
+permalink: /schwag/
 ---
 
 # Drake MTB Schwag
