@@ -36,9 +36,11 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform ) | The first half of the money that pays for your races, coaching stipends, and other team necessities | December 7th |
 ||||
-|[Field Trip Form off Campus](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
+|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
 ||||
-| Sign Tam District Release of Liability | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            January 30th |
+|Tam District Release of Liability Form| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            January 30th |
+||||
+|Field Trip Form for off-campus events| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
