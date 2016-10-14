@@ -25,8 +25,6 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
 ||||
 | [Register for the Drake Team](https://docs.google.com/forms/d/e/1FAIpQLSeeRteOoGFZ9LBc6l9TrZnWuFevB70yp5xl9nxQIs3ugJve-w/viewform)     | Info the coaches and high school needs to let you participate in a club sport | October 15th |
-|||
-| [Submit School Driver Certification Form] | The Document that Drake High School REQUIRES for folks who drive to weekend races | October 15th |
 ||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 15th |
 ||||
