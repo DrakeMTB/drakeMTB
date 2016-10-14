@@ -6,6 +6,8 @@ permalink: /schwag/
 
 # Drake MTB Schwag
 
+![schwag]({{site.baseurl}}/images/schwag.jpg)
+
 ### Cool Stuff for everyone
 
 | Item   | Cost |
@@ -34,5 +36,17 @@ permalink: /schwag/
 
 Anything suit your fancy?
 
-Let us know the item, the size (Small/Medium/Large/XL), the quantity, and the total.  We will confirm the total, and ask you to send  
+Let <DrakeMTBSchwag@gmail.com> know the
+* Item Name
+* Item Size (Small/Medium/Large/XL)
+* Item Quantity
+* Total cost
+* and where or when you would like to pick it up
+
+<DrakeMTBSchwag@gmail.com> will confirm the total, ask you to pre-pay via PayPal to <DrakeMTBDues@gmail.com>, and then coordinate receipt of items.
+
+Happy biking!
+
+
+
 
