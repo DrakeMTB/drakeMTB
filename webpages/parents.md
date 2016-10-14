@@ -23,16 +23,25 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
-|===|===|===|
+||||
 | [Register for the Drake Team](https://docs.google.com/forms/d/e/1FAIpQLSeeRteOoGFZ9LBc6l9TrZnWuFevB70yp5xl9nxQIs3ugJve-w/viewform)     | Info the coaches and high school needs to let you participate in a club sport | October 15th |
+||||
 | Sign Tam District Release of Liability | Drake High School liability coverage |            October 15th |
+|||
 | [Submit School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | The Document that Drake High School REQUIRES for folks who drive to weekend races | October 15th |
+||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 15th |
+||||
 | Order Team Jersey(s) for your Rider | Get your jersey and shorts that identifies you as a Drake Rider | November 25th |
+||||
 | [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | November 25th |
+||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            December 7th |
+||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform ) | The first half of the money that pays for your races, coaching stipends, and other team necessities | December 7th |
+||||
 | Field Trip Form off Campus | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
+||||
 | Sign Tam District Release of Liability | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            January 30th |
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
