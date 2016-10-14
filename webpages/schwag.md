@@ -20,4 +20,4 @@ permalink: /contacts/
 |Water Bottle|	$10|
 |Decal	|$4|
 
-test
+
