@@ -37,11 +37,12 @@ permalink: /schwag/
 Anything suit your fancy?
 
 Let <DrakeMTBSchwag@gmail.com> know the
+ 
 * Item Name
 * Item Size (Small/Medium/Large/XL)
 * Item Quantity
-* Total cost
-* and where or when you would like to pick it up
+* Total Cost
+* and which team event/gathering/parent meeting where you would like to pick it up
 
 <DrakeMTBSchwag@gmail.com> will confirm the total, ask you to pre-pay via PayPal to <DrakeMTBDues@gmail.com>, and then coordinate receipt of items.
 
