@@ -26,6 +26,8 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | [Register for the Drake Team](https://docs.google.com/forms/d/e/1FAIpQLSeeRteOoGFZ9LBc6l9TrZnWuFevB70yp5xl9nxQIs3ugJve-w/viewform)     | Info the coaches and high school needs to let you participate in a club sport | October 15th |
 ||||
+|[Tam District Release of Liability Form]({{site.baseurl}}/2016_Tam_District_Release_of_Liability_form.pdf)| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            January 30th |
+||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 15th |
 ||||
 | Order Team Jersey(s) for your Rider | Get your jersey and shorts that identifies you as a Drake Rider | November 25th |
@@ -37,8 +39,6 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform ) | The first half of the money that pays for your races, coaching stipends, and other team necessities | December 7th |
 ||||
 |[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
-||||
-|Tam District Release of Liability Form| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            January 30th |
 ||||
 |Field Trip Form for off-campus events| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
 ||||
