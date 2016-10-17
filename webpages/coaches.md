@@ -46,7 +46,7 @@ As the name suggests, Ride Leaders are strong adult mountain bikers who work wit
 Mountain bikes are complex mechanical devices with many points of failure.  Riders put in long hours of training to prepare for races, and mechanical failures can put their personal safety at risk.  One of the best ways to minimize this risk is to train your Rider to know his her bike inside and out; as a back-up to that, the Drake team is extremely fortunate to have three team mechanics that check every single Rider’s bike in detail just before every race.  In the pre-race Pit Zone, the Drake team has seen last-minute drivetrain replacements, wheel swaps, brake change-outs, shock servicing, and a host of other complex issues addressed under great time pressure to keep the Riders ready to race.  The Mechanic’s Area of the Pit Zone is an amazing place, and staffed by bike mechanics with more than 60 years of wrenching… and more than 100 years of very entertaining bicycling-related stories.  Please encourage your Rider to treat them with the highest level of gratitude – they, too, are adult volunteers and do their jobs for altruistic reasons, and a single fussy or impatient rider who does not know his or her bike can wipe the smile off of a Mechanic’s face.
 
 
-**NICA requirements for Head Coaches (see [NICA's PitZone](http://pitzone.nationalmtb.org) for details)
+**NICA requirements for Head Coaches (see <http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/> for details on recent changes in coaching requirements**
 
  * Background Check
  * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
@@ -61,7 +61,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Signed Agreement to Participate and Release of Liability
  * Additional details [here](http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/), updated 10/17/2016
 
-**Assistant Coach and Ride Leader Requirements
+**Assistant Coach and Ride Leader Requirements**
 
  * Basic first aid training instead of Wilderness First Aid training
  * 20 field hours with students
@@ -69,15 +69,12 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * NICA Student-Athlete Coaching Philosophy webinar and test
  * Annual Risk Management webinars 1 and 2 and tests
 
-**General Volunteer Requirements
+**General Volunteer Requirements**
 
  * Background Check
  * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
  * Annual Waiver
  * Annual Risk Management webinar 1 and test
-
-
-<http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/>
 
 ## Your Coaches, Ride Leaders, and Team Mechanics for the 2017 Season
 
