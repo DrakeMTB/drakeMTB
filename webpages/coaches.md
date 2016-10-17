@@ -52,18 +52,18 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Background Check
  * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
  * Annual Waiver
- * Annual Risk Management webinar and test 3
  * Wilderness First Aid training
  * CPR training
  * 80 Field Hours: actual hours spent in contact with HS students while engaged in MTB program
  * NICA On-the-bike skills training
  * NICA Student-Athlete Coaching Philosophy webinar and test
- * Exam: can be taken after reviewing Coaching Manual and attending Professional Development Seminars
- * Signed Agreement to Participate and Release of Liability
- * Additional details [here](http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/), updated 10/17/2016
-
+ * Annual Risk Management webinar and test 3
+ 
 **Assistant Coach and Ride Leader Requirements**
 
+ * Background Check
+ * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
+ * Annual Waiver
  * Basic first aid training instead of Wilderness First Aid training
  * 20 field hours with students
  * NICA On-the-bike skills training
