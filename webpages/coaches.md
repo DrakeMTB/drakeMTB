@@ -52,6 +52,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Wilderness First Aid & CPR
  * 6 hours of Professional Development (i.e. Leaders’ Summit, Heads up concussion online course, Positive Coaching Alliance online course)
  * 40 Field Hours: actual hours spent in contact with HS students while engaged in MTB program
+ * [Heads Up Concussion online training]({{site.basurl}}/images/HeadsUpConcussion_Drake_MTB.pdf)
  * Exam: can be taken after reviewing Coaching Manual and attending Professional Development Seminars
  * Signed Agreement to Participate and Release of Liability
 
