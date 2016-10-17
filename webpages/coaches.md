@@ -77,7 +77,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Annual Risk Management webinar 1 and test
 
 
-<http://www.nationalmtb.org/coaches-license-program/>
+<http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/>
 
 ## Your Coaches, Ride Leaders, and Team Mechanics for the 2017 Season
 
