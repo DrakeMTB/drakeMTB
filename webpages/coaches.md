@@ -70,7 +70,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * NICA Student-Athlete Coaching Philosophy webinar and test
  * Annual Risk Management webinars 1 and 2 and tests
 
-**General Volunteer Requirements**
+**General Volunteer Requirements (like parents who occasionally do Sunday rides)**
 
  * Background Check
  * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
