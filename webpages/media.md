@@ -12,7 +12,7 @@ permalink: /media/
 
 ### News Articles
 
-* [Hans Rey talks about the importance of the Marin Museum of Bicycling)](http://www.pinkbike.com/news/hans-rey-mountain-bike-hall-of-fame-matters-2016.html)
+* [Hans Rey talks about the importance of the Marin Museum of Bicycling](http://www.pinkbike.com/news/hans-rey-mountain-bike-hall-of-fame-matters-2016.html)
 * [Repack is Forty!!](http://www.bikebiz.com/news/read/repack-is-forty-on-friday/020215)
 * [Marin trail access - a bit of history, and some classic North Bay rides](http://www.sonomanews.com/lifestyle/6117603-181/classic-north-bay-mountain-biking?artslide=0)
 * [Drake honored by San Anselmo Mayor for second straight state championship (photo only)]({{site.baseurl}}/images/townhall_2016.jpg)
