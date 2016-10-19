@@ -1,36 +1,34 @@
-<header>
-<article class="w3-container" id="myHeader">
-  <div class="w3-top">
- <ul class="w3-navbar w3-theme-d2 w3-left-align w3-large">
-  <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
-    <a class="w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
+<!--<header>-->
+<header class="w3-container w3-padding" id="myHeader">
+  <div class="w3-nav">
+  <ul class="w3-navbar w3-theme-d2 w3-left-align w3-large">
+   <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+     <a class="w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
 
-  </li>
-  <li><a href="{{ site.baseurl }}/" class="w3-teal"><i class="fa fa-home w3-margin-right"></i>Home</a></li>
-  <!--<li class="w3-hide-small"><a href="{{ site.baseurl }}/calendar" class="w3-hover-white">Calendar</a></li>-->
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/parents" class="w3-hover-white">Parents</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/riders" class="w3-hover-white">Riders</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/faq" class="w3-hover-white">FAQs</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/races" class="w3-hover-white">Races</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/coaches" class="w3-hover-white">Coaches</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/media" class="w3-hover-white">Media</a></li>
-  <li class="w3-hide-small"><a href="{{ site.baseurl }}/register" class="w3-hover-red">Register</a></li>
- </ul>
-</div>
-
-<!-- Navbar on small screens -->
-<div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:43px;">
-  <ul class="w3-navbar w3-left-align w3-large w3-theme">
-    <!--<li><a href="{{ site.baseurl }}/calendar">Calendar</a></li>-->
-    <li><a href="{{ site.baseurl }}/parents">Parents</a></li>
-    <li><a href="{{ site.baseurl }}/riders">Riders</a></li>
-    <li><a href="{{ site.baseurl }}/races">Races</a></li>
-    <li><a href="{{ site.baseurl }}/coaches">Coaches</a></li>
-    <li><a href="{{ site.baseurl }}/media">Media</a></li>
-    <li><a href="{{ site.baseurl }}/register">Register</a></li>
+   </li>
+   <li><a href="{{ site.baseurl }}/" class="w3-teal"><i class="fa fa-home w3-margin-right"></i>Home</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/parents" class="w3-hover-white">Parents</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/riders" class="w3-hover-white">Riders</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/faq" class="w3-hover-white">FAQs</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/races" class="w3-hover-white">Races</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/coaches" class="w3-hover-white">Coaches</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/media" class="w3-hover-white">Media</a></li>
+   <li class="w3-hide-small"><a href="{{ site.baseurl }}/register" class="w3-hover-red">Register</a></li>
   </ul>
 </div>
+  <!-- Navbar on small screens -->
+<div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:43px;">
+    <ul class="w3-navbar w3-left-align w3-large w3-theme">
+      <li><a href="{{ site.baseurl }}/parents">Parents</a></li>
+      <li><a href="{{ site.baseurl }}/riders">Riders</a></li>
+      <li><a href="{{ site.baseurl }}/races">Races</a></li>
+      <li><a href="{{ site.baseurl }}/coaches">Coaches</a></li>
+      <li><a href="{{ site.baseurl }}/media">Media</a></li>
+      <li><a href="{{ site.baseurl }}/register">Register</a></li>
+    </ul>
+</div>
 
+</header>
 <!-- Script for the side navagation -->
 <script>
 function w3_open() {
@@ -55,5 +53,3 @@ function openNav() {
     }
 }
 </script>
-
-</header>
