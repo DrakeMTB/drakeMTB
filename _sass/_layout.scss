@@ -2272,3 +2272,8 @@
  .w3-border-pale-blue,.w3-hover-border-pale-blue:hover {
      border-color: #e7ffff !important;
  }
+
+ //Remove class below to bring back the underline on all footer links
+ .footerlink {
+   text-decoration: none;
+ }
