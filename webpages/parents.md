@@ -22,9 +22,9 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:| 
-| <font color="red"> [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th | 
+| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th | 
 |||| 
-| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | October 15th </font> | 
+| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | October 15th | 
 |||| 
 |[Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            November 6th |
 ||(please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf) , which contains important limitations on the scope of Drake MTB's club activities)||
