@@ -20,6 +20,8 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
+<!--- blan blah blah
+
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
@@ -47,7 +49,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
 
 **Strongly Suggested Parental Activities**
-
+--->
 If you got through the checklist of forms above by the required deadlines, congratulations!  For new parents, all of the forms can be a bit overwhelming.  Drake MTB hopes that all parents consider participating in the volunteer activities listed below that best fit their time and desire – without parent volunteers, the team activities and races would literally grind to a dusty halt.
 
 **Volunteer for the Pit Zone**
