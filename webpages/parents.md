@@ -15,17 +15,17 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 * Assure that your Rider meets the [Eligibility requirements]({{site.baseurl}}/eligibility)
 * Review and understand [Team and Norcal League Rules]({{site.baseurl}}/rules)
 * Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
-* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg) 
+* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg)
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
-|:-------------|:---------------:| -------------:| 
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th | 
-|||| 
-| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | October 15th | 
-|||| 
+|:-------------|:---------------:| -------------:|
+| ~~[Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform)~~ | ~~Stay up-to-date on the latest team and community info~~ |         ~~October 15th~~ |
+||||
+| ~~[Register for the Drake Team]({{site.baseurl}}/register)~~ | ~~Info the coaches and high school needs to let you participate in a club sport~~ | ~~October 15th~~ |
+||||
 |[Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            November 6th |
 ||(please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf) , which contains important limitations on the scope of Drake MTB's club activities)||
 ||||
