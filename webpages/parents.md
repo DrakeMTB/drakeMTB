@@ -33,7 +33,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | Order Team Jersey(s) for your Rider | Get your jersey and shorts that identifies you as a Drake Rider | November 28th |
 ||||
-| [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | November 25th |
+| [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 1st |
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            December 7th |
 ||||
