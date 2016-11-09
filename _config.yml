@@ -5,16 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-#title: Drake HS Mountain Bike Team
-#email: your-email@domain.com
-#baseurl: "/Drake2017-jekyll" # the subpath of your site, e.g. /blog
-#url: "https://drakemtb.github.io/Drake2017-jekyll" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-#github_username:  jekyll
+#
+# Site Settings
+#
 
-# Build settings
-#markdown: kramdown
 # Name of site
 name: Drake High School
 title: Drake Mountain Biking
@@ -35,7 +29,7 @@ footer-links:
   instagram: drake_mtb
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: enabled
   twitter: drakehighschool
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/ironsprings
@@ -50,7 +44,7 @@ url: http://drakemtb.org
 # baseurl: "/drakeMTB"
 
 #
-# Only adjust flags below for updating Jekyll
+# Build Settings
 #
 
 markdown: kramdown

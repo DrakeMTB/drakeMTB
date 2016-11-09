@@ -486,6 +486,11 @@
    color: #707070;
  }
 
+ footer {
+   padding-bottom: 2.5vh !important;
+   overflow: hidden;
+ }
+
  .w3-table-all {
      border: 1px solid #ccc;
  }
@@ -1513,7 +1518,7 @@
 
  .w3-padding-32 {
      padding-top: 32px !important;
-     padding-bottom: 32px !important;
+     padding-bottom: 32px;
  }
 
  .w3-padding-48 {

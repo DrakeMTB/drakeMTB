@@ -12,7 +12,7 @@ permalink: /news/
       <h2>{{ post.title }}</h2>
 
         <div>
-          {{ post.content | strip_html | truncatewords:25}}
+          {{ post.content | strip_html | truncatewords:50}}
         </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
