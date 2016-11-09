@@ -11,3 +11,4 @@ permalink: /meetings/
 * [October 4th 2016]({{site.baseurl}}/images/kick_off.pdf)
 * [Oct 11th 2016 - agenda]({{site.baseurl}}/images/2016_DrakeMTB_new_parent_info.pdf)
 * [Oct 11th 2016 - budget slides]({{site.baseurl}}/images/2017_budget.pdf)
+* [Nov 1st 2016]({{site.baseurl}}/images/11-16_MTB_Agenda_10.pdf)

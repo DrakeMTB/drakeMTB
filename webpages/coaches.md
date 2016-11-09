@@ -143,7 +143,7 @@ Hi, I'm Alec's mom, who is a Senior this year. I will be supporting the team as 
 
 #### Ride Leader Charlie Simpson
 
-![charlie simpson]({{site.baseurl}}/images/Charlie_Simpson.jpg)
+![charlie simpson]({{site.baseurl}}/images/charlie.JPG)
 
 Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
 

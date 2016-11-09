@@ -15,25 +15,25 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 * Assure that your Rider meets the [Eligibility requirements]({{site.baseurl}}/eligibility)
 * Review and understand [Team and Norcal League Rules]({{site.baseurl}}/rules)
 * Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
-* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg) 
+* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg)
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
+| ~~[Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform)~~ | ~~Stay up-to-date on the latest team and community info~~ |         ~~October 15th~~ |
 ||||
-| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | October 15th |
+| ~~[Register for the Drake Team]({{site.baseurl}}/register)~~ | ~~Info the coaches and high school needs to let you participate in a club sport~~ | ~~October 15th~~ |
 ||||
-|[Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) |            October 29th |
-||(please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf) , which contains important limitations on the scope of Drake MTB's club activities)||
+| ~~[Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf)~~ | ~~The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ |            ~~November 6th~~ |
+|| ~~(please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf) , which contains important limitations on the scope of Drake MTB's club activities)~~ ||
 ||||
-| [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 15th |
+| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)| Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
-| Order Team Jersey(s) for your Rider | Get your jersey and shorts that identifies you as a Drake Rider | November 25th |
+| [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
-| [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | November 25th |
+| [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 1st |
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            December 7th |
 ||||
@@ -47,7 +47,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
 
 **Strongly Suggested Parental Activities**
-
+--->
 If you got through the checklist of forms above by the required deadlines, congratulations!  For new parents, all of the forms can be a bit overwhelming.  Drake MTB hopes that all parents consider participating in the volunteer activities listed below that best fit their time and desire – without parent volunteers, the team activities and races would literally grind to a dusty halt.
 
 **Volunteer for the Pit Zone**
