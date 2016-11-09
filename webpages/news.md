@@ -11,7 +11,7 @@ permalink: /news/
 
       <h2>{{ post.title }}</h2>
 
-        <div class="entry">
+        <div>
           {{ post.content | strip_html | truncatewords:25}}
         </div>
 
