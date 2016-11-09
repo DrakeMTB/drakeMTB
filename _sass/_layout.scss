@@ -481,6 +481,11 @@
      border: none;
  }
 
+ blockquote {
+   font-size: 1.25em;
+   color: #707070;
+ }
+
  .w3-table-all {
      border: 1px solid #ccc;
  }
@@ -2276,4 +2281,8 @@
  //Remove class below to bring back the underline on all footer links
  .footerlink {
    text-decoration: none;
+ }
+
+ .entry {
+   margin-right: 35vw;
  }

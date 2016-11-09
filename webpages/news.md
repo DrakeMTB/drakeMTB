@@ -3,12 +3,10 @@ layout: page
 title: Latest News!
 permalink: /news/
 ---
-# Come Join Us At Drake Club day!
-September 9th ! Look for the team!
 
 <div class="postgrid gridposts">
   <div class="posts">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts %}
     <article class="post">
 
       <h2>{{ post.title }}</h2>
