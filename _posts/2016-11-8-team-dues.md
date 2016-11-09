@@ -2,17 +2,7 @@
 layout: post
 title: Team Dues and Scholarships
 ---
-### Hey folks!  Leo here,
-
-Just wanted to bring to light the fact that team dues are - as the name suggests - due.  This will be a payment of $350 due *DECEMBER 7TH*.  This can be made payable to "Drake MTB" and delivered to: Philip Nicol, PO Box 495, San Anselmo CA 94979.  An alternate option, however, is to make the payment through PayPal by sending $350 as a "friend" to DrakeMTBDues@gmail.com.  It is important to note that there is a *Scholarship Fund* available to riders, and are granted based on the number of requests made and individual needs.  To request a scholarship please visit the link below *BEFORE NOVEMBER 28TH*:
-
-[Scholarship Fund Application](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform)
-
-> This is an abridged version of the original e-mail to the official Drake MTB mailing list from Lynn (our director).  For the full e-mail please see below:
-
-***
-
-Hi Everyone,
+# Hi Everyone,
 
 It's time for team dues. As a club sport, Drake MTB receives no school funding, so annual dues and fundraisers are the financial foundation of the team. Dues help make up the difference between the income we raise from our team sponsors, clothing sales, bike raffle (thank you Sunshine Bikes), Iron Springs Give Back Tuesday (Nov 22), and the upcoming Piggbackr fundraising campaign and the expenses of running the program including coaches, race fees, events, and scholarships. A breakdown of the team budget can be found here: http://drakemtb.org/images/2017_budget.pdf.
 
@@ -27,6 +17,9 @@ Scholarship Requests are due November 28.
 If you have any questions, please contact Philip Nicol (pnicol@mac.com) or me.
 
 Lynn Valdivia
+
 Drake MTB Director
+
 DrakeMTBDirector@gmail.com
+
 415 302-0310.
