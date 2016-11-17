@@ -29,7 +29,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 | ~~[Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf)~~ | ~~The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ |            ~~November 6th~~ |
 || ~~(please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf) , which contains important limitations on the scope of Drake MTB's club activities)~~ ||
 ||||
-| ~~[Order Team Jersey(s) for your Rider]~~ (http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)| ~~Get your jersey and shorts that identifies you as a Drake Rider~~ | ~~November 17th~~ |
+| ~~[Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)~~| ~~Get your jersey and shorts that identifies you as a Drake Rider~~ | ~~November 17th~~ |
 ||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
