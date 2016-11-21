@@ -89,7 +89,7 @@ His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling gr
 
 #### Co-Head Coach Rob Reed
 
-![Rob]({{site.basurl}}/images/rob-reed.jpg)
+![Rob]({{site.basurl}}/images/coach-rob.jpg)
 
  Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last three years, and this year is delighted to work with Otis on the coaching staff.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob works in San Francisco and commutes into the city, and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
 
