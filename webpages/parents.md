@@ -33,11 +33,11 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
-| [Participate in Fundraising for the team](https://docs.google.com/forms/d/e/1FAIpQLSeC3NrhYtwYJ044HFWuzhUFuL3G3GYCEl7F-FgB11odD1TEjA/viewform) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 1st |
-||||
-| [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            December 7th |
+| [Participate in Fundraising for the team](https://www.piggybackr.com/drakemtb/drake-mtb-2017-drake-mountain-bike-team-fundraiser) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 1st |
 ||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform ) | The first half of the money that pays for your races, coaching stipends, and other team necessities | December 7th |
+||||
+| [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            December 14th |
 ||||
 |[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
 ||||
