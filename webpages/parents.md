@@ -31,7 +31,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | ~~[Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)~~| ~~Get your jersey and shorts that identifies you as a Drake Rider~~ | ~~November 17th~~ |
 ||||
-| [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
+| ~~[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform)~~ | ~~Financial assistance to help assure equal opportunities for all riders~~ |  ~~November 28th~~ |
 ||||
 | [Participate in Fundraising for the team](https://www.piggybackr.com/drakemtb/drake-mtb-2017-drake-mountain-bike-team-fundraiser) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 8th |
 ||||
