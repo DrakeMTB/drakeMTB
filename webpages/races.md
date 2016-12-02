@@ -7,14 +7,14 @@ permalink: /races/
 <img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
 
 ## Tentative Race Schedule for 2017 Season 
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/07/2017-Tentative-Race-Schedule-.pdf)
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/12/2017-Race-Schedule.pdf)
 
-* Race #1 – February 25 & 26th
-* Race #2 – March 11 & 12th
-* Race #3 – March 25 & 26th
-* Race #4 – April 8 & 9th
-* Race #5 – April 29 & 30th
-* California High School State Championships – May 14th
+* Race #1 – February 25 & 26th (Sunday race at Fort Ord)
+* Race #2 – March 11 & 12th (Sunday race near Monterey)
+* Race #3 – March 25 & 26th (Sunday race at Toro Park near Salinas)
+* Race #4 – April 8 & 9th (Saturday race location TBD)
+* Race #5 – April 29 & 30th (Saturday race at Six Sigma Ranch)
+* California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)
 
 *******
 
