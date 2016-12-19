@@ -33,7 +33,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | ~~[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform)~~ | ~~Financial assistance to help assure equal opportunities for all riders~~ |  ~~November 28th~~ |
 ||||
-| [Participate in Fundraising for the team](https://www.piggybackr.com/drakemtb/drake-mtb-2017-drake-mountain-bike-team-fundraiser) | Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 31st |
+| ~~[Participate in Fundraising for the team](https://www.piggybackr.com/drakemtb/drake-mtb-2017-drake-mountain-bike-team-fundraiser)~~ | ~~~Help raise the second half of the money that pays for races, coaching stipends, and team necessities~~ | ~~December 31st~~ |
 ||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform ) | The first half of the money that pays for your races, coaching stipends, and other team necessities | December 25th |
 ||||
