@@ -7,7 +7,7 @@ permalink: /races/
 <img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
 
 ## Tentative Race Schedule for 2017 Season 
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/12/2017-Race-Schedule.pdf)
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/12/NorCal-High-School-Events.pdf)
 
 * Race #1 – February 25th & 26th (Sunday race at Fort Ord)
 * Race #2 – March 11th & 12th (Sunday race at Laguna Seca)
