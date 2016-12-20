@@ -9,11 +9,11 @@ permalink: /races/
 ## Tentative Race Schedule for 2017 Season 
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2016/12/2017-Race-Schedule.pdf)
 
-* Race #1 – February 25 & 26th (Sunday race at Fort Ord)
-* Race #2 – March 11 & 12th (Sunday race near Monterey)
-* Race #3 – March 25 & 26th (Sunday race at Toro Park near Salinas)
-* Race #4 – April 8 & 9th (Saturday race location TBD)
-* Race #5 – April 29 & 30th (Saturday race at Six Sigma Ranch)
+* Race #1 – February 25th & 26th (Sunday race at Fort Ord)
+* Race #2 – March 11th & 12th (Sunday race at Laguna Seca)
+* Race #3 – March 25th & 26th (Sunday race at Toro Park near Salinas)
+* Race #4 – April 4th & 5th (Saturday race at Granite Bay)
+* Race #5 – April 29th & 30th (Saturday race at Six Sigma Ranch)
 * California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)
 
 *******
@@ -22,7 +22,7 @@ permalink: /races/
 
 *******
 
-## [Where to Stay... (Don't forget to book early)]({{site.baseurl}}/images/2017 Hotel options - distribution v3.pdf)  
+## [Where to Stay... (Don't forget to book early)]({{site.baseurl}}/images/2017 Hotel options v4.pdf)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/what_to_bring.jpg)  
 
