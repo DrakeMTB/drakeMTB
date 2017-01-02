@@ -14,6 +14,7 @@ permalink: /riders/
 * [How to prepare for team rides]({{site.baseurl}}/practices)
 * [Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)
 * [Know what to bring on a team ride]({{site.baseurl}}/images/what_to_bring.jpg)
+* [Make sure you fit your bike (or that your bike fits you!)]({{site.baseurl}}/images/bike_fit_all.pdf)
 * [Estimate of annual team expenses]({{site.baseurl}}/expenses)
 
 
