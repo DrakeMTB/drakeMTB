@@ -39,9 +39,9 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            January 15th |
 ||||
-|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
+|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | January 30th |
 ||||
-|Field Trip Form for off-campus events| This form must be printed out, filled out, and either turned in to the Drake office or scanned and emailed to Dan Freeman (dfreeman@tamdistrict.org) and Jolie Jacobs  (jjacobs@tamdistrict.org) | January 30th |
+|Field Trip Form for off-campus events| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | January 30th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
