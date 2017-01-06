@@ -47,7 +47,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 
 
 **NICA requirements for Head Coaches**
-<i>(see <http://www.nationalmtb.org/nica-coach-licensing-level-requirement-transition/> for details on recent changes in coaching requirements</i>
+<i>(see <http://www.nationalmtb.org/coaches-license-program/> for details on coaching requirements</i>
 
  * Background Check
  * [CDC Heads Up Annual Concussion Certification](https://www.cdc.gov/concussion/HeadsUp/Training/index.html)
