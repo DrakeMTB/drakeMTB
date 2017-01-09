@@ -37,7 +37,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 | ~~[Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform)~~ | ~~The first half of the money that pays for your races, coaching stipends, and other team necessities~~ | ~~December 25th~~ |
 ||||
-| [Register your Rider with NICA](https://pitzone.nationalmtb.org/riders) | info the league needs to allow you to race with the team |            January 15th |
+| [Register your Rider with NICA](hhttps://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to race with the team |            January 15th |
 ||||
 |[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | January 30th |
 ||||
