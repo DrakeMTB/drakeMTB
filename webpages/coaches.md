@@ -3,7 +3,7 @@ layout: page
 title: Drake MTB Coaches
 permalink: /coaches/
 ---
-* [link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/1GXc4RDpXVAC8AHwelCcgd0WKy9qSnTaDXlnqLpq2XQc/edit#gid=0)
+[link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/1GXc4RDpXVAC8AHwelCcgd0WKy9qSnTaDXlnqLpq2XQc/edit#gid=0)
 
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
 
