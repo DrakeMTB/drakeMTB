@@ -5,6 +5,8 @@ permalink: /coaches/
 ---
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
 
+* [link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/1GXc4RDpXVAC8AHwelCcgd0WKy9qSnTaDXlnqLpq2XQc/edit#gid=0)
+
 ![pic of coach Otis in action]({{site.baseurl}}/images/otis_action.jpg)
 
 In recent years, Drake has had more than fifty Riders on the team.  Keeping such a large and diverse group of kids engaged across a variety of events, team rides, races, and volunteer engagements takes a dedicated team of experienced adults.  This team of experienced and qualified adults are selected based on their being good role models, motivators, teachers, organizers, authority figures, risk managers, and perhaps most importantly friends and mentors.  And they all have a love of the sport.  In addition, all coaches and ride leaders have a responsibility to maintain a safe and harassment- and discrimination-free environment at all team events and rides, and are also expected to:
