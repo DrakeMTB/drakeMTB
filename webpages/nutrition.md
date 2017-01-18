@@ -4,6 +4,8 @@ title: Nutrition
 permalink: /nutrition/
 ---
 
+[Content from Dana Williams talk on 1/17/2017] ({{site.basurl}}/images/Rider_Nutrition_by_Dana_Williams.pdf)
+
 # Training & Racing Hydration and Nutrition
 
 **Hydrate with more than plain water if you can**
