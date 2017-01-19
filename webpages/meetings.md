@@ -13,3 +13,4 @@ permalink: /meetings/
 * [Oct 11th 2016 - budget slides]({{site.baseurl}}/images/2017_budget.pdf)
 * [Nov 1st 2016]({{site.baseurl}}/images/11-16_MTB_Agenda_10.pdf)
 * [Dec 6th 2016]({{site.baseurl}}/images/12-6_MTB_Agenda.pdf)
+* [Jan 17th 2017]({{site.baseurl}}/images/1-17_MTB_Agenda.pdf)
