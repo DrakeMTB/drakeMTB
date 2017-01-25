@@ -24,7 +24,7 @@ permalink: /races/
 
 ## [Where to Stay... (Don't forget to book early)]({{site.baseurl}}/images/2017 Hotel options v4.pdf)  
 
-## What to Bring... [Race Kit contents]({{site.baseurl}}/images/what_to_bring.jpg)  
+## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
 
