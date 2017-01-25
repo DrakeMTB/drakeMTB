@@ -25,7 +25,7 @@ Describing a high school mountain bike race in words is impossible, but in 2016 
 **What are parents supposed to do while watching a race?** [On supporting your Riders during a race]({{site.baseurl}}/racesupport)
 
 **What does a typical Race Weekend look like?**  
-Race Weekend Race weekend can be a stressful time for riders and their traveling support crew, so it really pays off to prepare in advance, keep travel gear in one place, look through the Race Kit checklist [insert link to race_kit.pdf here ], and create a travel routine. *Note:  If a Rider cannot come to a a race due to illness or other unexpected event, let <DrakeMTBCoaches@gmail.com>  know one week ahead of time if you can.*
+Race Weekend Race weekend can be a stressful time for riders and their traveling support crew, so it really pays off to prepare in advance, keep travel gear in one place, look through the [Race Kit checklist]({{site.baseurl}}/images/race_kit.pdf), and create a travel routine. *Note:  If a Rider cannot come to a a race due to illness or other unexpected event, let <DrakeMTBCoaches@gmail.com>  know one week ahead of time if you can.*
 
 Here’s a sample weekend schedule for Sunday Races.  If the race is on a Saturday, then it is helpful to do all of the packing and preparation on Thursday night, as the Riders usually get clearance from the high school to leave campus at noon.
 
