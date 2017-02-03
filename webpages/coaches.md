@@ -5,6 +5,7 @@ permalink: /coaches/
 ---
 [link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/1GXc4RDpXVAC8AHwelCcgd0WKy9qSnTaDXlnqLpq2XQc/edit#gid=0)
 
+* [Coaches' Update 2-3-2017]({{site.baseurl}}/images/coaches_update_2-3-2017.pdf)
 * [Coaches' Update 1-4-2017]({{site.baseurl}}/images/coaches_update_1-4-2017.pdf)
 * [Coaches' Update 12-26-2016]({{site.baseurl}}/images/coaches_update_12-26-2016.pdf)
 * [Coaches' Update 12-11-2016]({{site.baseurl}}/images/coaches_update_12-11-2016.pdf)
