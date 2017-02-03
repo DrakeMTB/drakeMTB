@@ -20,12 +20,12 @@ Shot bloks, Gu chomps, gels, powders are all manufactured food. Eating too much 
 #  We are a peanut-free team!
 **Please** do **not** bring peanut products or food containing peanuts on rides or to races.
 
-# Longer training ride (3+ hours, or a typical Sunday ride)**
+# Longer training ride (3+ hours, or a typical Sunday ride)
 **Eat a breakfast** that includes protein, carbohydrates and fat, like:  
 
  * Oatmeal with berries, yogurt, banana
  * Eggs with toast and butter, banana
- * See [link to breakfast ideas] this page for in depth breakfast ideas for all tastes.
+ * See link at the top of this page for different breakfast ideas.
 
 **Pack liquid for your ride** by bringing water enhanced with 1/16 tsp. salt and 1 Tb maple syrup OR electrolyte solution (Skratch, Nuun, etc).  No plain water.
 
