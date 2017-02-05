@@ -5,19 +5,6 @@ permalink: /parents/
 ---
 # Parents
 
-![pic of parents and riders]({{site.baseurl}}/images/parents-riders.jpg)
-
-Being a mountain bike parent can be an amazing way to connect with other parents and Riders on the team.  Our goal is to help families and Riders have the most efficient and rewarding Drake MTB experience.  There are mandatory administrative items and fees for getting your Rider on the team, but beyond that parents can choose the level of time and resource commitments that match what their family can support throughout the season.  For questions that we do not address below, please contact <DrakeMTBParents@gmail.com>.
-
-The Drake Mountain Bike Team is a club sport, which means that the team cannot function without volunteer labor and support, most of which comes from you, the Parents.  At a minimum, **we ask that parents do the following:**
-
-* Take care of Mandatory Drake MTB forms and fees (see links and deadlines below)
-* Assure that your Rider meets the [Eligibility requirements]({{site.baseurl}}/eligibility)
-* Review and understand [Team and Norcal League Rules]({{site.baseurl}}/rules)
-* Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
-* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg)
-
-
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
@@ -45,6 +32,18 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
+
+![pic of parents and riders]({{site.baseurl}}/images/parents-riders.jpg)
+
+Being a mountain bike parent can be an amazing way to connect with other parents and Riders on the team.  Our goal is to help families and Riders have the most efficient and rewarding Drake MTB experience.  There are mandatory administrative items and fees for getting your Rider on the team, but beyond that parents can choose the level of time and resource commitments that match what their family can support throughout the season.  For questions that we do not address below, please contact <DrakeMTBParents@gmail.com>.
+
+The Drake Mountain Bike Team is a club sport, which means that the team cannot function without volunteer labor and support, most of which comes from you, the Parents.  At a minimum, **we ask that parents do the following:**
+
+* Take care of Mandatory Drake MTB forms and fees (see links and deadlines below)
+* Assure that your Rider meets the [Eligibility requirements]({{site.baseurl}}/eligibility)
+* Review and understand [Team and Norcal League Rules]({{site.baseurl}}/rules)
+* Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
+* Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg)
 
 **Strongly Suggested Parental Activities**
 --->
