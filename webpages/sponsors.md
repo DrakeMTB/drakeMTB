@@ -75,15 +75,6 @@ Kentfield<br>
 Phone# (415) 456-9193
 
 ***
-
-![creative logo](../images/creative-logo.jpg)
-
-Dan Deffner<br>
-Creative Builders<br>
-Phone# (415) 256-1316<br>
-*Your Local Contractor based in San Anselmo*
-
-***
 **Dolby Laboratories**
 
 [![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)
