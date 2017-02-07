@@ -5,6 +5,8 @@ permalink: /parents/
 ---
 # Parents
 
+**[Past Parent Meetings - agenda and notes]({{site.baseurl}}/meetings)
+
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
