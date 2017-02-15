@@ -3,6 +3,7 @@ layout: page
 title: Parent Meetings
 stitle: parent_meetings
 permalink: /parent_meetings/
+ignoreme: true
 ---
 <!-- Removed due to duplicate page -->
 
