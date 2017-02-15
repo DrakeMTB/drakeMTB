@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Cycling Glossary
+stitle: cycling_glossary
 permalink: /glossary/
 ---
 # Glossary of cycling terminology
 
-**29er:** A bike with 29” circumference wheels. This is larger than 26”, the standard size for many years prior. There is also a 27.5” wheel available. 
+**29er:** A bike with 29” circumference wheels. This is larger than 26”, the standard size for many years prior. There is also a 27.5” wheel available.
 
 **Arm-Leg-Knee warmers:** Cycling specific removable sleeves useful in changing weather conditions. Leg warmers extend to the ankle, knee warmers extend just below the knee.
 

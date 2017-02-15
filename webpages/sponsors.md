@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Sponsors
+stitle: our_sponsors
 permalink: /sponsors/
 ---
 

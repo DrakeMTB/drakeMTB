@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Philosophy
+stitle: philosophy
 permalink: /philosophy/
 ---
 

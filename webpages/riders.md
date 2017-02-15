@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Drake MTB Team Riders
+stitle: drake_mtb_team_riders
 permalink: /riders/
 ---
 # Riders

@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Rules for Riders
+stitle: rules_for_riders
 permalink: /rules/
 ---
-## Rules for Riders 
+## Rules for Riders
 These rules exist solely to help keep our right to ride as a team.  You as an individual rider can hop on a bike and ride anytime and anywhere you choose, but that is not the point of riding with a team.  You ride with a team so that you can regularly ride with a group of friends, improve your skills, learn from more experienced riders, ride new trails and routes, help less experienced riders get stronger, and enjoy the thrill and nervous excitement of racing in as safe an environment as can be expected.  The coaches, ride leaders, and parents give you this privilege on the condition that you make a personal commitment to follow the rules below:
 
  1. **Always wear a helmet**  

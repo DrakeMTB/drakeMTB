@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Expenses
+stitle: expenses
 permalink: /expenses/
 ---
 # Racer Expenses

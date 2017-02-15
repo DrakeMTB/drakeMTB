@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Eligibility
+stitle: eligibility
 permalink: /eligibility/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Practices
+stitle: practices
 permalink: /practices/
 ---
 # Team Rides

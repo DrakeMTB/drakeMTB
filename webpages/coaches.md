@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Drake MTB Coaches
+stitle: drake_mtb_coaches
 permalink: /coaches/
 ---
 [link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/1GXc4RDpXVAC8AHwelCcgd0WKy9qSnTaDXlnqLpq2XQc/edit#gid=0)
@@ -65,7 +66,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * NICA On-the-bike skills training
  * NICA Student-Athlete Coaching Philosophy webinar and test
  * Annual Risk Management webinar and test 3
- 
+
 **Assistant Coach and Ride Leader Requirements**
 
  * Background Check

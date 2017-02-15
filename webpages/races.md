@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Race and travel
+title: Race and Travel
+stitle: race_and_travel
 permalink: /races/
 ---
 
 <img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
 
-## Tentative Race Schedule for 2017 Season 
+## Tentative Race Schedule for 2017 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](http://www.norcalmtb.org/wp-content/uploads/2017/01/2017-RACE-Calendar-112.pdf)
 
 * test test test

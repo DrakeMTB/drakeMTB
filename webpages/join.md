@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join the DRAKE MTB Team
+stitle: join
 permalink: /join/
 ---
 

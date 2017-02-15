@@ -2,14 +2,18 @@
 layout: page
 permalink: sitemap
 title: Sitemap
+stitle: sitemap
 ---
 
 <h1>Sitemap</h1>
 
+{% assign p = site.pages | sort:"stitle" %}
 <ul>
-  {% for page in site.pages %}
+  {% for page in p %}
+  {% unless page.ignoreme %}
   <li>
-    <a href={{ page.url }}>{{ page.title }}</a>
+    <a href={{ item.url }}>{{ page.title }}</a>
   </li>
+  {% endunless %}
   {% endfor %}
 </ul>

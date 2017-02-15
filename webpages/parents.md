@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Parent Info
+stitle: parent_info
 permalink: /parents/
 ---
 # Parents

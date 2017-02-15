@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Race Day
+stitle: race_day
 permalink: /raceday/
 ---
 
@@ -9,8 +10,8 @@ Describing a high school mountain bike race in words is impossible, but in 2016 
 
 **What does a race day look like?**
 
-* [Getting to know the Pit Zone](https://www.youtube.com/watch?v=i9eiSpGuxjI) 
-* [Three to five minute music+video snapshots of EVERY 2016 race](https://www.youtube.com/watch?v=GnPXnqkWIlU&list=PL0iTUF9DuZ1x_c4RF76xzyjkk74hDrDP8) 
+* [Getting to know the Pit Zone](https://www.youtube.com/watch?v=i9eiSpGuxjI)
+* [Three to five minute music+video snapshots of EVERY 2016 race](https://www.youtube.com/watch?v=GnPXnqkWIlU&list=PL0iTUF9DuZ1x_c4RF76xzyjkk74hDrDP8)
 (thanks Brennan Healy!)
 
 **What do our Riders say?**

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Volunteers Give Back!
+stitle: volunteers_give_back
 permalink: /volunteer/
 ---
 **Volunteer for the Pit Zone**

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Parent Meetings
+stitle: parent_meetings
 permalink: /meetings/
 ---
 

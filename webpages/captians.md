@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team Captains for 2016-17
+stitle: team_captains
 permalink: /captains/
 ---
 # Drake Captains
@@ -13,7 +14,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 ![Hannah]({{site.basurl}}/images/hannah_captain.jpg)
 
-Hey everyone! 
+Hey everyone!
 My name is Hannah Childress and I am a senior riding Varsity this year. I am so excited to meet everyone and get together to share one common interest, the love of mountain biking! I want all of you to know that it doesn't matter how long you have been riding, or what bike you have, or what shoes you wear, it's all about your attitude on the bike. This has always been something really important to the  Drake MTB Team, because we know that this can affect the way you and lots of the people around you ride. This year my goal is to make sure that everyone knows that they have a place on the team (and to learn everyone's names) Feel free to contact me anytime with questions, concerns or especially if you want to go on a ride! hg.childress@gmail.com It's gonna be a rad year! Go Pirates!
 
 
@@ -21,7 +22,7 @@ My name is Hannah Childress and I am a senior riding Varsity this year. I am so 
 
 ![Ronan]({{site.basurl}}/images/ronan_captain.jpg)
 
-Hey! My name is Ronan Goulden and I am a junior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates! 
+Hey! My name is Ronan Goulden and I am a junior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates!
 
 
 #### Alec Levy O’Brien

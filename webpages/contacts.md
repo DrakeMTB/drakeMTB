@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contacts
+stitle: contacts
 permalink: /contacts/
 ---
 # Contact Us

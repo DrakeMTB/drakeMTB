@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nutrition
+stitle: nutrition
 permalink: /nutrition/
 ---
 
@@ -66,7 +67,7 @@ Hydrate hydrate hydrate
 You have a 30-minute window to consume 20 to 30 grams of protein (girls need more than boys). See above for details.
 
 
-# Race day 
+# Race day
 Think of it the same as a longer training ride with some changes:
 
 

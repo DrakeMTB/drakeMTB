@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Drake MTB Media
+stitle: drake_mtb_media
 permalink: /media/
 ---
 
-# Drake MTB on the Web and In the News 
+# Drake MTB on the Web and In the News
 
 ![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
 
@@ -19,7 +20,7 @@ permalink: /media/
 * [Drake wins 2016 Norcal championship (Marin IJ Sports)](http://www.marinij.com/sports/20160508/marin-briefs-drake-claims-norcal-mountain-biking-championship)
 * [Wyatt likes to ride his bike! (MCBC feature article)](http://www.marinbike.org/news/offroad/wyatt-miceli-i-like-to-ride-my-bicycle-2016/)
 
-### Youtube Videos 
+### Youtube Videos
 
 #### Brennan Healy productions
 * [Playlist of 2016 Race Season (thanks Brennan Healy!)](https://www.youtube.com/playlist?list=PL0iTUF9DuZ1x_c4RF76xzyjkk74hDrDP8)
@@ -55,5 +56,3 @@ permalink: /media/
 
 #### 2013
 * [Fast Times at Single Track High (Outside Magazine)](http://www.outsideonline.com/1918441/fast-times-singletrack-high)
-
-

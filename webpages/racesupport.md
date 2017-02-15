@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Race Support
+stitle: race_support
 permalink: /racesupport/
 ---
 

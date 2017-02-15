@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Latest News!
+stitle: news
 permalink: /news/
 ---
 

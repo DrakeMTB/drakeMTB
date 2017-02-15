@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Events Calendar
+stitle: our_events_calendar
 permalink: /calendar/
 ---
 # Here is what we are up to this month

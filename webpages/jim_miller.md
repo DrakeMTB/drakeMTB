@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jim Miller Memorial Fund
+stitle: jim_miller_memorial_fund
 permalink: /jim_miller/
 image: miller-head.jpg
 ---

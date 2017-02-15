@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Emergency Information
+stitle: emergency_information
 permalink: /emergency/
 ---
 ## Emergency Contact Information

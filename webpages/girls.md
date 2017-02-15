@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Drake MTB Girls Team
+stitle: drake_mtb_girls_team
 permalink: /girls/
 ---
 
