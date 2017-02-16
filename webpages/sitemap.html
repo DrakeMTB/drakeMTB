@@ -12,7 +12,7 @@ stitle: sitemap
   {% for page in p %}
   {% unless page.ignoreme %}
   <li>
-    <a href={{ item.url }}>{{ page.title }}</a>
+    <a href={{ page.url }}>{{ page.title }}</a>
   </li>
   {% endunless %}
   {% endfor %}
