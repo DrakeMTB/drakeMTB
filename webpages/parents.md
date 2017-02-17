@@ -31,7 +31,7 @@ permalink: /parents/
 ||||
 |~~[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf)~~ | ~~This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ | ~~January 30th~~ |
 ||||
-|[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | January 30th |
+|~~[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)~~| ~~This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ | ~~January 30th~~ |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
