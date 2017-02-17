@@ -4,6 +4,13 @@ title: Rules for Riders
 stitle: rules_for_riders
 permalink: /rules/
 ---
+
+## NICA Rules
+[This rulebook](http://www.nationalmtb.org/blog/wp-content/uploads/NICA-Rulebook.pdf) has all of the information that Riders, Coaches, and Parents need to know about how the league is structured, how scoring is done, what the guidelines are for team rides, and many many other important things.  Because the rulebook is so long, one of our [captains]({{site.baseurl}}/captains.md) make a [presentation](https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU) to highlight the important facts, along with a [quiz](https://goo.gl/forms/wizEaFAeTibqI8Eh10 at the end to test your knowledge.  Thanks Ronan!  Great work.
+
+
+https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU
+
 ## Rules for Riders
 These rules exist solely to help keep our right to ride as a team.  You as an individual rider can hop on a bike and ride anytime and anywhere you choose, but that is not the point of riding with a team.  You ride with a team so that you can regularly ride with a group of friends, improve your skills, learn from more experienced riders, ride new trails and routes, help less experienced riders get stronger, and enjoy the thrill and nervous excitement of racing in as safe an environment as can be expected.  The coaches, ride leaders, and parents give you this privilege on the condition that you make a personal commitment to follow the rules below:
 
