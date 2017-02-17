@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Philosophy
+title: Racing Philosophy
 stitle: philosophy
 permalink: /philosophy/
 ---
