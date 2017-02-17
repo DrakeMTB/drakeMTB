@@ -15,11 +15,11 @@ permalink: /races/
 * Race #5 – April 29th & 30th (Saturday race at Six Sigma Ranch)
 * California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)
 
-<img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
-
 *******
 
 ## [What Does a typical Race Day Look Like?]({{site.baseurl}}/raceday)
+
+<img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
 
 *******
 
