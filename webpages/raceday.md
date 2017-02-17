@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What Does a Typicle Race Day Look Like?
+title: What Does a Typical Race Day Look Like?
 stitle: race_day
 permalink: /raceday/
 ---
