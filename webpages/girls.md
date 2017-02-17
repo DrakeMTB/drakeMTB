@@ -59,6 +59,7 @@ I started mnt biking because I loved the idea of fun downhills, and that their w
 
 ![pic of Hannah](../images/girls_hannah.jpg)
 
+ Hey everyone! My name is Hannah Childress and I am a senior riding Varsity this year. I am so excited to meet everyone and get together to share one common interest, the love of mountain biking! I want all of you to know that it doesn’t matter how long you have been riding, or what bike you have, or what shoes you wear, it’s all about your attitude on the bike. This has always been something really important to the Drake MTB Team, because we know that this can affect the way you and lots of the people around you ride. This year my goal is to make sure that everyone knows that they have a place on the team (and to learn everyone’s names) Feel free to contact me anytime with questions, concerns or especially if you want to go on a ride! hg.childress@gmail.com It’s gonna be a rad year! Go Pirates!
 
 ****
 
