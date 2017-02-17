@@ -39,17 +39,17 @@ permalink: /races/
 
 # Race Day schedules
 
- * Varsity Girls [Coming Soon](http://google.com)
- * JV Girls [Coming Soon](http://google.com)
- * Sophomore Girls [Coming Soon](http://google.com)
- * Frosh Girls [Coming Soon](http://google.com)
+ * [Varsity Girls]({{site.baseurl}}/images/race1_sched_girls_varsity.jpg)
+ * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_jv.jpg)
+ * [Sophomore Girls]({{site.baseurl}}/images/race1_sched_girls_soph.jpg)
+ * [Frosh Girls]({{site.baseurl}}/images/race1_sched_girls_frosh.jpg)
 
 ******
 
-* Varsity Boys [Coming Soon](http://google.com)
-* JV Boys [Coming Soon](http://google.com)
-* Sophomore Boys [Coming Soon](http://google.com)
-* Frosh Boys [Coming Soon](http://google.com)
+ * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.jpg)
+ * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.jpg)
+ * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.jpg)
+ * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.jpg)
 
 ******
 
