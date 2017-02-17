@@ -29,9 +29,13 @@ permalink: /races/
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
 
+*******
+
 ## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4)  
 
 ## [Food Sign Up Sheet](https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY)  
+
+*******
 
 # Race Day schedules
 
