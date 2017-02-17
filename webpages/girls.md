@@ -59,13 +59,6 @@ I started mnt biking because I loved the idea of fun downhills, and that their w
 
 ![pic of Hannah](../images/girls_hannah.jpg)
 
-****
-
-#### Marya Smith - varsity
-
-![pic of Marya](../images/girls_marya.jpg)
-
-Growing up at the foot of Mt. Tam and Fairfax (Mountain Biking state capitol) I couldn’t wait to get my bike on the mountain from the second I took off the training wheels. Growing up just riding with my dad and then going to bike camps in the summer I was eager to start up on the team when I got to Drake. Even while being a little hesitant and nervous about the racing in the beginning, I decided why not be different and try something new! (Also the sport was in desperate need of some girl power). Starting off as a freshman rider, over the years I have grown to become a more skilled rider as well as develop a strong understanding of the team and our strengths and weaknesses as a whole. As a strong freshman rider I grew to move onto to JV my sophomore year skipping over the sophomore category and now racing Varsity as a Junior. As a captain time I strive to serve as a role model to younger riders (especially for the small number of girls on the team (only 9!) and help build a strong and supportive community that motivates and encourages riders to work hard at practice and races but also have lots and lots of fun! Mountain biking is not only an awesome group of kids but an even better sport that encompasses both my love for the outdoors, being active, and chit chatting away with my friends! Biking will forever be a part of my life and I can't wait to see where it takes me in the future!
 
 ****
 
