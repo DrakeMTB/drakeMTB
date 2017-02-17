@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Race Day
+title: What Does a Typicla Race Day Look Like?
 stitle: race_day
 permalink: /raceday/
 ---
