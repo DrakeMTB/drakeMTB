@@ -39,19 +39,19 @@ permalink: /races/
 
 # Race Day schedules
 
- * [Varsity Girls]({{site.baseurl}}/images/race1_sched_girls_varsity.jpg)
- * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_jv.jpg)
- * [Sophomore Girls]({{site.baseurl}}/images/race1_sched_girls_soph.jpg)
- * [Frosh Girls]({{site.baseurl}}/images/race1_sched_girls_frosh.jpg)
+ * [Varsity Girls]({{site.baseurl}}/images/race1_sched_girls_varsity.JPG)
+ * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_jv.JPG)
+ * [Sophomore Girls]({{site.baseurl}}/images/race1_sched_girls_soph.JPG)
+ * [Frosh Girls]({{site.baseurl}}/images/race1_sched_girls_frosh.JPG)
 
 ******
 
- * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.jpg)
- * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.jpg)
- * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.jpg)
- * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.jpg)
+ * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.JPG)
+ * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.JPG)
+ * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.JPG)
+ * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.JPG)
 
 ******
 
 * [Pre Race Nutrition]({{site.baseurl}}/nutrition)
-* [Master PitZone Schedule]({{site.baseurl}}/images/master_schedule.jpg)
+* [Master PitZone Schedule]({{site.baseurl}}/images/master_schedule.JPG)
