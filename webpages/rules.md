@@ -6,7 +6,7 @@ permalink: /rules/
 ---
 
 ## NICA Rules
-[This rulebook](http://www.nationalmtb.org/blog/wp-content/uploads/NICA-Rulebook.pdf) has all of the information that Riders, Coaches, and Parents need to know about how the league is structured, how scoring is done, what the guidelines are for team rides, and many many other important things.  Because the rulebook is so long, one of our [captains]({{site.baseurl}}/captains.md) make a [presentation](https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU) to highlight the important facts, along with a [quiz](https://goo.gl/forms/wizEaFAeTibqI8Eh10 at the end to test your knowledge.  Thanks Ronan!  Great work.
+[This rulebook](http://www.nationalmtb.org/blog/wp-content/uploads/NICA-Rulebook.pdf) has all of the information that Riders, Coaches, and Parents need to know about how the league is structured, how scoring is done, what the guidelines are for team rides, and many many other important things.  Because the rulebook is so long, one of our [captains]({{site.baseurl}}/captains) make a [presentation](https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU) to highlight the important facts, along with a [quiz](https://goo.gl/forms/wizEaFAeTibqI8Eh10) at the end to test your knowledge.  Thanks Ronan!  Great work.
 
 
 https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU
