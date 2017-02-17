@@ -38,9 +38,9 @@ Here’s a sample weekend schedule for Sunday Races.  If the race is on a Saturd
 9:00pm Early to bed! Rest up for the race  
 
 **Sunday**  
-8:00am  Pack up and get to Pit zone by 9am, or 2 hours prior to your race, whichever is earlier  
-9:00am Team meeting  
-10:00am Races begin!  
+7:00am  Pack up and get to Pit zone by 8am, or 2 hours prior to your race, whichever is earlier  
+8:00am Team meeting  
+9:00am Races begin!  
 12:00pm Look for lunch  
 1:00pm Cheer on JV and Varsity boys  
 4:00pm Get packed and ready to go  
@@ -55,7 +55,7 @@ Coaches, Ride Leaders, and parents can help Riders prepare for racing by doing o
  2. Check the rider’s number plate to ensure it is securely fastened and easy for the officials to read.
  3. Refer any mechanicals to Team Mechanics.
  4. Head to staging area with students to support and take any extra clothing they don’t want during the race.
- 5. Cheer on the riders during the race [insert link to Race support here] but don’t forget about the next group of riders warming up and staging simultaneously.
+ 5. [Cheer on the riders during the race]({{site.baseurl}}/racesupport) but don’t forget about the next group of riders warming up and staging simultaneously.
  6. Greet the riders at the end of race and congratulate on an amazing effort. Remind the riders to continue hydrating and to do a cool down ride for 10-15 minutes after the race.
  7. At the end of the Boys Varsity race and after all the riders/parents have eaten lunch, help with Pit Zone take-down and trailer packing. All riders are encouragee to stay for the individual and team awards.
  8. Remember that Riders are under a lot of stress before racing, so help distract them and remind them to have fun!
