@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rules for Riders
-stitle: rules_for_riders
+title: Rules for Riding
+stitle: rules_for_riding
 permalink: /rules/
 ---
 
