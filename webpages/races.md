@@ -5,9 +5,7 @@ stitle: race_and_travel
 permalink: /races/
 ---
 
-<img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
-
-## Tentative Race Schedule for 2017 Season
+## Race Schedule for 2017 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/01/2017-RACE-Calendar-112.pdf)
 
 * [Race #1 – February 25th & 26th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/02/1-Fun-at-the-Fort-29.pdf)
@@ -16,6 +14,8 @@ permalink: /races/
 * Race #4 – April 8th & 9th (Saturday race at Granite Bay)
 * Race #5 – April 29th & 30th (Saturday race at Six Sigma Ranch)
 * California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)
+
+<img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
 
 *******
 
