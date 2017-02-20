@@ -11,6 +11,8 @@ permalink: /girls/
 
 ![pic of stella](../images/girls_stella.jpg)
 
+I’m Stella Greenwood and I’m a Junior girl on the Drake Mountain Bike Team. I love mountain biking because it is a fun way to explore our amazing county and exercise at the same time. But more than that, it introduced me to an amazing community that spreads worldwide. I have had the pleasure of riding outside of our tightly knitted community and the fun loving spirit is continuous throughout. Drake MTB is a wonderful group of kids and adults who share the common interest of cycling, but made it so much more than that. I love riding primarily for the people I ride with, and thank everyone for being so amazing. Roll Pirates!
+
 ****
 
 #### Elise Nicol - sophmore
