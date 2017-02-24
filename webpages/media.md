@@ -9,9 +9,14 @@ permalink: /media/
 
 ![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
 
-## 2016
-
 ### News Articles
+
+### 2017
+
+* [The Spirit of Howdy, even on the road!](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
+* [Mountain Biking and the Future of Environmentalism](http://www.marinij.com/opinion/20170218/marin-voice-bike-access-to-trails-and-environmental-sustainability)
+
+### 2016
 
 * [Hans Rey talks about the importance of the Marin Museum of Bicycling](http://www.pinkbike.com/news/hans-rey-mountain-bike-hall-of-fame-matters-2016.html)
 * [Repack is Forty!!](http://www.bikebiz.com/news/read/repack-is-forty-on-friday/020215)
