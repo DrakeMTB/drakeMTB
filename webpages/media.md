@@ -13,7 +13,7 @@ permalink: /media/
 
 ### 2017
 
-* [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murhpy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
+* [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murphy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
 * [Mountain Biking and the Future of Environmentalism (Marin IJ opinion piece by Jim Elias, MCBC Exec Director)](http://www.marinij.com/opinion/20170218/marin-voice-bike-access-to-trails-and-environmental-sustainability)
 
 ### 2016
