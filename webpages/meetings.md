@@ -9,8 +9,6 @@ permalink: /meetings/
 
 ## Parent Meeting agenda/notes
 
-3-7 MTB Agenda .docx.pdf
-
 * [Mar 7th 2017]({{site.baseurl}}/images/3-7_MTB_Agenda.pdf)
 * [Feb 7th 2017]({{site.baseurl}}/images/1-17_MTB_Agenda.pdf)
 * [Jan 17th 2017]({{site.baseurl}}/images/1-17_MTB_Agenda.pdf)
