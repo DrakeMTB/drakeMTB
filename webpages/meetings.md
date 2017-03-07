@@ -9,9 +9,12 @@ permalink: /meetings/
 
 ## Parent Meeting agenda/notes
 
-* [October 4th 2016]({{site.baseurl}}/images/kick_off.pdf)
-* [Oct 11th 2016 - agenda]({{site.baseurl}}/images/2016_DrakeMTB_new_parent_info.pdf)
-* [Oct 11th 2016 - budget slides]({{site.baseurl}}/images/2017_budget.pdf)
-* [Nov 1st 2016]({{site.baseurl}}/images/11-16_MTB_Agenda_10.pdf)
-* [Dec 6th 2016]({{site.baseurl}}/images/12-6_MTB_Agenda.pdf)
+3-7 MTB Agenda .docx.pdf
+
+* [Mar 7th 2017]({{site.baseurl}}/images/3-7_MTB_Agenda.pdf)
+* [Feb 7th 2017]({{site.baseurl}}/images/1-17_MTB_Agenda.pdf)
 * [Jan 17th 2017]({{site.baseurl}}/images/1-17_MTB_Agenda.pdf)
+* [Dec 6th 2016]({{site.baseurl}}/images/12-6_MTB_Agenda.pdf)
+* [Nov 1st 2016]({{site.baseurl}}/images/11-16_MTB_Agenda_10.pdf)
+* [Oct 11th 2016]({{site.baseurl}}/images/2016_DrakeMTB_new_parent_info.pdf)
+* [Oct 4th 2016]({{site.baseurl}}/images/kick_off.pdf)
