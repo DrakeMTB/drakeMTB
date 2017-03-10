@@ -9,10 +9,16 @@ permalink: /media/
 
 ![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
 
-### News Articles
-
 ### 2017
 
+#### Brennan Healy productions
+* [Ft Ord 2017](https://www.youtube.com/watch?v=ubgbmzYe9YA)
+#### Joe Stranzl's video magic
+ * [Drake Freshman Boys in their first race at Fort Ord 2017](https://www.youtube.com/watch?v=nvABfshenuo)
+
+
+### News Articles
+* [Trailbuilder Jim Jacobson of Forest Knolls in a singletracks.com article in March 2017](https://www.singletracks.com/blog/mtb-trails/marins-trail-king-profile-of-a-trail-builder)
 * [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murphy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
 * [Mountain Biking and the Future of Environmentalism (Marin IJ opinion piece by Jim Elias, MCBC Exec Director)](http://www.marinij.com/opinion/20170218/marin-voice-bike-access-to-trails-and-environmental-sustainability)
 
