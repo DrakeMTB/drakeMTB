@@ -13,6 +13,7 @@ permalink: /media/
 
 #### Brennan Healy productions
 * [Ft Ord 2017](https://www.youtube.com/watch?v=ubgbmzYe9YA)
+
 #### Joe Stranzl's video magic
  * [Drake Freshman Boys in their first race at Fort Ord 2017](https://www.youtube.com/watch?v=nvABfshenuo)
 
