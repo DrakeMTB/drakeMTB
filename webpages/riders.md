@@ -14,11 +14,12 @@ permalink: /riders/
 * [Team and Norcal League Rules]({{site.baseurl}}/rules)
 * [How to prepare for team rides]({{site.baseurl}}/practices)
 * [Estimate of annual team expenses]({{site.baseurl}}/expenses)
-
+* 
 * [Know what to wear on a ride for any weather condition]({{site.baseurl}}/images/what_to_wear_v2.pdf)
 * [Know what to bring on a team ride]({{site.baseurl}}/images/what_to_bring.jpg)
 * [Eat the right stuff!]({{site.baseurl}}/nutrition)
 * [Make sure you fit your bike (or that your bike fits you!)]({{site.baseurl}}/images/bike_fit_all.pdf)
+* 
 * [Back pain? Do this!]({{site.baseurl}}/images/physio_notes_2017.pdf)
 
 
