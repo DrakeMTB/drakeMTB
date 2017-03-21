@@ -7,6 +7,7 @@ stitle: sitemap
 
 <h1>Sitemap</h1>
 
+<!-- Sort all site pages alphabetically by their stitle attributes -->
 {% assign p = site.pages | sort:"stitle" %}
 <ul>
   {% for page in p %}
@@ -16,4 +17,16 @@ stitle: sitemap
   </li>
   {% endunless %}
   {% endfor %}
+  <li>
+    <a href="fitting">Fitting</a>
+  </li>
+  <li>
+    <a href="images/bike_fit_all.pdf">Bike Fit</a>
+  </li>
+  <li>
+    <a href="images/physio_notes_2017.pdf">Physio Notes</a>
+  </li>
+  <li>
+    <a href="stretching">Stretching</a>
+  </li>
 </ul>
