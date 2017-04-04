@@ -7,6 +7,9 @@ permalink: /girls/
 
 ![drake girls group](../images/drake_girls_group.png)
 
+* [#DrakeMTBGirls at Race 3 in 2017](https://www.youtube.com/watch?v=0N8iXa_M5oE)
+
+
 #### Stella Greeenwood - sophmore
 
 ![pic of stella](../images/girls_stella.jpg)
