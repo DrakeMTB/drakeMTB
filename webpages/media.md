@@ -13,9 +13,12 @@ permalink: /media/
 
 #### Brennan Healy productions
 * [Ft Ord 2017](https://www.youtube.com/watch?v=ubgbmzYe9YA)
+* [Laguna Seca 2017](https://www.youtube.com/watch?v=pqR9wSEq9Ho)
 
 #### Joe Stranzl's video magic
  * [Drake Freshman Boys in their first race at Fort Ord 2017](https://www.youtube.com/watch?v=nvABfshenuo)
+ * [Drake JV and Varsity at Laguna Seca 2017](https://www.youtube.com/watch?v=L-r5J5Dfc_Y)
+ * [#DrakeMTBGirls at Race 3 in 2017](hthttps://www.youtube.com/watch?v=0N8iXa_M5oE)
 
 
 ### News Articles
