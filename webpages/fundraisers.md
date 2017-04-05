@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drake MTB Fundraisers
+title: Fundraisers
 stitle: fundraisers
 permalink: /fundraisers/
 ---
