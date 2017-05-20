@@ -7,6 +7,6 @@ permalink: /party/
 
 ## End of Year Party!
 
-### Join us on June 3rd in Nicasio for the Drake MTB End of Year Party, at the Zaleski residence
+### Join us from 3pm to 5:30pm on June 3rd in Nicasio for the Drake MTB End of Year Party, at the Zaleski residence
 
-### Details below
+### Details tbd!
