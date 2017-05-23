@@ -16,11 +16,11 @@ But why do we care about changing the culture through public statement of this g
 
 Don't take our word for it though... take a look at this video from our [third race in 2017](https://www.youtube.com/watch?v=0N8iXa_M5oE).  Mental strength, emotional strength, community strength, physical strength - its all there.
 
-
 ![drake girls group](../images/drake_girls_group.png)
 
+For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
-#### Stella Greeenwood - sophmore
+#### Stella Greeenwood - sophomore
 
 ![pic of stella](../images/girls_stella.jpg)
 
