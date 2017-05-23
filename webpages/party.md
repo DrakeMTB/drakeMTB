@@ -26,7 +26,7 @@ permalink: /party/
 * Go over bridge
 * Zaleskis are second driveway on left (orange tile roof)
 
-#### If you get lost and are staring at cows:
+#### If you get lost and are staring at cows
 * Call Bonnie Zaleski at 415-713-8858 (Jade's mom)
 
 #### Bring swimsuit/towel for Pool!
