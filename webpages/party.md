@@ -19,6 +19,9 @@ permalink: /party/
 * 5 Nicasio Creek Rd
 * Nicasio, CA
 
+#### What should you bring?
+*  Food sign-up link coming (no surprise there!)
+
 #### Directions
 * Go West on Sir Francis Drake Blvd 
 * Turn Right on Nicasio Valley Rd
