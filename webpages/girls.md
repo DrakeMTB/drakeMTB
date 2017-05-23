@@ -18,6 +18,8 @@ Don't take our word for it though... take a look at this video from our [third r
 
 ![drake girls group](../images/drake_girls_group.png)
 
+****
+
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
 #### Stella Greeenwood - sophomore
