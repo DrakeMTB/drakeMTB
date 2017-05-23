@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Drake MTB Girls Team
-stitle: drake_mtb_girls_team
+title: 50_percent_by_2025
+stitle: 50_percent_by_2025
 permalink: /girls/
 ---
 ##  50% Girls by 2025
