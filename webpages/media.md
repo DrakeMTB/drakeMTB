@@ -13,7 +13,7 @@ permalink: /media/
 
 
 ### News Articles
-* <bold>[Drake MTB Wins State! in the Marin IJ](http://www.marinij.com/sports/20170515/mountain-biking-drake-repeats-as-state-champion-tam-runner-up-san-marin-second-in-division-ii)</bold>
+* [<b>Drake MTB Wins State! in the Marin IJ</b>](http://www.marinij.com/sports/20170515/mountain-biking-drake-repeats-as-state-champion-tam-runner-up-san-marin-second-in-division-ii)
 * [Trailbuilder Jim Jacobson of Forest Knolls in a singletracks.com article in March 2017](https://www.singletracks.com/blog/mtb-trails/marins-trail-king-profile-of-a-trail-builder)
 * [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murphy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
 * [Mountain Biking and the Future of Environmentalism (Marin IJ opinion piece by Jim Elias, MCBC Exec Director)](http://www.marinij.com/opinion/20170218/marin-voice-bike-access-to-trails-and-environmental-sustainability)
