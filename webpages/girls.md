@@ -8,7 +8,7 @@ permalink: /girls/
 
 The Drake Mountain Bike Team has made a public commitment to have half of the team represented by girl riders by 2025 (currently the team is approximately 25% girls).  
 
-### Why do we care?  Its just a number...
+### Why do we care?  It is just a number...
 
 Yes it is an abstract thing, this 50%, but it represents an ambitious goal to change the culture of cross-country mountain bike racing.  The Drake MTB team is a member of [NorCal](http://norcalmtb.org), which is a league within the National Interscholastic Cycling League, or [NICA](http://www.nationalmtb.org/).  The mission of these organizations is, simply, to get more kids on bikes by providing a "positive experience for all student-athletes, and helping them to create strong body, mind and character through the sport of cycling".  Last time we checked, approximately half of the student body at Drake is girls, so the 50% goal seems logical for appropriate representation of who attends Drake.  
 
