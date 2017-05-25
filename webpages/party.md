@@ -20,7 +20,7 @@ permalink: /party/
 * Nicasio, CA
 
 #### What should you bring?
-*  Food sign-up link coming (no surprise there!)
+*  [Sign up for something here!](https://docs.google.com/document/d/1hqwFzbk0JLgBNgdzwhdL-pr_1hlM51uiQcDGBhBh-wc/edit)
 
 #### Directions
 * Go West on Sir Francis Drake Blvd 
