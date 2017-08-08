@@ -8,6 +8,9 @@ permalink: /girls/
 
 The Drake Mountain Bike Team has made a public commitment to have half of the team represented by girl riders by 2025 (currently the team is approximately 25% girls).  
 
+A [great NorCal produced video](https://m.youtube.com/watch?v=RMzVFlOF8R4) on the impact of mountain biking on girls. More information can be found in [this article](https://www.trekbikes.com/us/en_US/story/the_new_normal).
+
+
 ### Why do we care?  It is just a number...
 
 Yes it is an abstract thing, this 50%, but it represents an ambitious goal to change the culture of cross-country mountain bike racing.  The Drake MTB team is a member of [NorCal](http://norcalmtb.org), which is a league within the National Interscholastic Cycling League, or [NICA](http://www.nationalmtb.org/).  The mission of these organizations is, simply, to get more kids on bikes by providing a "positive experience for all student-athletes, and helping them to create strong body, mind and character through the sport of cycling".  Last time we checked, approximately half of the student body at Drake is girls, so the 50% goal seems logical for appropriate representation of who attends Drake.  
@@ -22,7 +25,15 @@ Don't take our word for it though... take a look at this video from our [third r
 
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
-#### Stella Greeenwood - sophomore
+#### Hannah Betz - junior
+
+![pic of hannab](../images/girls_hannahb.jpg)
+
+lorem ipsum
+
+****
+
+#### Stella Greenwood - senior
 
 ![pic of stella](../images/girls_stella.jpg)
 
@@ -30,7 +41,7 @@ I’m Stella Greenwood and I’m a Junior girl on the Drake Mountain Bike Team. 
 
 ****
 
-#### Elise Nicol - sophmore
+#### Elise Nicol - senior
 
 ![pic of Elise](../images/girls_elise.jpg)
 
@@ -38,13 +49,13 @@ I ride because it gives me freedom, joy and a sense of being part of something m
 
 ****
 
-#### Uma Teesdale - junior varsity
+#### Uma Teesdale - senior
 
 ![pic of Uma](../images/girls_uma.jpg)
 
 ****
 
-#### Aliyah Trimble sophmore
+#### Aliyah Trimble senior
 
 ![pic of Aliyah](../images/girls_aliyah.jpg)
 
@@ -52,7 +63,7 @@ I love mountain biking and I love being a part of a supportive team. The Drake m
 
 ****
 
-#### Lilly Willis sophmore
+#### Lilly Willis senior
 
 ![pic of Lilly](../images/girls_lilly.jpg)
 
@@ -64,7 +75,7 @@ We may be the Drake MTB Divas, but we are not your average diva. We are loving, 
 
 ****
 
-#### Jade Zaleski sophmore
+#### Jade Zaleski senior
 
 ![pic of Jade](../images/girls_jade.jpg)
 
@@ -72,16 +83,16 @@ I started mnt biking because I loved the idea of fun downhills, and that their w
 
 ****
 
-#### Hannah Childress - junior varsity
+#### Audrey Fehlhaber - sophomore
 
-![pic of Hannah](../images/girls_hannah.jpg)
+![pic of Audrey](../images/girls_audrey.jpg)
 
- Hey everyone! My name is Hannah Childress and I am a senior riding Varsity this year. I am so excited to meet everyone and get together to share one common interest, the love of mountain biking! I want all of you to know that it doesn’t matter how long you have been riding, or what bike you have, or what shoes you wear, it’s all about your attitude on the bike. This has always been something really important to the Drake MTB Team, because we know that this can affect the way you and lots of the people around you ride. This year my goal is to make sure that everyone knows that they have a place on the team (and to learn everyone’s names) Feel free to contact me anytime with questions, concerns or especially if you want to go on a ride! hg.childress@gmail.com It’s gonna be a rad year! Go Pirates!
+When I joined the mountain biking team, I had no idea what I was getting into. Little did I know that within a few short months I would meet some of my closest friends, push myself harder than I thought possible, and find my second family. I was hesitant to start biking again, but as someone who tends to go for all or nothing, I let go of my uncertainty and went for it. Biking has become a part of me, and is now hard for me to go without. My positive experiences have been fueled by the passion and support of the tightly knit community that makes up our team. To be a part of this group is something truly special, and I consider myself lucky to ride with those who love mountain biking as much as I do.
 
 ****
 
-#### Lisette Werba - junior varsity
+#### Justine McOuat - sophomore
 
-![pic of Lisette](../images/girls_lisette.jpg)
+![pic of Justine](../images/girls_justine.jpg)
 
 ****
