@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 50_percent_by_2025
-stitle: 50_percent_by_2025
+title: 50 percent by 2025
+stitle: 50 percent by 2025
 permalink: /girls/
 ---
 ##  50% Girls by 2025
