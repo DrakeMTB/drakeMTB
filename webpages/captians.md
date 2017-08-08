@@ -10,13 +10,11 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 ## The following individuals are currently Captains for the Drake MTB team:
 
-#### Hannah Childress
+#### Dylan Fryer
 
-![Hannah]({{site.basurl}}/images/hannah_captain.jpg)
+![Dylan]({{site.basurl}}/images/dylan_captain.jpg)
 
-Hey everyone!
-My name is Hannah Childress and I am a senior riding Varsity this year. I am so excited to meet everyone and get together to share one common interest, the love of mountain biking! I want all of you to know that it doesn't matter how long you have been riding, or what bike you have, or what shoes you wear, it's all about your attitude on the bike. This has always been something really important to the  Drake MTB Team, because we know that this can affect the way you and lots of the people around you ride. This year my goal is to make sure that everyone knows that they have a place on the team (and to learn everyone's names) Feel free to contact me anytime with questions, concerns or especially if you want to go on a ride! hg.childress@gmail.com It's gonna be a rad year! Go Pirates!
-
+lorem ipsum
 
 #### Ronan Goulden
 
@@ -24,19 +22,17 @@ My name is Hannah Childress and I am a senior riding Varsity this year. I am so 
 
 Hey! My name is Ronan Goulden and I am a junior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates!
 
+#### Stella Greenwood
 
-#### Alec Levy O’Brien
+![Stella]({{site.basurl}}/images/stella_captain.jpg)
 
-![Alec]({{site.basurl}}/images/alec_captain.jpg)
-
-Howdy all! My name is Alec Levy-O’Brien, and I am a senior at Drake! Since the age of seven, I have been very active as a cyclist. Growing up in Marin County has been a privilege, with picturesque trails, roads, and paths providing endless opportunities to ride. I could not have asked for a better place to live. When I entered high school, I did not intend on joining the team, as I was deeply involved with road cycling at the time and was partaking in charity endurance road rides. But since I have, I have been able to create bonds and friendships that will last a lifetime, as well as harness the skills I will need to further my cycling prowess. I have been racing for three years now and I am excited to race with all of you in my fourth season. I have come to enjoy all sorts of cycling disciplines including track cycling, road cycling, XC, as well as enduro and downhill as well. As team captain, I hope to be a strong voice in the cycling community to better our public image, open new trails, and help you improve your riding in any way I can. Don’t be afraid to talk to me, I usually don’t bite. See you all soon!
-
+more lorem ipsum
 
 #### Elise Nicol
 
 ![Elise]({{site.basurl}}/images/elise_captain.jpg)
 
-Hi! I'm Elise. I'm a junior on the team this year racing JV for the first time! When I (reluctantly) signed up for mountain biking freshman year, I had no idea how much I would grow to love the people, places, and things we do together. I didn't used to be athletic, but I learned that I'm very competitive and I can use that to help me go fast. Mountain biking is a great opportunity to get out and see the beautiful areas of Marin and California. I love cheering teammates on from hammocks suspended in trees, breathlessly racing to the top of Loma Alta, team dinners and playing cards against humanity in hotel rooms, and running up to the top tier of the podium with everyone. My goal as a captain is to help everyone feel the same joy and pride as I do. Drake mountain biking means so much to me and I hope that I can share that love with everyone on the team! Please ask me anything or let me know if I can help. Roll pirates!
+Hi! I’m Elise. I’m a senior on the team this year racing varsity for the first time! When I (reluctantly) signed up for mountain biking freshman year, I had no idea how much I would grow to love the people, places, and things we do together. I didn’t used to be athletic, but I learned that I’m very competitive and I can use that to help me go fast. Mountain biking is a great opportunity to get out and see the beautiful areas of Marin and California. I love cheering teammates on from hammocks suspended in trees, breathlessly racing to the top of Loma Alta, team dinners and playing cards against humanity in hotel rooms, and running up to the top tier of the podium with everyone. My goal as a captain is to help everyone feel the same joy and pride as I do. Drake mountain biking means so much to me and I hope that I can share that love with everyone on the team! Please ask me anything or let me know if I can help. Roll pirates!
 
 
 #### Lily Willis
@@ -80,9 +76,3 @@ DrakeMTB is a powerful voice in the local social community and the global mounta
 
 **Pre-race talks**  
 Each team captain can volunteer for pre-race talks to get the other riders ready to race.  While adults can give guidance and suggestions for racing, over the years we have found that peers speaking about the pressures and strategy of racing can be more effective, though a rousing Roll Pirates! cheer is something that we encourage everyone in the Pit Zone to participate in.
-
-**Yoga Captain**  
-Drake riders train hard before and during the season, and such strenuous training can lead to muscle development that needs complementary exercise for long-term health and physical balance.  Thanks to one of our sponsors, <http://www.marinpoweryoga.com>, the team has an opportunity to engage in stretching-focused yoga.  One of the Drake captains has responsibility for getting those who want or need weekly Yoga involved with these free weekly sessions.
-
-**Pelo Captain**  
-Interval training is one of the keys to improving race performance, and we have yet another sponsor <http://www.pelofitness.com>  who offers free weekly sessions for the Drake team.  Because trail terrain varies and riders tend to spread out over time, true interval training is very difficult.  Pelo training gets all of the riders in one room and helps them do true power-based cycling interval training and visualization.  There is a very strong correlation between fitness improvement and Pelo attendance – ask any past rider.  One of the Drake captains has responsibility for getting those who want or need weekly interval training involved with these free weekly sessions.
