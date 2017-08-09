@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Captains for 2016-17
+title: Team Captains for 2017-18
 stitle: team_captains
 permalink: /captains/
 ---
