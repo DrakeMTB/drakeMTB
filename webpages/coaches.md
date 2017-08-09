@@ -86,14 +86,14 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Annual Waiver
  * Annual Risk Management webinar 1 and test
 
-## Your Coaches, Ride Leaders, and Team Mechanics for the 2017 Season
+## Your Coaches, Ride Leaders, and Team Mechanics for the 2018 Season
 
 #### Co-Head Coach Otis Guy
 
 ![Otis]({{site.basurl}}/images/Otis-Guy.jpg)
 
 Otis started riding mountain bikes in 1973 with Joe Breeze and Marc Vendetti. They first rode single speed pre-WWII Schwinns all over Mt. Tam. They later progressed to adding gears to old frames until Joe began building new frames in 1978. Otis started building frames in 1982 under his own name. He’s the only person to have raced the first Repack downhill mountain bike race (just outside Fairfax), the first Mountain Bike National Championships (1983), and the first Mountain Bike World Championships (1990). He holds the record for third fastest time ever on Repack, and won the event once. For 15 years he had his own race team (1985-2000). Otis was inducted into the Mountain Bike Hall of Fame in 1993. Otis is also a Paramedic and worked for the Ross Valley Fire Service from 1975 to 2007. In the summer Otis runs the [Otis Guy Mountain Bike camp](http://www.otisguymountainbikecamp.com) for 7-13 year olds. This camp has helped fill out the rosters in many of the local high schools. More importantly has given the spark of cycling to many kids. He is a certified EMS, Wilderness First Aid and First Aid instructor. Otis is one of the founding board members of the Marin Museum of Bicycling and the [Mountain Bike Hall of Fame](http://mmbhof.org/) located at 1966 SFD Blvd. in Fairfax.
-His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling graduated from Drake in 2015 and his youngest son Marcus is now a Junior at Drake and rides on the MTB team. DrakeMTBCoaches@gmail.com
+His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling graduated from Drake in 2015 and his youngest son Marcus is now a Senior at Drake and rides on the MTB team. DrakeMTBCoaches@gmail.com
 
 
 #### Co-Head Coach Rob Reed
@@ -112,7 +112,7 @@ I'm Chris, aka Tommy's dad. I grew up in Sunnyvale, riding BMX bikes in the gold
 
 ![greg]({{site.baseurl}}/images/murphy-coach.jpg)
 
-My son Conner joined the team as a freshman two years ago, and within weeks he was passing me on the way up Shaver Grade, heading into the Water District. He has developed a true love of mountain biking, and it has been a pleasure to watch.  I’m proud to be able to join him as ride leader and assistant coach. It is a pleasure to be a part of such a strong and determined group, and share in the development and success of all these kids.  We’re so fortunate to have Mt. Tam in our backyard and be able to explore it on bikes.  We live in the cradle of this sport here in Marin, and learning about the history of the sport has been fascinating to me.  I invite all parents to get involved in all elements of the team.  Come out and ride!
+My son Conner joined the team as a freshman three years ago, and within weeks he was passing me on the way up Shaver Grade, heading into the Water District. He has developed a true love of mountain biking, and it has been a pleasure to watch.  I’m proud to be able to join him as ride leader and assistant coach. It is a pleasure to be a part of such a strong and determined group, and share in the development and success of all these kids.  We’re so fortunate to have Mt. Tam in our backyard and be able to explore it on bikes.  We live in the cradle of this sport here in Marin, and learning about the history of the sport has been fascinating to me.  I invite all parents to get involved in all elements of the team.  Come out and ride!
 
 #### Assistant Coach Scott Samet
 
