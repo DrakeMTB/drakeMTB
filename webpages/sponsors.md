@@ -114,4 +114,4 @@ Phone# (415) 456-9193
 
 ***
 **In Memory of Jim Miller**<br>
-[![logo](../images/jmiller.jpg)](/jmiller)
+[![logo](../images/jmiller.jpg)](/jim_miller)
