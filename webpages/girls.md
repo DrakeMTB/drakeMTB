@@ -29,7 +29,7 @@ For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
 ![pic of hannab](../images/girls_hannahb.jpg)
 
-lorem ipsum
+Starting to mountain bike was the best thing I've ever done for myself. Joining the drake MTB team seemed daunting at first, but with the support of my family and friends that I made before and after joining the club, I went from a total biking beginner to a racer on an incredible competitive team. I mountain bike because it makes me feel great. I hadn't really been a part of a sports team or really even regularly exercised before I joined the team, and it seemed so crazy that I could be having so much fun while also taking care of myself and my body. Racing was hard to get used to and it took a lot of dedication to improve, but it was all worth it. I felt confident and supported by my team from my worst race to my best race. On top of that, I made so many close friends and became part of the enormous mountain bike community that exists in Marin. I literally started from the bottom and it just goes to show that any girl can join the team and feel right at home, no matter the skill level.
 
 ****
 
