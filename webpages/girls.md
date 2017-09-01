@@ -70,11 +70,7 @@ I love mountain biking and I love being a part of a supportive team. The Drake m
 
 ![pic of Lilly](../images/girls_lilly.jpg)
 
-There is wind on my face, cooling the sweat. I am surrounded by people who love me and whom I love. Breathing hard, I am alert, focused, happy. I am on a team ride.
-I ride for the people. Lots of my all-time favorite people are on this team. The community of loving, supportive people is a must-have in high school, and no one does it better than Drake MTB!
-Not to mention the strength I've built over the seasons. Not only physical, though no one can deny we are fit, but mental and emotional. I've pushed myself beyond everything I thought I was capable of, and grown into a stronger person because of it.
-And what fun it is! I can picture us girls after our race, on our feet, despite the long day, cheering our boys on with unconditional love and energy. It is the best image of our supportive community I can conjure up.
-We may be the Drake MTB Divas, but we are not your average diva. We are loving, strong, supportive, and fun-loving girls who ride their bikes. A lot.
+There is wind on my face, cooling the sweat. I am surrounded by people who love me and whom I love. Breathing hard, I am alert, focused, happy. I am on a team ride. I ride for the people. Lots of my all-time favorite people are on this team. The community of loving, supportive people is a must-have in high school, and no one does it better than Drake MTB! Not to mention the strength I've built over the seasons. Not only physical, though no one can deny we are fit, but mental and emotional. I've pushed myself beyond everything I thought I was capable of, and grown into a stronger person because of it. And what fun it is! I can picture us girls after our race, on our feet, despite the long day, cheering our boys on with unconditional love and energy. It is the best image of our supportive community I can conjure up. We may be tough-as-nails mountain bikers, but we are loving, strong, supportive, and fun-loving girls who ride their bikes. A lot.
 
 ****
 
@@ -82,7 +78,7 @@ We may be the Drake MTB Divas, but we are not your average diva. We are loving, 
 
 ![pic of Jade](../images/girls_jade.jpg)
 
-I started mnt biking because I loved the idea of fun downhills, and that their was a whole team for it at Drake high school. I now know it is a lot more work than just fun downhills, its a great workout each day. I never thought racing would be so much fun either, but it is such an awsome supportive community that I wouldn't have it any other way! The team is amazing!
+I started mountain biking because I loved the idea of fun downhills, and that their was a whole team for it at Drake high school. I now know it is a lot more work than just fun downhills, its a great workout each day. I never thought racing would be so much fun either, but it is such an awsome supportive community that I wouldn't have it any other way! The team is amazing!
 
 ****
 
