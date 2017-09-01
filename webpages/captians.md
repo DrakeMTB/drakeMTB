@@ -12,7 +12,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Dylan Fryer
 
-![Dylan]({{site.basurl}}/images/dylan_captain.jpeg2)
+![Dylan]({{site.basurl}}/images/dylan_captain.jpeg)
 
 lorem ipsum
 
@@ -67,7 +67,7 @@ One of the most difficult aspects of building team cohesiveness is finding time 
 Getting more girls on the Drake team is a mission-critical initiative for many reasons.  Mountain biking is a gender-neutral activity, but the sport is still heavily skewed towards male.  When the composition of the team reflects the general demographics of Drake High School, then we can consider #DrakeMTBGirls a success, and shorten the hashtag to #DrakeMTB.  Until then, all of the captains have a responsibility to recruit, retain, and promote girls on the team so that girls see it as an activity that they own, vs one that is “boys only”.  Activities include appropriate social media postings (see example below), organizing rides with younger female riders, having girls-only rides at least once a month (in lieu of a regular Tuesday/Thursday/Sunday team ride), and having at least one girls-only Drake MTB social event.
 
 
-![Social Media example]({{site.basurl}}/images/drakemtbgirls_instagram.JPG)
+![Social Media example]({{site.basurl}}/images/drakemtbgirls_instagram.JPG2)
 
 And finally, it is always good to check in with Title IX: “No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving federal financial assistance.”
 
