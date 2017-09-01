@@ -12,7 +12,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Dylan Fryer
 
-![Dylan]({{site.basurl}}/images/dylan_captain.jpeg)
+![Dylan]({{site.basurl}}/images/dylan_captain2.jpeg)
 
 lorem ipsum
 
