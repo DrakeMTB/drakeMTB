@@ -12,7 +12,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Dylan Fryer
 
-![Dylan]({{site.basurl}}/images/dylan_captain.jpeg)
+![Dylan]({{site.basurl}}/images/dylan_captain.jpeg2)
 
 lorem ipsum
 
@@ -20,7 +20,7 @@ lorem ipsum
 
 ![Ronan]({{site.basurl}}/images/ronan_captain.jpg)
 
-Hey! My name is Ronan Goulden and I am a junior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates!
+Hey! My name is Ronan Goulden and I am a senior riding Varsity this year. I started mountain biking back in 6th grade and have been hooked ever since. I have had the pleasure of being on the Drake Team for the past two years and have improved leaps and bounds since I joined freshman year. When it comes to riding and racing, I have been pretty much through it all: major pre-race jitters, crashing into my friend at the start of my first freshman race (sorry Wyatt), racing with the flu and taking a header into a muddy stream, dropping my water bottle countless times, and even winning it all. Please don’t hesitate to ask me any questions (parents included), I would love to help you out. Feel free to connect with me anytime at my email: ronan.goulden@gmail.com I am super excited to be one of your team captains and Go Pirates!
 
 #### Stella Greenwood
 
