@@ -40,8 +40,7 @@ Hi! I’m Elise. I’m a senior on the team this year racing varsity for the fir
 
 ![Lily]({{site.basurl}}/images/lily_captain.jpg)
 
-Good day. My name is Lily Willis. I am told my name has too many "L's" and too many "I's". I also respond to "Howdy Butt" (it's a bike team thing, ask me about it), "the loud one", "Willy Lillis", and sometimes "Hermione". I am passionate about many things, but Drake MTB is at the top of my list. Other things I am passionate about include laughing, books, people, and the ocean.
-It is my dream that as captain I will support every rider all that I can. This team has meant so much to me, and I hope I can show you exactly what I'm talking about.
+Good day. My name is Lily Willis and I am a senior riding Junior Varsity this year. I am told my name has too many "L's" and too many "I's". I also respond to "Howdy Butt" (it's a bike team thing, ask me about it), "the loud one", "Willy Lillis", and sometimes "Hermione". I am passionate about many things, but Drake MTB is at the top of my list. Other things I am passionate about include laughing, books, people, and the ocean. It is my dream that as captain I will support every rider all that I can. This team has meant so much to me, and I hope I can show you exactly what I'm talking about.
 
 
 **Drake Captains** also meet a stringent set of **requirements** above and beyond showing up to team practices and races:
