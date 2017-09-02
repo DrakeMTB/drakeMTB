@@ -25,7 +25,7 @@ permalink: /parents/
 ||||
 | ~~[Participate in Fundraising for the team](https://www.piggybackr.com/drakemtb/drake-mtb-2017-drake-mountain-bike-team-fundraiser)~~ | ~~~Help raise the second half of the money that pays for races, coaching stipends, and team necessities~~ | ~~December 31st~~ |
 ||||
-| [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLSdGmI-vk2ad8dLRt2BA0XTWm1Cj1EHjzog01pnGqr3qLIEOgA/viewform) | The money that pays for your races, coaching stipends, and other team necessities | December 25th |
+| [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform)| The money that pays for your races, coaching stipends, and other team necessities | December 25th |
 ||||
 | ~~[Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in)~~ | ~~info the league needs to allow you to race with the team~~ |            ~~January 15th~~ |
 ||||
