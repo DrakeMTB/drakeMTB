@@ -21,9 +21,9 @@ permalink: /parents/
 ||||
 | ~~[Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)~~| ~~Get your jersey and shorts that identifies you as a Drake Rider~~ | ~~November 17th~~ |
 ||||
-| ~~[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform)~~ | ~~Financial assistance to help assure equal opportunities for all riders~~ |  ~~November 28th~~ |
+| [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
-| [Participate in Fundraising for the team](more information coming soon)| Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 15th |
+| [Participate in Fundraising for the team](URL tbd)| more information soon! Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 15th |
 ||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
