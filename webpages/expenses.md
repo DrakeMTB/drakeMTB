@@ -9,13 +9,13 @@ Mountain biking is a resource-intensive sport.  The following information gives 
 
 Item  | Cost
 :-----------| ----------:
-Team Dues + fundraising commitment  | 600
+Team Dues  | 600 
 Bicycle  | 1,500
 Bicycle upkeep  | 350
 Clothing  | 100
 Helmet and Shoes  | 200
 Travel (5 races)  | 750
-Aproximate Total  | 3,250
+Aproximate Total  | 3,500
 
 **Note** that this estimate includes the cost of getting a race-ready mountain bike.  If your rider already has a bike, then nearly half of the expense is already taken care of.
 
