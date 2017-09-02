@@ -19,7 +19,9 @@ permalink: /parents/
 | [Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            Friday October 6th |
 || (please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf), which contains important limitations on the scope of Drake MTB's club activities) ||
 ||||
-| ~~[Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6A2F57EE-30D7-45CE-9B5C-A9C85D614A74)~~| ~~Get your jersey and shorts that identifies you as a Drake Rider~~ | ~~November 17th~~ |
+|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Friday October 6th |
+||||
+|[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Friday October 6th |
 ||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
@@ -27,11 +29,9 @@ permalink: /parents/
 ||||
 | [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
-| ~~[Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in)~~ | ~~info the league needs to allow you to race with the team~~ |            ~~January 15th~~ |
+| [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
-|~~[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf)~~ | ~~This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ | ~~January 30th~~ |
-||||
-|~~[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)~~| ~~This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com>~~ | ~~January 30th~~ |
+| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to race with the team |            January 15th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
