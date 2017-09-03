@@ -53,6 +53,8 @@ I’m Stella Greenwood and I’m a Senior girl riding Varsity on the Drake Mount
 ![pic of Ceci](../images/girls_ceci.jpg)
 My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. Freshman year was my first year mountain biking. I am really grateful for the mountain biking community. Being on such a kind and supportive team has helped me improve and become a better mountain biker. At the beginning of my first season, I was really nervous about the races, but  you are just encouraged to try your best and have fun. I started mountain biking because my parents encouraged me to get more involved with sports, and I thought it seemed really fun. Now mountain biking is one of my favorite activities! I love being on the drake mountain biking team!
 
+****
+
 #### Justine McOuat - sophomore
 
 ![pic of Justine](../images/justine_girls.jpg)
@@ -108,8 +110,5 @@ There is wind on my face, cooling the sweat. I am surrounded by people who love 
 ![pic of Jade](../images/girls_jade.jpg)
 
 I started mountain biking because I loved the idea of fun downhills, and that their was a whole team for it at Drake high school. I now know it is a lot more work than just fun downhills, its a great workout each day. I never thought racing would be so much fun either, but it is such an awsome supportive community that I wouldn't have it any other way! The team is amazing!
-
-****
-
 
 ****
