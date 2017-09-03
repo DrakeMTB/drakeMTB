@@ -49,6 +49,15 @@ I ride because it gives me freedom, joy and a sense of being part of something m
 
 ****
 
+#### Hannah Spencer - senior
+
+![pic of HannahS](../images/hannahs_girls.jpg)
+
+I ride because, well, every mountain bike team needs at least two Hannahs.
+
+****
+
+
 #### Uma Teesdale - senior
 
 ![pic of Uma](../images/girls_uma.jpg)
