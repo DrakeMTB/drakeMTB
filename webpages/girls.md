@@ -33,11 +33,31 @@ Starting to mountain bike was the best thing I've ever done for myself. Joining 
 
 ****
 
+#### Audrey Fehlhaber - sophomore
+
+![pic of Audrey](../images/audrey_girls.jpg)
+
+When I joined the mountain biking team, I had no idea what I was getting into. Little did I know that within a few short months I would meet some of my closest friends, push myself harder than I thought possible, and find my second family. I was hesitant to start biking again, but as someone who tends to go for all or nothing, I let go of my uncertainty and went for it. Biking has become a part of me, and is now hard for me to go without. My positive experiences have been fueled by the passion and support of the tightly knit community that makes up our team. To be a part of this group is something truly special, and I consider myself lucky to ride with those who love mountain biking as much as I do.
+
+****
+
 #### Stella Greenwood - senior
 
 ![pic of stella](../images/stella_girls.jpg)
 
 I’m Stella Greenwood and I’m a Senior girl riding Varsity on the Drake Mountain Bike Team. I love mountain biking because it is a fun way to explore our amazing county and exercise at the same time. But more than that, it introduced me to an amazing community that spreads worldwide. I have had the pleasure of riding outside of our tightly knitted community and the fun loving spirit is continuous throughout. Drake MTB is a wonderful group of kids and adults who share the common interest of cycling, but made it so much more than that. I love riding primarily for the people I ride with, and thank everyone for being so amazing. Roll Pirates!
+
+****
+#### Ceci Hellman - sophomore
+
+![pic of Ceci](../images/girls_ceci.jpg)
+My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. Freshman year was my first year mountain biking. I am really grateful for the mountain biking community. Being on such a kind and supportive team has helped me improve and become a better mountain biker. At the beginning of my first season, I was really nervous about the races, but  you are just encouraged to try your best and have fun. I started mountain biking because my parents encouraged me to get more involved with sports, and I thought it seemed really fun. Now mountain biking is one of my favorite activities! I love being on the drake mountain biking team!
+
+#### Justine McOuat - sophomore
+
+![pic of Justine](../images/justine_girls.jpg)
+
+I ride because boys THINK they can shred... then they watch me ride, and then they realize how much they have to learn.
 
 ****
 
@@ -91,24 +111,5 @@ I started mountain biking because I loved the idea of fun downhills, and that th
 
 ****
 
-#### Audrey Fehlhaber - sophomore
-
-![pic of Audrey](../images/audrey_girls.jpg)
-
-When I joined the mountain biking team, I had no idea what I was getting into. Little did I know that within a few short months I would meet some of my closest friends, push myself harder than I thought possible, and find my second family. I was hesitant to start biking again, but as someone who tends to go for all or nothing, I let go of my uncertainty and went for it. Biking has become a part of me, and is now hard for me to go without. My positive experiences have been fueled by the passion and support of the tightly knit community that makes up our team. To be a part of this group is something truly special, and I consider myself lucky to ride with those who love mountain biking as much as I do.
-
-****
-
-#### Justine McOuat - sophomore
-
-![pic of Justine](../images/justine_girls.jpg)
-
-****
-#### Ceci Hellman - sophomore
-
-![pic of Ceci](../images/girls_ceci.jpg)
-My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. Freshman year was my first year mountain biking. I am really grateful for the mountain biking community. Being on such a kind and supportive team has helped me improve and become a better mountain biker. At the beginning of my first season, I was really nervous about the races, but  you are just encouraged to try your best and have fun. I started mountain biking because my parents encouraged me to get more involved with sports, and I thought it seemed really fun. Now mountain biking is one of my favorite activities! I love being on the drake mountain biking team!
-
-****
 
 ****
