@@ -75,7 +75,7 @@ I ride because it gives me freedom, joy and a sense of being part of something m
 
 ![pic of HannahS](../images/hannahs_girls.jpg)
 
-I ride because, well, every mountain bike team needs at least two Hannahs.
+I'm Hannah Spencer, a senior riding Junior Varsity this year. I started riding because it was a fun way to spend time with my friends during the summer. I continue to ride because of the awesome people on/involved with the Drake team and the fun, welcoming atmosphere. Being on such a wonderful and supportive team helped me grow into a stronger and better me. Plus, the races are super exciting. I hope to see you on the trails!
 
 ****
 
