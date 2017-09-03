@@ -59,8 +59,7 @@ My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. 
 
 ![pic of Justine](../images/justine_girls.jpg)
 
-I ride because boys THINK they can shred... then they watch me ride, and then they realize how much they have to learn.
-
+I'm Justine McOuat, currently a sophomore at Drake, and I don't know exactly where I would be without the beautiful Drake Mountain Biking Team. Or let alone, biking in general. I started mountain biking in the summer after 6th grade, after I tried to join a mountain biking club and was shut down by a boy saying "you know this is for advanced riders, right?". Boy, did that tick me off, but man did it push me to prove to him that he was an idiot. I road with my dad and did a mountain bike camp, and then turned into a counselor at that very same camp, where I actively support little kids (especially lil ladies) on the trails and off. That camp was the opening of the ever flourishing mountain biking community, and all of its wonder. I've know since middle school that I was going to be on the Drake team no matter what, so I did. One of the best decisions of my life. The coaches and my teammates have always been so caring and supportive. They helped me fall in love with the sport even more. I'd consider them my second family, and some of my best friends. A special thank you to Rob and Otis for being the best coaches I've ever known, and for starting this 50% by 2025 movement. 
 ****
 
 #### Elise Nicol - senior
