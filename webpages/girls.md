@@ -50,7 +50,7 @@ I’m Stella Greenwood and I’m a Senior girl riding Varsity on the Drake Mount
 ****
 #### Ceci Hellman - sophomore
 
-![pic of Ceci](../images/girls_ceci.JPEG)
+![pic of Ceci](../images/girls_ceci.jpg)
 My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. Freshman year was my first year mountain biking. I am really grateful for the mountain biking community. Being on such a kind and supportive team has helped me improve and become a better mountain biker. At the beginning of my first season, I was really nervous about the races, but  you are just encouraged to try your best and have fun. I started mountain biking because my parents encouraged me to get more involved with sports, and I thought it seemed really fun. Now mountain biking is one of my favorite activities! I love being on the drake mountain biking team!
 
 ****
@@ -64,7 +64,7 @@ I'm Justine McOuat, currently a sophomore at Drake, and I don't know exactly whe
 
 #### Elise Nicol - senior
 
-![pic of Elise](../images/elise_girls.JPEG)
+![pic of Elise](../images/elise_girls.jpg)
 
 I ride because it gives me freedom, joy and a sense of being part of something much larger than just me. Before the Drake team, I had not been part of a team or involved in sports. I didn't feel a sense of belonging and that people had my back no matter what. Now I am part of a family that supports and encourages me in all parts of my life. Mountain biking has made me happier, more fit, and more confident. I look forward to practice because I can escape from stress and be outdoors. I ride for fun, friends, well-being, to push myself, and because I love it.
 
@@ -72,7 +72,7 @@ I ride because it gives me freedom, joy and a sense of being part of something m
 
 #### Hannah Spencer - senior
 
-![pic of HannahS](../images/hannahs_girls.JPEG  )
+![pic of HannahS](../images/hannahs_girls.jpg  )
 
 I'm Hannah Spencer, a senior riding Junior Varsity this year. I started riding because it was a fun way to spend time with my friends during the summer. I continue to ride because of the awesome people on/involved with the Drake team and the fun, welcoming atmosphere. Being on such a wonderful and supportive team helped me grow into a stronger and better me. Plus, the races are super exciting. I hope to see you on the trails!
 
