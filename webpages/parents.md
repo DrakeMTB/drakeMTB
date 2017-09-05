@@ -12,16 +12,16 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Friday October 6th |
+| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Saturday September 16th |
 ||||
-| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | Friday October 6th |
+| [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | Saturday September 16th |
 ||||
-| [Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            Friday October 6th |
+| [Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            Saturday September 16th |
 || (please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf), which contains important limitations on the scope of Drake MTB's club activities) ||
 ||||
-|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Friday October 6th |
+|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Saturday September 16th |
 ||||
-|[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Friday October 6th |
+|[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Saturday September 16th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
