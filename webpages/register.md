@@ -5,7 +5,7 @@ stitle: register
 permalink: /register/
 ---
 
-# The team registration deadline is September 16th 2017...
+# The team registration deadline is September 17th 2017...
 
 ![sad Waldo]({{site.baseurl}}/images/sad_waldo.jpg)
 
