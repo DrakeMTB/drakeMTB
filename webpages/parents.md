@@ -15,9 +15,9 @@ These items must be completed	by	<b>Saturday,	September	17.	<font color="red">LA
 * Field	Trip	Permission	Form
 * Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form)	
 * Driver	Certification	Form	(include	both	parents/guardians	on	this	form)	
-* ####Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
+####Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
 policy	holder,	coverage	levels,	and	effective	dates####
-* ####If	student	will	drive,	include	copy	of	student’s	drivers	license####
+####If	student	will	drive,	include	copy	of	student’s	drivers	license####
 * Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
 
 
