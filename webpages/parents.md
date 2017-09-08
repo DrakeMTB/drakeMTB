@@ -6,7 +6,7 @@ permalink: /parents/
 ---
 # Parents
 
-Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	[pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) before	participating	in any	team	activities.
+Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	[pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) and complete the [Rider Registration Form]({{site.baseurl}}/register) before	participating	in any	team	activities.
 
 This paperwork must be	completed	and	returned	by	<b>Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font></b> The	due	date	is	imposed	by	the	School	District, not by us,	to	allow	for	District	Board	approval	of	the camping	trip.	
 
