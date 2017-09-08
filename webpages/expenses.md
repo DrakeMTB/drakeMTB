@@ -12,10 +12,10 @@ Item  | Cost
 Team Dues | 600 
 Bicycle  | 1,500
 Bicycle upkeep  | 350
-Clothing  | 100
+Clothing  | 200
 Helmet and Shoes  | 200
 Travel (5 races)  | 750
-Aproximate Total  | 3,500
+Aproximate Total  | 3,600
 
 **Note** that this estimate includes the cost of getting a race-ready mountain bike.  If your rider already has a bike, then nearly half of the expense is already taken care of.
 
@@ -32,7 +32,7 @@ Some of the parents are saying to themselves “my first used car was cheaper th
 Each year, expect to buy a new set of tires ($150), replacement front and rear brake pads ($100), at least one new chain ($50), and some key bearings ($100), depending on how much rain northern California gets during the season.  Every other year, expect to replace the entire drivetrain ($250 to $500), and have the front fork serviced ($200).  Mileage will vary according to your rider, weather, and bike, but these amounts get you in the ballpark.
 
 **Clothing**  
-At a minimum, each rider must purchase his or her own Drake mountain bike team jersey, which usually cost around $70.  Team jerseys are required for racing in the [Norcal league](http://norcalmtb.org).  During the season, however, riders will likely need multiple sets of other cycling-specific clothing like jerseys, shorts, gloves, light jacket, arm warmers, wool socks, etc.  If there is not another cyclist in the house, then there are opportunities to get this clothing at pre-season swap meets (ie, free!) and through cycling clothing donations through some of our sponsors.  See [what to wear]({{site.baseurl}}/what_to_wear_v2.pdf)  to get an idea of what a complete kit might look like.  And in general, it is usually a good idea to get a new pair of $30 gloves for your Rider every year, though in a pinch a $7.99 pair of construction gloves from the hardware store will work just fine.
+At a minimum, each rider must purchase his or her own Drake mountain bike team jersey, which usually cost around $70.  Team jerseys are required for racing in the [Norcal league](http://norcalmtb.org).  During the season, however, riders will likely need multiple sets of other cycling-specific clothing like jerseys, shorts, gloves, light jacket, arm warmers, wool socks, etc.  If there is not another cyclist in the house, then there are opportunities to get this clothing at pre-season swap meets (ie, free!) and through cycling clothing donations through some of our sponsors.  See [what to wear]({{site.baseurl}}/what_to_wear_v2.pdf)  to get an idea of what a complete kit might look like.  And in general, it is usually a good idea to get a new pair of $30 gloves for your Rider every year, though in a pinch a $7.99 pair of construction gloves from the hardware store will work just fine if you are not too picky.
 
 **Helmet and shoes**  
 Even wily old cycling veterans replace their helmets every two years.  Helmets degrade over time, and to maximize safety and take advantage of the latest technologies like MIPS, we recommend a new helmet at the beginning of the year, and a new one again two years later.  For shoes, we recommend any shoe that works with the pedals that your rider uses on his or her bike.  Most mountain bikes have SPD pedals, as do the stationary bikes at Pelo, so we recommend this shoe/pedal combination.
