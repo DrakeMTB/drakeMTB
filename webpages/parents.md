@@ -12,9 +12,7 @@ know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activi
 considered	field	trips,	everyone	needs	to	complete	a	pile	of	paperwork	before	participating	in
 any	team	activities.
 
-All	attached	forms must be	completed	and	returned	by	Saturday,	September	17.	
-**LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP**
-This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the	
+All	attached	forms must be	completed	and	returned	by	Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS! <\font> This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the	
 camping	trip.	
 
 **** Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you]ll	drive	or	attend:	**** 
