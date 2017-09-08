@@ -10,14 +10,14 @@ Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	r
 
 This paperwork must be	completed	and	returned	by	<b>Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font></b> The	due	date	is	imposed	by	the	School	District, not by us,	to	allow	for	District	Board	approval	of	the camping	trip.	
 
-**** Checklist	of	items you need to complete in [the pile	of	paperwork](({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) ...please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
+**** Checklist	of	items you need to complete in [the pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) ...please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
 * Notice	and	Permission	to	Participate	&	Release	of	Liability	
 * Field	Trip	Permission	Form
 * Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form)	
 * Driver	Certification	Form	(include	both	parents/guardians	on	this	form)	
-* -----Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
+* Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
 policy	holder,	coverage	levels,	and	effective	dates
-* -----If	student	will	drive,	include	copy	of	student’s	drivers	license
+* If	student	will	drive,	include	copy	of	student’s	drivers	license
 * Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
 
 
