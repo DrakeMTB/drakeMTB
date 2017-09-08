@@ -6,22 +6,32 @@ permalink: /parents/
 ---
 # Parents
 
-* [Past Parent Meetings - agenda and notes]({{site.baseurl}}/meetings)
+For new or returning Drake MTB Parents
+
+All	attached	forms must be	completed	and	returned	by	Saturday,	September	17.	
+LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP
+This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the	
+camping	trip.	
+Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you]ll	drive	or	attend:	
+Notice	and	Permission	to	Participate	&	Release	of	Liability	
+Field	Trip	Permission	Form
+Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form	
+Driver	Certification	Form	(include	both	parents/guardians	on	this	form	
+• Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
+policy	holder,	coverage	levels,	and	effective	dates
+• If	student	will	drive,	include	copy	of	student’s	drivers	license
+Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
+
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
+| [Tam District Field Trip Approval Forms Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off to Mimi	Bennett at the 	Drake	Main	Office |            Saturday September 16th |
+||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Saturday September 16th |
 ||||
 | [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | Saturday September 16th |
-||||
-| [Tam District Release of Liability Form]({{site.baseurl}}/images/2016_Tam_District_Release_of_Liability_form.pdf) | The Release of Liability form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> |            Saturday September 16th |
-|| (please also read [Administrative Regulation 6145.5]({{site.baseurl}}/images/AR_6145_5.pdf), which contains important limitations on the scope of Drake MTB's club activities) ||
-||||
-|[School Driver Certification Form](http://www.tamdistrict.org/cms/lib8/CA01000875/Centricity/Domain/325/E3541.1_Rev_073007.pdf) | This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Saturday September 16th |
-||||
-|[Field Trip Form for off-campus events]({{site.baseurl}}/images/Drake_MTB_2017_Field Trip Form.pdf)| This form must be printed out, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> | Saturday September 16th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
