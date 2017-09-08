@@ -6,20 +6,15 @@ permalink: /parents/
 ---
 # Parents
 
-Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	a	team	ride	and	camping	trip	in	Olema	on	October	14-
-15. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to
-know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are
-considered	field	trips,	everyone	needs	to	complete	a	pile	of	paperwork	before	participating	in
-any	team	activities.
+Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	pile	of	paperwork	before	participating	in any	team	activities.
 
-All	attached	forms must be	completed	and	returned	by	<b>Saturday,	September	17</b>.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font> This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the	
-camping	trip.	
+All	attached	forms must be	completed	and	returned	by	<b>Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font></b> This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the camping	trip.	
 
-**** Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you]ll	drive	or	attend:	**** 
+**** Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
 * Notice	and	Permission	to	Participate	&	Release	of	Liability	
 * Field	Trip	Permission	Form
-* Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form	
-* Driver	Certification	Form	(include	both	parents/guardians	on	this	form	
+* Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form)	
+* Driver	Certification	Form	(include	both	parents/guardians	on	this	form)	
 • Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
 policy	holder,	coverage	levels,	and	effective	dates
 • If	student	will	drive,	include	copy	of	student’s	drivers	license
