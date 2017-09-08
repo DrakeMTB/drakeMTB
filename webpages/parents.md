@@ -6,9 +6,9 @@ permalink: /parents/
 ---
 # Parents
 
-Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.  The	season	is	starting	with	a	new	event	–	a	team	ride	and	camping	trip	in	Olema	on	October	14-15. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	[pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) as well as the [Rider Registration Form]({{site.baseurl}}/register) before	participating	in any	team	activities.
+Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.  The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	[pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) as well as the [Rider Registration Form]({{site.baseurl}}/register) before	participating	in this or any	other team	activities.
 
-These items must be completed	by	Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTALS	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font> The	due	date	is	imposed	by	the	School	District, not by us,	to	allow	for	District	Board	approval	of	the camping	trip.	
+These items must be completed	by Saturday,	September	17.	LATE	OR	INCOMPLETE	SUBMITTALS	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS! The	due	date	is	imposed	by	the	School	District, not by us,	to	allow	for	District	Board	approval	of	the camping	trip.	
 
 **** Checklist	of	items you need to complete in [the pile	of	paperwork]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) ...please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
 * Notice	and	Permission	to	Participate	&	Release	of	Liability	
