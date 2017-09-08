@@ -6,28 +6,33 @@ permalink: /parents/
 ---
 # Parents
 
-For new or returning Drake MTB Parents
+Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	a	team	ride	and	camping	trip	in	Olema	on	October	14-
+15. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to
+know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are
+considered	field	trips,	everyone	needs	to	complete	a	pile	of	paperwork	before	participating	in
+any	team	activities.
 
 All	attached	forms must be	completed	and	returned	by	Saturday,	September	17.	
-LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP
+**LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP**
 This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the	
 camping	trip.	
-Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you]ll	drive	or	attend:	
-Notice	and	Permission	to	Participate	&	Release	of	Liability	
-Field	Trip	Permission	Form
-Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form	
-Driver	Certification	Form	(include	both	parents/guardians	on	this	form	
+
+**** Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you]ll	drive	or	attend:	**** 
+* Notice	and	Permission	to	Participate	&	Release	of	Liability	
+* Field	Trip	Permission	Form
+* Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form	
+* Driver	Certification	Form	(include	both	parents/guardians	on	this	form	
 • Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
 policy	holder,	coverage	levels,	and	effective	dates
 • If	student	will	drive,	include	copy	of	student’s	drivers	license
-Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
+* Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
 
 
 **Mandatory Parent List: Without timely attention to these items, your Rider cannot train with the team or participate in the races.**
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Tam District Field Trip Approval Forms Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off to Mimi	Bennett at the 	Drake	Main	Office |            Saturday September 16th |
+| [Tam District Field Trip Approval Forms Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off at either 26	Humboldt	Ave in	San	Anselmo or to	Mimi	Bennett at the 	Drake	Main	Office |            Saturday September 16th |
 ||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Saturday September 16th |
 ||||
