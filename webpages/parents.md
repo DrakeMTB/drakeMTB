@@ -6,18 +6,18 @@ permalink: /parents/
 ---
 # Parents
 
-Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	pile	of	paperwork	before	participating	in any	team	activities.
+Welcome	to	the	Drake	Mountain	Bike	Team	for	2017/18!	We	are	excited	to	see	the	returning	riders	and	to	welcome	new	riders	to	the	team.		The	season	is	starting	with	a	new	event	–	<b>a	team	ride	and	camping	trip	in	Olema	on	October	14-15</b>. This	trip	will	be	a	great	way	to	reconnect	with	your	teammates	from	last	year	and	get	to know	the	new	riders.	Because	this	camping	trip	and	all	mountain	bike	team	activities	are considered	field	trips,	everyone	needs	to	complete	a	[pile	of	paperwork](({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) before	participating	in any	team	activities.
 
-All	attached	forms must be	completed	and	returned	by	<b>Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font></b> This	due	date	is	imposed	by	the	School	District	to	allow	for	District	Board	approval	of	the camping	trip.	
+This paperwork must be	completed	and	returned	by	<b>Saturday,	September	17.	<font color="red">LATE	OR	INCOMPLETE	SUBMITTAL	=	NO OLEMA	CAMPING	TRIP ON OCTOBER 14th, NO EXCEPTIONS!</font></b> The	due	date	is	imposed	by	the	School	District, not by us,	to	allow	for	District	Board	approval	of	the camping	trip.	
 
-**** Checklist	of	forms	-	Please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
+**** Checklist	of	items you need to complete in [the pile	of	paperwork](({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) ...please	complete	all	forms,	even	if	you’re	not	sure	if	you will	drive	or	attend:	**** 
 * Notice	and	Permission	to	Participate	&	Release	of	Liability	
 * Field	Trip	Permission	Form
 * Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form)	
 * Driver	Certification	Form	(include	both	parents/guardians	on	this	form)	
-• Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
+*      Attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of
 policy	holder,	coverage	levels,	and	effective	dates
-• If	student	will	drive,	include	copy	of	student’s	drivers	license
+*      If	student	will	drive,	include	copy	of	student’s	drivers	license
 * Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
 
 
@@ -27,9 +27,9 @@ policy	holder,	coverage	levels,	and	effective	dates
 |:-------------|:---------------:| -------------:|
 | [Tam District Field Trip Approval Forms Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off at either 26	Humboldt	Ave in	San	Anselmo or to	Mimi	Bennett at the 	Drake	Main	Office |            Saturday September 16th |
 ||||
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Saturday September 16th |
-||||
 | [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | Saturday September 16th |
+||||
+| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Saturday September 16th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
