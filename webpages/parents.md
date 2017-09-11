@@ -31,9 +31,9 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 ||||
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 28th |
 ||||
-| [Participate in Fundraising for the team](URL tbd)| more information soon! Help raise the second half of the money that pays for races, coaching stipends, and team necessities | December 15th |
+| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that, in addition to Dues below, pays for races, coaching stipends, and team necessities | December 15th |
 ||||
-| [Pay Team Dues](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
+| [Pay $350 Team Dues](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to race with the team |            January 15th |
 ||||
