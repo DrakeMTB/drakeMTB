@@ -28,9 +28,9 @@ Phone# (415)-492-2020
 
 # Secondary Sponsors
 ***
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org/)
+[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org)
 
-*Enhancing the high school experience for all Drake students.*
+*Enhancing the high school experience for all Drake students*
 
 ***
 
