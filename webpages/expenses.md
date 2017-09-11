@@ -9,7 +9,8 @@ Mountain biking is a resource-intensive sport.  The following information gives 
 
 Item  | Cost
 :-----------| ----------:
-Team Dues | 600 
+Team Dues | 350
+Individual Fundraising Goal | 250
 Bicycle  | 1,500
 Bicycle upkeep  | 350
 Clothing  | 200
