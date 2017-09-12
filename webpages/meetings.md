@@ -10,7 +10,7 @@ permalink: /meetings/
 
 ## Parent Meeting agenda/notes from 2017/2018 season
 
-* [Oct 3rd 2017]({{site.baseurl}}/images/10-3-2017_MTB_Agenda.pdf)
+* [Oct 3rd 2017 (agenda tbd)]({{site.baseurl}}/images/10-3-2017_MTB_Agenda.pdf)
 
 
 ## Parent Meeting agenda/notes from 2016/2017 season
