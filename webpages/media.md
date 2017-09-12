@@ -18,11 +18,11 @@ permalink: /media/
 * [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murphy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
 * [Mountain Biking and the Future of Environmentalism (Marin IJ opinion piece by Jim Elias, MCBC Exec Director)](http://www.marinij.com/opinion/20170218/marin-voice-bike-access-to-trails-and-environmental-sustainability)
 
-#### Brennan Healy productions
+#### Brennan Healy Video Productions
 * [Ft Ord 2017](https://www.youtube.com/watch?v=ubgbmzYe9YA)
 * [Laguna Seca 2017](https://www.youtube.com/watch?v=pqR9wSEq9Ho)
 
-#### Joe Stranzl's video magic
+#### Joe Stranzl's Video Magic
  * [Drake Freshman Boys in their first race at Fort Ord 2017](https://www.youtube.com/watch?v=nvABfshenuo)
  * [Drake JV and Varsity at Laguna Seca 2017](https://www.youtube.com/watch?v=L-r5J5Dfc_Y)
  * [#DrakeMTBGirls at Race 3 in 2017](hthttps://www.youtube.com/watch?v=0N8iXa_M5oE)
