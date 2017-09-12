@@ -6,14 +6,14 @@ permalink: /races/
 ---
 
 ## Race Schedule for 2017 Season
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/01/2017-RACE-Calendar-112.pdf)
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/06/2018-Race-Schedule-b.pdf)
 
-* ~~[Race #1 – February 25th & 26th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/02/1-Fun-at-the-Fort-217.pdf)~~
+<!--- * ~~[Race #1 – February 25th & 26th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/02/1-Fun-at-the-Fort-217.pdf)~~
 * ~~[Race #2 – March 11th & 12th (Sunday race at Laguna Seca)](https://www.norcalmtb.org/wp-content/uploads/2017/02/2-Laguna-Seca-217.pdf)~~
 * ~~[Race #3 – March 25th & 26th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/03/3-Fort-Ord-314b.pdf)~~
 * ~~[Race #4 – April 8th & 9th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2017/02/4-Granite-Bay-Grinder-28.pdf)~~
 * ~~[Race #5 – April 29th & 30th (Saturday race at Six Sigma Ranch)](https://www.norcalmtb.org/wp-content/uploads/2017/02/5-Six-Sigma-Slinger-28.pdf)~~
-* [California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)](https://www.norcalmtb.org/wp-content/uploads/2017/05/States-54b.pdf)
+* [California High School State Championships – May 14th (Sunday race at Petaluma 5 Springs Ranch)](https://www.norcalmtb.org/wp-content/uploads/2017/05/States-54b.pdf) --->
 
 *******
 
