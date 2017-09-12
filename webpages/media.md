@@ -9,6 +9,9 @@ permalink: /media/
 
 ![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
 
+[Drake Google Photos Repository](https://goo.gl/photos/YpAmTJrjciYyz6YK7)
+
+
 ### 2017
 
 
