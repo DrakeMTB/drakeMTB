@@ -5,7 +5,7 @@ stitle: race_and_travel
 permalink: /races/
 ---
 
-## Race Schedule for 2017 Season
+## Race Schedule for 2018 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/06/2018-Race-Schedule-b.pdf)
 
 <!--- * ~~[Race #1 – February 25th & 26th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/02/1-Fun-at-the-Fort-217.pdf)~~
@@ -31,9 +31,9 @@ permalink: /races/
 
 *******
 
-## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4)  
+## [Volunteer Sign Up Sheet]()  
 
-## [Food Sign Up Sheet](https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY)  
+## [Food Sign Up Sheet]()  
 
 *******
 
