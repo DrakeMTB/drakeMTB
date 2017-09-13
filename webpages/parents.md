@@ -17,7 +17,7 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 * Driver	Certification	Form	(include	both	parents/guardians	on	this	form) -  please attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of policy	holder,	coverage	levels,	and	effective	dates, and if a	student	will	drive,	include	copy	of	student’s	drivers	license
 * Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
 
-### Mandatory Parent List: Your Rider cannot train with the team or participate in the races without timely completion of these items ###
+### Mandatory Parent List: Your Rider cannot train with the team or participate in the races without timely completion of these items ###<a name="mandatory"></a>
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
@@ -61,7 +61,7 @@ Drake MTB prides itself on having the best Pit Zone in the State (that’s the p
 **Volunteer for Norcal while at the races**
 NorCal also needs parents for course set-up and takedown, parking coordination, course marshals, registration, scoring, sweepers, etc. There is plenty of opportunity to stay busy and work off that nervous energy! Let’s continue to show that Drake always helps out at all times.
 
-**Attend Parent Committee meetings and get involved**
+**Attend Parent Committee meetings and get involved**<a name="committees"></a>
 Parent Committee meetings are scheduled for the 1st Tuesday of each Month in the Drake Student Center or Devonshire Hall (check team calendar if unsure of date or location) at 7pm. If there is no school on the first Tuesday of the month, then the meeting is usually rescheduled for the next Tuesday school is in session. If you miss a meeting, check out [agendas/notes]({{site.baseurl}}/meetings) from previous meetings. The purpose of the meetings is to create an opportunity to share news about upcoming events, help plan for those events and get involved to help support team activities. All are welcome and encouraged to attend. We try to limit the meetings to one hour but you often see parents sticking around for a while after catching up with one another. Drake Mountain biking has been a powerhouse in cycling for the past 15 years because of our parents. We are well organized, enthusiastic, friendly and involved. We need a village to operate the club with fundraising, parties, and the races (food, feed zones, cheering, [video clips]({{site.baseurl}}/media), etc). Please come!
 
 **Ride with the team on Sundays**
