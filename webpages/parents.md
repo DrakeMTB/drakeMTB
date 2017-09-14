@@ -25,7 +25,6 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 ||||
 | [Register for the Drake Team]({{site.baseurl}}/register) | Info the coaches and high school needs to let you participate in a club sport | Sunday September 17th |
 ||||
-||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 17th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
