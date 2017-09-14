@@ -23,6 +23,8 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 |:-------------|:---------------:| -------------:|
 | [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | | Sunday September 17th |
 ||||
+| [Register for the Drake Team]({{site.baseurl}}/register) | | Sunday September 17th |
+||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 17th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
