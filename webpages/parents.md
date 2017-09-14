@@ -21,9 +21,9 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | | Sunday September 17th |
+| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Mimi Bennett at the Drake High Main Office | Sunday September 17th |
 ||||
-| [Register for the Drake Team]({{site.baseurl}}/register) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Mimi Bennett at the Drake High Main Office | Sunday September 17th |
+| [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Sunday September 17th |
 ||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 17th |
 ||||
