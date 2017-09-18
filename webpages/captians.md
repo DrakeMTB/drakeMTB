@@ -14,7 +14,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 ![Dylan]({{site.basurl}}/images/dylan_captain2.jpeg)
 
-lorem ipsum
+My name is Dylan Fryer and I am a senior at Drake. This year will be my fourth year on the team, second year racing Varsity, and my first year as a captain. I have been riding bikes since I was four or five and I wanted to be a captain to capitalize on the opportunities this position will give me to spread my love of mountain biking to as many new people as possible. Drake MTB has offered the most family-like experience I have ever had on a mountain bike team and it’s a feeling that will stay with me forever. I live by the motto “ride fast, take chances” and I’m excited to take on this season!
 
 #### Ronan Goulden
 
