@@ -5,8 +5,10 @@ stitle: practices
 permalink: /practices/
 ---
 # Team Rides
-
 Riders, Coaches, and Ride Leaders spend more time on team rides than any other activity.  Team rides help the Riders get to know their peers, learn and improve biking skills, increase levels of fitness, and get to know the beautiful landscape of Marin County in a way that is perhaps not possible by any other means.  Without team rides, the team would just be a collection of individuals who occasionally meet each other on the race course.
+
+**Training season overview**  
+The [Team Calendar]({{site.baseurl}}/calendar) is the definitive source for team rides and dates, but parents and Riders should have some understanding of what it takes to commit to an entire season.  Riding season usually starts in early December with Pelo sessions on Wednesday afternoons and rides starting from Deer Park on Sunday at 9am. Beginning in January, depending on the weather, Coaches add short Tuesday and Thursday rides to get riders home before dark.  By early March, with the change to Daylight Savings time, the Tuesday and Thursday rides get longer, and the Coaches tailor the ride lengths and intensity to best prepare Riders for their race schedule.  Races usually begin in early March and the season extends through the final race in mid-May.
 
 **Wear the proper cycling gear**  
 Cycling is a unique sport in that training takes place over long distances and many hours. Your body is in contact with only a few points on the bike; the handlebars, the seat and the pedals. The hands and seat need padding and protection from pressure and chafing. The shorts and gloves are made with padding designed for comfort over the long rides. Feet are pressing on a very small surface for hours at a time. Cycling shoes need to offer the protection of an inflexible sole, which prevents cramping and increases power while riding.  
@@ -38,9 +40,6 @@ At Pelo (weekly spin class), there is a container of clothes that have donated b
 * Water bottle or hydration pack (such as Camelbak) with plenty of water/electrolyte solution.
 
 * A good attitude!
-
-**Training season overview**  
-The [Team Calendar]({{site.baseurl}}/calendar) is the definitive source for team rides and dates, but parents and Riders should have some understanding of what it takes to commit to an entire season.  Riding season usually starts in early December with Pelo sessions on Wednesday afternoons and rides starting from Deer Park on Sunday at 9am. Beginning in January, depending on the weather, Coaches add short Tuesday and Thursday rides to get riders home before dark.  By early March, with the change to Daylight Savings time, the Tuesday and Thursday rides get longer, and the Coaches tailor the ride lengths and intensity to best prepare Riders for their race schedule.  Races usually begin in early March and the season extends through the final race in mid-May.
 
 **Coach and Ride Leader responsibilities**  
 The Coaches maintain the [Team Calendar]({{site.baseurl}}/calendar), and Riders and parents can view the rides they will be doing on specific days, as well as the Ride Leaders who will be responsible for each team ride. There will never be a team ride without the appropriate number of Coaches and Ride Leaders present; providing proper ride support is one of the most important responsibilities for the coaching staff.
