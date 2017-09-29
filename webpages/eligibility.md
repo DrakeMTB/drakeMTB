@@ -11,6 +11,7 @@ The Drake mountain bike team allows any high school rider who is willing to make
 
 If you decide to join the team, you as a rider commit to the following:
 
+* No participation in Spring sports
 
  * Attend 2 practices per week (not including Yoga) and 3 of 6 races.
 
