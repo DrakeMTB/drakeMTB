@@ -5,7 +5,7 @@ stitle: volunteers_give_back
 permalink: /volunteer/
 ---
 
-** Volunteering
+### Volunteering
 
 Below are the general job positions that must be filled by parent or volunteer adults to run a team of this size and quality: 
 
