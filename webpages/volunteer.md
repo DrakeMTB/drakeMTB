@@ -4,6 +4,47 @@ title: Volunteers Give Back!
 stitle: volunteers_give_back
 permalink: /volunteer/
 ---
+
+** Volunteering
+
+Below are the general job positions that must be filled by parent or volunteer adults to run a team of this size and quality: 
+
+#### Coach
+Coaches are responsible for the organization, training and racing for the whole team. They provide mentorship and leadership throughout the season and beyond.
+
+#### Assistant coach
+Assistant coaches ride with the team regularly and assist at all races with race preparation.
+
+Mechanic
+Mechanics assure each bike is race ready on race day, as well as checking bikes at the beginning of the season.
+
+Ride Leader
+Ride leaders go on training rides as they are able throughout the season.
+
+Director
+The director manages registration for the team, and is the liaison for the Tam District, making sure we fulfill our district responsibilities. The director also manages clothing orders and all paperwork associated with the team.
+
+Financial management & Scholarship
+The finance manager maintains financial records and keeps the team books, in coordination with Drake High School.
+
+Parent committee
+Parent presidents make sure all parents are informed about team and parent events, organize and supply the trailer for races, purchase food for events and races, and make sure all volunteer slots are filled and parents are informed about how to help out on the team. 
+
+Event planning Chair
+Event planners coordinate, organize and promote fundraising events throughout the season, both new and existing. Additionally, the event planner will coordinate the online platform for fundraising, as well as serving as the liaison for the Jim Miller Fund.
+
+Sponsorship Chair
+Sponsorship chairs connect with existing sponsors to maintain relationships, as well as forming new sponsorship relationships as needed. Sponsors are recommitted every two years, so this job varies in time commitment from year to year.
+
+Merchandise Chair
+The merchandise chair plans and orders team merchandise, and then organizes the sale of merchandise at team events and races.
+
+Designer
+The designer is on hand to help with designing team items as needed; t-shirts, flyers or logos.
+ 
+Food inventory and management at races
+Food inventory managers receive the food brought by volunteers on race day and organize it for easy access during races. Inventory is taken at the end of each race.
+
 **Volunteer for the Pit Zone**
 
 Our Pit Zone is the hub of the Drake team at each race, and it’s where all the riders, parents and coaches are on race day. Drake MTB prides itself on having the best Pit Zone in the State. We provide food for the entire Drake extended family for the whole race day. We provide bike racks, warm-up trainers, recovery drinks, covered seating and mechanical assistance for the Riders. We make sure the Riders have fresh bottles of hydration for every lap of each of their races. We do almost all of it with volunteer parent labor. Running the Pit Zone is a group effort that requires major help from parents to keep our team healthy, prepared and race ready. More than a decade of hard work, wisdom and practice has gone into figuring out how to run the league’s best Pit Zone, so your time and efforts are in good hands!
