@@ -7,7 +7,7 @@ permalink: /volunteer/
 
 ### Volunteering
 
-Below are the general job positions that must be filled by parent or volunteer adults to run a team of this size and quality: 
+Below are the general job positions that must be filled by competent parent volunteers in order to run a team of this size and quality: 
 
 #### Coach
 Coaches are responsible for the organization, training and racing for the whole team. They provide mentorship and leadership throughout the season and beyond.
