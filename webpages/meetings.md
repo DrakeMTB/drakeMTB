@@ -12,8 +12,7 @@ permalink: /meetings/
 
 Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM in Devonshire Hall. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.
 
-* [Oct 3rd 2017 New Parent Meeting Agenda 6-7pm]({{site.baseurl}}/images/new_parents_agenda.pdf)
-* [Oct 3rd 2017 Parent Meeting Agenda 7-8pm]({{site.baseurl}}/images/ret_parents_agenda.pdf)
+* [Oct 3rd 2017 New/Returning Parent Meeting Agenda]({{site.baseurl}}/images/new_parents_agenda_v2.pdf)
 * [Drake MTB Quick Parents Guide for 2017/2018 season]({{site.baseurl}}/images/2017_2018_Drake_MTB_Parent_info.pdf)
 * [2016/2017 season budget overview]({{site.baseurl}}/images/2017_budget.pdf)
 
