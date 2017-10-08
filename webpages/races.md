@@ -6,7 +6,7 @@ permalink: /races/
 ---
 
 ## Race Schedule for 2018 Season
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/06/2018-Race-Schedule-b.pdf)
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/09/2018-Race-Schedule-b.pdf)
 
 <!--- * ~~[Race #1 – February 25th & 26th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2017/02/1-Fun-at-the-Fort-217.pdf)~~
 * ~~[Race #2 – March 11th & 12th (Sunday race at Laguna Seca)](https://www.norcalmtb.org/wp-content/uploads/2017/02/2-Laguna-Seca-217.pdf)~~
