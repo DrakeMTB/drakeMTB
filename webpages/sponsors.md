@@ -101,7 +101,7 @@ Phone# (415) 456-9193
 # Product Service
 ***
 
-[![sunshine logo](../images/Sunshine-Bikes.jpg)](http://www.sunshinebicycle.com)
+[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com)
 
 [![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)
 
