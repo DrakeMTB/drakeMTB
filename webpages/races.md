@@ -23,7 +23,7 @@ permalink: /races/
 
 *******
 
-## [Where to Stay... (Don't forget to book early)]()  
+## [Where to Stay... (Don't forget to book early)]({{site.baseurl}}/images/2018_Hotel_options_10-7-17.pdf)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
 
