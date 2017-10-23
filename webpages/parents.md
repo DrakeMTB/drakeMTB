@@ -27,7 +27,7 @@ These items must be completed	by Sunday,	September	17.	LATE	OR	INCOMPLETE	SUBMIT
 ||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 17th |
 ||||
-| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to race with the team |            October 28th |
+| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to ride and race with the team |            October 28th |
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
