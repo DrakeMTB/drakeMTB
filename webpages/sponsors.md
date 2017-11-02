@@ -43,7 +43,7 @@ Phone# (415)-456-3893
 
 ***
 ***
-# Associate Sponsors
+### Associate Sponsors
 [![logo](../images/Alancascio-logo.png)](http://www.alancasciodds.com)
 Alan Cascio<br>
 Family Dentistry<br>
@@ -65,7 +65,7 @@ Phone# (415)-492-2020
 
 ***
 ***
-# Product Service
+### Product Service
 [![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)
 ****
 [![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)
