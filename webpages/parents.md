@@ -15,7 +15,9 @@ permalink: /parents/
 * Field	Trip	Permission	Form
 * Adult	Field	Trip	Waiver	(include	both	parents/guardians	on	this	form)	
 * Driver	Certification	Form	(include	both	parents/guardians	on	this	form) -  please attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of policy	holder,	coverage	levels,	and	effective	dates, and if a	student	will	drive,	include	copy	of	student’s	drivers	license
-* Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	
+* Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	---> 
+
+
 
 ### Mandatory Parent List: Your Rider cannot train with the team or participate in the races without timely completion of these items <a name="mandatory"></a>
 
