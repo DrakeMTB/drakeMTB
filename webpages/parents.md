@@ -33,6 +33,7 @@ permalink: /parents/
 ||||
 | [Order Team Jersey(s) for your Rider](URL tbd)| (link coming soon!) Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
+<a name="scholarship"></a>
 | [Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 20th |
 ||||
 | [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that, in addition to $350 in Dues, pays for races, coaching stipends, and team necessities | December 15th |
