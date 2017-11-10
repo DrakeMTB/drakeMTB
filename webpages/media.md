@@ -16,6 +16,7 @@ permalink: /media/
 
 
 ### News Articles
+* [Drake Captain Ronan Goulden Marin IJ's Student of the Week](http://www.marinij.com/article/NO/20171029/FEATURES/171029793)
 * [<b>Drake MTB Wins State! in the Marin IJ</b>](http://www.marinij.com/sports/20170515/mountain-biking-drake-repeats-as-state-champion-tam-runner-up-san-marin-second-in-division-ii)
 * [Trailbuilder Jim Jacobson of Forest Knolls in a singletracks.com article in March 2017](https://www.singletracks.com/blog/mtb-trails/marins-trail-king-profile-of-a-trail-builder)
 * [The Spirit of Howdy, even on the road! (Marin Magazine feature article written by Sports Illustrated's Austin Murphy)](http://www.marinmagazine.com/March-2017/Sharing-the-Road/)
