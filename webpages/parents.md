@@ -35,9 +35,9 @@ permalink: /parents/
 ||||
 | <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 20th |
 ||||
-| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that (in addition to $350 in Dues) pays for races, coaching stipends, and team necessities | December 15th |
+| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th |
 ||||
-| [Pay $350 Team Dues]({{ site.baseurl }}/images/drake mtb dues-fall-2017.pdf)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
+| [Pay $350 Team Dues]({{ site.baseurl}}/images/drake mtb dues-fall-2017.pdf)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
