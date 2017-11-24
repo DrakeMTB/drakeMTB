@@ -65,7 +65,7 @@ I'm Justine McOuat, currently a sophomore at Drake, and I don't know exactly whe
 
 #### Elise Nicol - senior
 
-![pic of Elise](../images/elise_girls.jpg)
+![pic of Elise](../images/girls_elise.jpg)
 
 I ride because it gives me freedom, joy and a sense of being part of something much larger than just me. Before the Drake team, I had not been part of a team or involved in sports. I didn't feel a sense of belonging and that people had my back no matter what. Now I am part of a family that supports and encourages me in all parts of my life. Mountain biking has made me happier, more fit, and more confident. I look forward to practice because I can escape from stress and be outdoors. I ride for fun, friends, well-being, to push myself, and because I love it.
 
