@@ -75,6 +75,8 @@
 
  img {
      border: 0;
+     margin-bottom: -5px;
+     max-width: 50%;
  }
 
  svg:not(:root) {
@@ -217,10 +219,6 @@
      border: 0;
      border-top: 1px solid #eee;
      margin: 20px 0;
- }
-
- img {
-     margin-bottom: -5px;
  }
 
  a {
@@ -425,7 +423,6 @@
 
  .w3-tooltip,.w3-display-container {
      position: relative;
-     height: 40vw;
      overflow: hidden;
  }
 
