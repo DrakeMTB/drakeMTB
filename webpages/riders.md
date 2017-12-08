@@ -24,7 +24,7 @@ permalink: /riders/
 
 <a name="pelo"></a>
 **Pelo Rules for 2018**  
-* First-come, first-serve on the sign up list (google sheet, link tbd)
+* First-come, first-serve on the [sign up list](https://docs.google.com/spreadsheets/d/1D90qBIRN4r6zjOoTC30zHEN2BJmVdpmUhmqpJXXm5-A/edit?usp=sharing)
 * If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP)
 * Pelo sessions cost the team $3 per Rider per session
 * Sign up opens up on Sunday at noon and closes down by 7pm Tuesday night
