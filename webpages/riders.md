@@ -22,8 +22,8 @@ permalink: /riders/
 * 
 * [Back pain? Do this!]({{site.baseurl}}/images/physio_notes_2017.pdf)
 
-
-**Pelo Rules for 2018**  <a name="pelo"></a>
+<a name="pelo"></a>
+**Pelo Rules for 2018**  
 * First-come, first-serve on the sign up list (google sheet, link tbd)
 * If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP)
 * Pelo sessions cost the team $3 per Rider per session
