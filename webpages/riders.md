@@ -23,6 +23,17 @@ permalink: /riders/
 * [Back pain? Do this!]({{site.baseurl}}/images/physio_notes_2017.pdf)
 
 
+**Pelo Rules for 2018**  <a name="pelo"></a>
+* First-come, first-serve on the sign up list (google sheet, link tbd)
+* If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP)
+* Pelo sessions cost the team $3 per Rider per session
+* Sign up opens up on Sunday at noon and closes down by 7pm Tuesday night
+* 4pm slot will have 25 bikes for Drake, 5pm slot will have 10 bikes for Drake
+* Honor system - no deleting other names, give other Riders the chance to do Pelo (ie, we only have 35 spots in total, so not all Riders can or should do every Pelo session)
+* Don't forget to bring SPD bike shoes, kit, water bottle, and maybe a towel+change of clothes
+* Need a ride?  try using the list to form your own carpools!
+* IF you still want to do Pelo but these time slots are booked or do not work for your crazy high school schedule, then you can always book a regular class at the student rate of $17 per session
+
 **Why we ride**  
 We ride because we love spending five to ten hours a week on a bike, hanging out with friends, and competing against other racers.  We love pushing the limits of our endurance out in some of the best scenery on the planet, and we understand that part of our attraction to the sport comes from it being more physically dangerous and challenging than sitting in front of a video game.
 
