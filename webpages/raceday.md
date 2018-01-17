@@ -60,4 +60,4 @@ Coaches, Ride Leaders, and parents can help Riders prepare for racing by doing o
  7. At the end of the Boys Varsity race and after all the riders/parents have eaten lunch, help with Pit Zone take-down and trailer packing. All riders are encouragee to stay for the individual and team awards.
  8. Remember that Riders are under a lot of stress before racing, so help distract them and remind them to have fun!
 
-Minute-by-minute schedules are provided for each category for each race [see example here]({{site.baseurl}}/images/race1_sched_girls_soph.JPG), but the information above gives new Riders and Parents an idea of what the flow of the day looks like.
+Minute-by-minute schedules are provided for each category for each race, but the information above gives new Riders and Parents an idea of what the flow of the day looks like.
