@@ -12,7 +12,7 @@ permalink: /races/
 * Race #2 – March 11th (Sunday race at Laguna Seca)
 * Race #3 – March 25th (Sunday race at Toro Park in Salinas)
 * Race #4 – April 14th (Saturday race at Granite Bay)
-* Race #5 – May 6th (Saturday race at Six Sigma Ranch)
+* Race #5 – May 5th (Saturday race at Six Sigma Ranch)
 * California High School State Championships – May 19th and 20th (Sunday race at Petaluma 5 Springs Ranch)
 
 *******
