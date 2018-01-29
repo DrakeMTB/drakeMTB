@@ -4,8 +4,7 @@ title: Drake MTB Coaches
 stitle: drake_mtb_coaches
 permalink: /coaches/
 ---
-[link to Team Ride sign-ups for Coaches, Asst Coaches, Ride Leaders, General Volunteers](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)<br>
-<a href="https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0" target=_blank><strong>Link to Team Rides signups (Coaches, Asst Coaches, Ride Leaders, General Volunteers) AND Ride Routes</strong></a><br>
+[<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)
 
 * [Coaches' Update 2-23-2017](http://us11.campaign-archive2.com/?u=538e899ffb46a62d201ca3e1c&id=c5af0146af)
 * [Coaches' Update 2-3-2017]({{site.baseurl}}/images/coaches_update_2-3-2017.pdf)
