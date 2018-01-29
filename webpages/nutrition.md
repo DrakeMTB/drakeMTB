@@ -7,6 +7,7 @@ permalink: /nutrition/
 
 # Training & Racing Hydration and Nutrition
 
+**Links**
  * [Link to Content from Dana Williams talk to the team on 1/17/2017]({{site.basurl}}/images/Breakfast_ideas.pdf)<br>
  * [Breakfast Ideas by Alexis]({{site.basurl}}/images/Rider_Nutrition_by_Dana_Williams.pdf)
 
