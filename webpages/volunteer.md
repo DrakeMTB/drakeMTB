@@ -45,6 +45,8 @@ The designer is on hand to help with designing team items as needed; t-shirts, f
 #### Food inventory and management at races
 Food inventory managers receive the food brought by volunteers on race day and organize it for easy access during races. Inventory is taken at the end of each race.
 
+#### Website Chair
+Manages changes and updates to Team website as needed.
 
 ### Volunteering at Races - general info
 
