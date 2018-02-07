@@ -19,6 +19,5 @@ permalink: /emergency/
 |Assistant Coach |Philip Swett| 	 	415.265.2802|
 | | | |
 |Parent co-President|Linda Kenton| 	415.378.9188|
-|Parent co-President|Jen Penrod| 	303.501.7894|
 |Parent co-President|Alexis White| 	415.250.3030|
 ||||
