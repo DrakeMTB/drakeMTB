@@ -7,6 +7,13 @@ permalink: /volunteer/
 
 ### Volunteering
 
+**Race Day Sign-up Sheets**
+## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4/edit?ts=5a74beaf#gid=1677563385)  
+
+## [Food Sign Up Sheet](https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY/edit?ts=5a7508a4#gid=0)  
+
+*******
+
 Below are the general job positions that must be filled by competent parent volunteers in order to run a team of this size and quality: 
 
 **Coach**
