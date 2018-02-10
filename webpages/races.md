@@ -17,6 +17,12 @@ permalink: /races/
 
 *******
 
+## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4/edit?ts=5a74beaf#gid=1677563385)  
+
+## [Food Sign Up Sheet](https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY/edit?ts=5a7508a4#gid=0)  
+
+*******
+
 ## [What Does a typical Race Day Look Like?]({{site.baseurl}}/raceday)
 
 <img src="{{site.basurl}}/images/races.JPG" alt="race faces" style="width:75%;height:75%;">
@@ -29,12 +35,6 @@ permalink: /races/
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
-
-*******
-
-## [Volunteer Sign Up Sheet]()  
-
-## [Food Sign Up Sheet]()  
 
 *******
 
