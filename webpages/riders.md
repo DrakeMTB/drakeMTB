@@ -27,8 +27,8 @@ permalink: /riders/
 * Make sure you have set up a Pelo account here [first](https://www.pelofitness.com/firstride); you only need to do this once at the beginning of the season.
 * [<strong>SIGN UP WITH PELO USERNAME HERE</STRONG>](https://docs.google.com/spreadsheets/d/1D90qBIRN4r6zjOoTC30zHEN2BJmVdpmUhmqpJXXm5-A/edit?usp=sharing)
 * Sign-ups are first-come, first-served... if you can't spell your Pelo Username properly, we cannot reserve your bike
-* If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP).  
-* The first time you sign up and do not show up, you will get a warning; the second time, you will lose your Drake Pelo priveleges for the season.  If an emergency occurs and you cannot make a session you signed up for, you must notify Kim Janson-Smith via text BEFORE that session begins.
+* <b>If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP).  
+* The first time you sign up and do not show up, you will get a warning; the second time, you will lose your Drake Pelo priveleges for the season.  If an emergency occurs and you cannot make a session you signed up for, you must notify Kim Janson-Smith via text BEFORE that session begins. </b>
 * Pelo sessions cost the team $3 per Rider per session
 * Sign up opens up on Sunday at noon and closes down by 7pm Tuesday night
 * 4pm slot will have 25 bikes for Drake, 5pm slot will have 10 bikes for Drake
