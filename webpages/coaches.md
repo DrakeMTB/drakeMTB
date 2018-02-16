@@ -6,11 +6,6 @@ permalink: /coaches/
 ---
 [<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)
 
-* [Coaches' Update 2-23-2017](http://us11.campaign-archive2.com/?u=538e899ffb46a62d201ca3e1c&id=c5af0146af)
-* [Coaches' Update 2-3-2017]({{site.baseurl}}/images/coaches_update_2-3-2017.pdf)
-* [Coaches' Update 1-4-2017]({{site.baseurl}}/images/coaches_update_1-4-2017.pdf)
-* [Coaches' Update 12-26-2016]({{site.baseurl}}/images/coaches_update_12-26-2016.pdf)
-* [Coaches' Update 12-11-2016]({{site.baseurl}}/images/coaches_update_12-11-2016.pdf)
 
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
 
@@ -173,3 +168,10 @@ Joe helps keep the teams gears running smoothly. He also happens to be one of th
 ![tonymerz]({{site.baseurl}}/images/tony-mech.jpg)
 
 Tony is a lifelong Fairfaxian who has ridden and raced almost all his life. The Drake High graduate married his Redwood High sweetheart and they have raised two great kids, one of whom was a captain on the Drake MTB team (Noah). He’s a big part of the cycling community as shop manager at Sunshine Bikes in Fairfax (25 years) and also has worked at WTB, White Industries and the original Fisher Mountain Bikes. Tony is proud to wrench for the team racers both at Sunshine and volunteering at races and has enjoyed supporting Drake MTB in their recent seasons!
+
+
+* [Coaches' Update 2-23-2017](http://us11.campaign-archive2.com/?u=538e899ffb46a62d201ca3e1c&id=c5af0146af)
+* [Coaches' Update 2-3-2017]({{site.baseurl}}/images/coaches_update_2-3-2017.pdf)
+* [Coaches' Update 1-4-2017]({{site.baseurl}}/images/coaches_update_1-4-2017.pdf)
+* [Coaches' Update 12-26-2016]({{site.baseurl}}/images/coaches_update_12-26-2016.pdf)
+* [Coaches' Update 12-11-2016]({{site.baseurl}}/images/coaches_update_12-11-2016.pdf)
