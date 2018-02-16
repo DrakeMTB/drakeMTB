@@ -6,9 +6,11 @@ permalink: /coaches/
 ---
 [<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)
 
-[Coach Pitzone Assignments on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
+* [Coach Pitzone Assignments on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
+* [Master Pitzone Schedule on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
+* [Full Rider Roster Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/roster_Ft_Ord_2018.JPG)
 
-[Master Pitzone Schedule on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
+
 
 
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
