@@ -8,7 +8,7 @@ permalink: /races/
 ## Race Schedule for 2018 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/11/2018-RACE-Calendar-11.16.pdf)
 
-* Race #1 – February 25th (Sunday race at Fort Ord)
+* [Race #1 – February 25th (Sunday race at Fort Ord)](http://www.norcalmtb.org/wp-content/uploads/2018/02/1-Fun-at-the-Fort-216b.pdf)
 * Race #2 – March 11th (Sunday race at Laguna Seca)
 * Race #3 – March 25th (Sunday race at Toro Park in Salinas)
 * Race #4 – April 14th (Saturday race at Granite Bay)
