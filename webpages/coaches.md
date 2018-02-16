@@ -6,7 +6,7 @@ permalink: /coaches/
 ---
 [<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)
 
-[Link to Pitzone Assignments on Race Day>]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
+[Link to Pitzone Assignments on Race Day]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
 
 
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
