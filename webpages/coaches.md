@@ -8,7 +8,7 @@ permalink: /coaches/
 
 * [Coach Pitzone Assignments on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
 * [Master Pitzone Schedule on Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Full Rider Roster Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/roster_Ft_Ord_2018_v2.JPG)
+* [Full Rider Roster Sunday Feb 26th Ft Ord]({{site.baseurl}}/images/roster_Ft_Ord_2018_v3.JPG)
 
 
 
