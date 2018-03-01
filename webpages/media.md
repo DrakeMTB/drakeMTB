@@ -13,7 +13,7 @@ permalink: /media/
 ### 2018
 
 #### Photo Collections
-* [Alexis White's photos](https://photos.app.goo.gl/F6yg0l6K3AhReYPA2){:target="_blank"}
+* <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * [Katy Nelson's photos](https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z){:target="_blank"}
 
 
