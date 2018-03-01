@@ -9,11 +9,15 @@ permalink: /media/
 
 ![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
 
-[Drake Google Photos Repository](https://goo.gl/photos/YpAmTJrjciYyz6YK7)
+
+### 2018
+
+#### Photo Collections
+* [Alexis White's photos](https://photos.app.goo.gl/F6yg0l6K3AhReYPA2)
+* [Katy Nelson's photos](https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z)
 
 
 ### 2017
-
 
 ### News Articles
 * [Drake Captain Ronan Goulden Marin IJ's Student of the Week](http://www.marinij.com/article/NO/20171029/FEATURES/171029793)
@@ -33,6 +37,8 @@ permalink: /media/
 
 
 ### 2016
+
+[2016 Drake Google Photos Repository](https://goo.gl/photos/YpAmTJrjciYyz6YK7)
 
 * [Hans Rey talks about the importance of the Marin Museum of Bicycling](http://www.pinkbike.com/news/hans-rey-mountain-bike-hall-of-fame-matters-2016.html)
 * [Repack is Forty!!](http://www.bikebiz.com/news/read/repack-is-forty-on-friday/020215)
