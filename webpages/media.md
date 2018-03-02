@@ -15,7 +15,7 @@ permalink: /media/
 #### Photo Collections
 * <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katy Nelson's photos</a>
-* <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Jansen-Smith's and Todd Schopp's photos</a>
+* <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Janson-Smith's and Todd Schopp's photos</a>
 
 
 ### 2017
