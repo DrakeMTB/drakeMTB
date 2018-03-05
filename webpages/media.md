@@ -12,6 +12,9 @@ permalink: /media/
 
 ### 2018
 
+#### Joe Stranzl's Video Magic
+ * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
+ 
 #### Photo Collections
 * <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katy Nelson's photos</a>
