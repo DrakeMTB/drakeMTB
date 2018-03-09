@@ -8,7 +8,7 @@ permalink: /coaches/
 
 * [Coach Pitzone Assignments on Sunday March 11th Laguna Seca]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
 * [Master Pitzone Schedule on Sunday March 11th Laguna Seca]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Full Rider Roster Sunday March 11th Laguna Seca]({{site.baseurl}}/images/roster_Laguna_Seca.JPG)
+* [Call-Ups Only Sunday March 11th Laguna Seca]({{site.baseurl}}/images/callups_Laguna_Seca_2018.JPG)
 
 
 
