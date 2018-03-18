@@ -75,8 +75,17 @@
         <div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:53px;">
             <ul class="w3-navbar w3-left-align w3-large w3-theme" style="margin-right:20px;">
                 <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/parents">Parents</a></li>
+                <li class="w3-dropdown-hover">
+                    <a href="{{ site.baseurl }}/about">Team</a>
+                    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
+                        <a href="{{ site.baseurl }}/about" class="w3-bar-item w3-button">About Us</a>
+                        <a href="{{ site.baseurl }}/sponsors" class="w3-bar-item w3-button">Sponsors</a>
+                        <a href="{{ site.baseurl }}/coaches" class="w3-bar-item w3-button">Coaches</a>
+                        <a href="{{ site.baseurl }}/jim_miller" class="w3-bar-item w3-button">Jim Miller Fund</a>
+                    </div>
+                </li>
                 <li><a href="{{ site.baseurl }}/riders">Riders</a></li>
+                <li><a href="{{ site.baseurl }}/parents">Parents</a></li>
                 <li><a href="{{ site.baseurl }}/sitemap">Site Map</a></li>
                 <li><a href="{{ site.baseurl }}/races"><font color="red">Race!</font></a></li>
                 <li class="w3-dropdown-hover">
