@@ -17,11 +17,11 @@ permalink: /media/
  
 #### Photo Collections
 ##### Race #2
-* <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katy Nelson's photos</a>
+* <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
 
 ##### Race #1
 * <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
-* <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katy Nelson's photos</a>
+* <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katie Nelson's photos</a>
 * <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Janson-Smith's and Todd Schopp's photos</a>
 
 
