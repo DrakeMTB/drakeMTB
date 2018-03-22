@@ -8,7 +8,7 @@ permalink: /coaches/
 
 * [Coach Pitzone Assignments on Sunday March 25th Ft Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
 * [Master Pitzone Schedule on Sunday March 25th Ft Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-<!--* [Call-Ups Sunday March 25th Ft Ord]({{site.baseurl}}/images/callups_Laguna_Seca_2018_all.jpg)-->
+* [Call-Ups Sunday March 25th Ft Ord]({{site.baseurl}}/images/callups_ft_ord_2_2018_all.jpg)
 
 
 
