@@ -13,6 +13,7 @@ permalink: /media/
 ### 2018
 
 #### Joe Stranzl's Video Magic
+ * <a href="https://www.youtube.com/watch?v=yY7FlzVAQFg&t=325s" target="_blank">Drake JV & Varsity boys @ Laguna Seca Raceway 2018</a> - with contributions by Charlie Simpson & others
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
  
 #### Photo Collections
