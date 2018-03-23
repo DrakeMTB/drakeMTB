@@ -6,7 +6,7 @@ permalink: /girls/
 ---
 ##  50% Girls by 2025
 
-The Drake Mountain Bike Team has made a public commitment to have half of the team represented by girl riders by 2025 (currently the team is approximately 25% girls).  
+The Drake Mountain Bike Team has made a public commitment to have half of the team represented by girl riders by 2025 (currently the team is approximately 33% girls).  
 
 A [great NorCal produced video](https://m.youtube.com/watch?v=RMzVFlOF8R4) on the impact of mountain biking on girls. More information can be found in [this article](https://www.trekbikes.com/us/en_US/story/the_new_normal).
 
