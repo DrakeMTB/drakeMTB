@@ -16,7 +16,10 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=yY7FlzVAQFg&t=325s" target="_blank">Drake JV & Varsity boys @ Laguna Seca Raceway 2018</a> - with contributions by Charlie Simpson & others
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
  
-#### Photo Collections
+#### Photo & Video Collections
+##### Race #3
+* <a href="https://youtu.be/B20DoRskrvw" target="_blank">Travis McOuat's Fort Ord Trail GoPro Video</a>
+
 ##### Race #2
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
 
