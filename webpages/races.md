@@ -38,7 +38,7 @@ permalink: /races/
 
 *******
 
-# Race Day schedules
+# <a name="schedule"></a>Race Day schedules
 
  * [Varsity Girls]({{site.baseurl}}/images/race1_sched_girls_varsity.JPG)
  * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_jv.JPG)
