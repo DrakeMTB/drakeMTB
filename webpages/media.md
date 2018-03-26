@@ -18,6 +18,7 @@ permalink: /media/
  
 #### Photo & Video Collections
 ##### Race #3
+* <a href="https://photos.app.goo.gl/ieRkrX698iIS5els2" target="_blank">Alexis White's photos</a>
 * <a href="https://youtu.be/B20DoRskrvw" target="_blank">Travis McOuat's Fort Ord Trail GoPro Video</a>
 * <a href="https://youtu.be/jMuDC23LO4U" target="_blank">Travis McOuat's Fort Ord Preride SeatCam</a>
 * <a href="https://youtu.be/O4xrmu54pSU" target="_blank">Travis McOuat's MTB Girls at Top of Mini-Hurl Hill Video</a>
