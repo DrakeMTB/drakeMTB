@@ -19,6 +19,7 @@ permalink: /media/
 #### Photo & Video Collections
 ##### Race #3
 * <a href="https://youtu.be/B20DoRskrvw" target="_blank">Travis McOuat's Fort Ord Trail GoPro Video</a>
+* <a href="https://youtu.be/jMuDC23LO4U" target="_blank">Travis McOuat's Fort Ord Preride SeatCam</a>
 
 ##### Race #2
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
