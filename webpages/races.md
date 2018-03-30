@@ -10,8 +10,8 @@ permalink: /races/
 
 * [Race #1 – February 25th (Sunday race at Fort Ord)](http://www.norcalmtb.org/wp-content/uploads/2018/02/1-Fun-at-the-Fort-216b.pdf)
 * [Race #2 – March 11th (Sunday race at Laguna Seca)](http://www.norcalmtb.org/wp-content/uploads/2018/01/2-Laguna-Seca-1231.pdf)
-* Race #3 – March 25th (Sunday race at Ft Ord)
-* Race #4 – April 14th (Saturday race at Granite Bay)
+* [Race #3 – March 25th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2018/03/Race-3-Back-at-the-Fortv2-.pdf)
+* [Race #4 – April 14th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2018/03/4-Granite-Bay-Grinder-1231FV.pdf)
 * Race #5 – May 5th (Saturday race at Six Sigma Ranch)
 * California High School State Championships – May 19th and 20th (Sunday race at Petaluma 5 Springs Ranch)
 
