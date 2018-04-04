@@ -25,6 +25,7 @@ permalink: /media/
 * <a href="https://youtu.be/QfsC2jxuMpc" target="_blank">Travis McOuat's Varsity and JV Boys - Back at the Fort Video</a>
 * <a href="https://youtu.be/fYB4NwlOSAw" target="_blank">Jakub Plichta's Fort Ord Boys Video</a>
 * <a href="https://photos.app.goo.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord Photos</a>
+* <a href="https://photos.app.goo.gl/YGQu8a61o3FPh4Ne2" target="_blank">Toby Janson-Smith's photos</a>
 
 ##### Race #2
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
