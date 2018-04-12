@@ -6,9 +6,9 @@ permalink: /coaches/
 ---
 [<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/19WL2J8f8BieGRdIXPyOE8BAIAF0-meitY_ZrZtLTTDE/edit#gid=0)
 
-* [Coach Pitzone Assignments on Sunday March 25th Ft Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
-* [Master Pitzone Schedule on Sunday March 25th Ft Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Call-Ups Sunday March 25th Ft Ord]({{site.baseurl}}/images/callups_Ft_Ord_2_2018_all.jpg)
+* [Coach Pitzone Assignments on Saturday April 14th Granite Bay]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
+* [Master Pitzone Schedule on Saturday April 14th Granite Bay]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
+* [Call-Ups Saturday April 14th Granite Bay]({{site.baseurl}}/images/callups_granite_bay_all.JPG)
 
 
 
