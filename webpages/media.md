@@ -17,7 +17,10 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
  
 #### Photo & Video Collections
-##### Race #3
+##### Race #4 - Granite Bay Grinder
+* <a href="https://youtu.be/D607c3S0tSs" target="_blank">Travis McOuat's Preride Video - Granite Bay</a>
+
+##### Race #3 - Back at the Fort
 * <a href="https://photos.app.goo.gl/ieRkrX698iIS5els2" target="_blank">Alexis White's photos</a>
 * <a href="https://youtu.be/B20DoRskrvw" target="_blank">Travis McOuat's Fort Ord Trail GoPro Video</a>
 * <a href="https://youtu.be/jMuDC23LO4U" target="_blank">Travis McOuat's Fort Ord Preride SeatCam</a>
@@ -27,10 +30,10 @@ permalink: /media/
 * <a href="https://photos.app.goo.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord Photos</a>
 * <a href="https://photos.app.goo.gl/YGQu8a61o3FPh4Ne2" target="_blank">Toby Janson-Smith's photos</a>
 
-##### Race #2
+##### Race #2 - Central Coast Challenge
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
 
-##### Race #1
+##### Race #1 - Fun at the Fort
 * <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katie Nelson's photos</a>
 * <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Janson-Smith's and Todd Schopp's photos</a>
