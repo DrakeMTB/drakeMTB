@@ -8,7 +8,7 @@ permalink: /coaches/
 
 * [Coach Pitzone Assignments on Saturday April 14th Granite Bay]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
 * [Master Pitzone Schedule on Saturday April 14th Granite Bay]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Call-Ups Saturday April 14th Granite Bay]({{site.baseurl}}/images/callups_sixsigma_all.JPG)
+* [Call-Ups Saturday May 5th Six Sigma]({{site.baseurl}}/images/callups_sixsigma_all.JPG)
 
 
 
