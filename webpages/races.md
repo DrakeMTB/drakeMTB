@@ -13,7 +13,7 @@ permalink: /races/
 * [Race #3 – March 25th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2018/03/Race-3-Back-at-the-Fortv2-.pdf)
 * [Race #4 – April 14th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2018/03/4-Granite-Bay-Grinder-1231FV.pdf)
 * [Race #5 – May 5th (Saturday race at Six Sigma Ranch)](http://www.norcalmtb.org/wp-content/uploads/2018/01/5-Six-Sigma-Slinger-1231.pdf)
-* California High School State Championships – May 19th and 20th (Sunday race at Petaluma 5 Springs Ranch)
+* [California High School State Championships – May 19th and 20th (Sunday race at Petaluma 5 Springs Ranch)](https://www.norcalmtb.org/wp-content/uploads/2018/04/State-Championships-2018-Flyer-v3-1.pdf)
 
 *******
 
