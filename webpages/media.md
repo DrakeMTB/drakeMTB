@@ -18,6 +18,9 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
  
 #### Photo & Video Collections
+##### Race #5 - Six Sigma Slinger
+* <a href="https://www.amazon.com/photos/groups/share/laht4u9TSfqkxXKnTTJ0iw.lVrBaWqb4rjF4kuFoouL-s" target="_blank">Shawn Nelson's Photos</a>
+
 ##### Race #4 - Granite Bay Grinder
 * <a href="https://youtu.be/D607c3S0tSs" target="_blank">Travis McOuat's Preride Video - Granite Bay</a>
 
