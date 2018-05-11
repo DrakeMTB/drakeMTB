@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 <h1>Our Story</h1>
+<img src="{{site.baseurl}}/images/about.jpg" align="right" alt="About Us" style="margin: 0 0 10px 10px;">
 <p>It was a spring day in 2002, when a Drake High sophomore and Drake teacher found themselves competing against each other unexpectedly at a race infamously known as Billy Cross. It was a classic match-up of student versus master every bit as great as Vader vs. Kenobi. They fought, struggled, and even trash-talked to gain cycling supremacy at Drake High. The stakes were high and what happened on that day is the stuff of legend. Some will say that the kid showed up the master by beating him to the line. Others deny, saying the kid only had to do two laps, and the old-timer did three... perhaps not a fair comparison.</p>
 
 <p>But, what we do know is from that meeting came the birth of the Drake Mountain Bike Team. In December of 2002 we had our first meeting. That spring, 8 Pirates came out to race. By the spring of 2009, Drake had earned the title of 2004 and 2006 NorCal State Champions. And, finally, in 2009 Drake won the first-ever California State Championship, the first of seven  as of  2017, bringing high school mountain biking’s most prestigious honor to where it began… at the foot of Repack and Mt. Tamalpais.
