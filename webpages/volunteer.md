@@ -7,6 +7,8 @@ permalink: /volunteer/
 
 ### Volunteering
 
+<img src="{{site.baseurl}}/images/volunteer.jpg" align="right" alt="Parent Volunteers" style="margin: 0 0 10px 10px;">
+
 **Race Day Sign-up Sheets**
 ## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4/edit?ts=5a74beaf#gid=1677563385)  
 
