@@ -57,6 +57,7 @@ Food inventory managers receive the food brought by volunteers on race day and o
 **Website Chair**
 Manages changes and updates to Team website as needed.
 
+<img src="{{site.baseurl}}/images/volunteer2.jpg" align="right" alt="More Parent Volunteers" style="margin: 0 0 10px 10px;">
 **Volunteering at Races - general info**
 
 Our Pit Zone is the hub of the Drake team at each race, and it’s where all the riders, parents and coaches are on race day. Drake MTB prides itself on having the best Pit Zone in the State. We provide food for the entire Drake extended family for the whole race day. We provide bike racks, warm-up trainers, recovery drinks, covered seating and mechanical assistance for the Riders. We make sure the Riders have fresh bottles of hydration for every lap of each of their races. We do almost all of it with volunteer parent labor. Running the Pit Zone is a group effort that requires major help from parents to keep our team healthy, prepared and race ready. More than a decade of hard work, wisdom and practice has gone into figuring out how to run the league’s best Pit Zone, so your time and efforts are in good hands!
