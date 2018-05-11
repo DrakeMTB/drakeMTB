@@ -6,6 +6,9 @@ permalink: /raceday/
 ---
 
 # A DrakeMTB Race Day
+
+<img src="{{site.baseurl}}/images/raceday.jpg" align="right" alt="DrakeMTB Race Day" style="margin: 0 0 10px 10px;">
+
 Describing a high school mountain bike race in words is impossible, but in 2016 we had a few excellent videographers and Riders put together the following content that helps new Riders and parents get the idea:
 
 **What does a race day look like?**
