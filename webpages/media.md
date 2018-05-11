@@ -7,8 +7,7 @@ permalink: /media/
 
 # Drake MTB on the Web and In the News
 
-![pic of Leo in an Eno]({{site.baseurl}}/images/media.jpg)
-
+<img src="{{site.baseurl}}/images/media.jpg" align="right" alt="Drake MTB Media" style="margin: 0 0 10px 10px;">
 
 ### 2018
 
