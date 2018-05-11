@@ -19,6 +19,9 @@ permalink: /media/
 #### Photo & Video Collections
 ##### Race #5 - Six Sigma Slinger
 * <a href="https://www.amazon.com/photos/groups/share/laht4u9TSfqkxXKnTTJ0iw.lVrBaWqb4rjF4kuFoouL-s" target="_blank">Shawn Nelson's Photos</a>
+* <a href="https://pamelapalma.smugmug.com/Sports/Nor-Cal-League-at-Six-Sigma-Ranch" target="_blank">Photos from Pamela Palma (friend of Laura Childress)</a>
+
+
 
 ##### Race #4 - Granite Bay Grinder
 * <a href="https://youtu.be/D607c3S0tSs" target="_blank">Travis McOuat's Preride Video - Granite Bay</a>
