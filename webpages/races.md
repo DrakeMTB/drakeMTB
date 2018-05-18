@@ -5,6 +5,8 @@ stitle: race_and_travel
 permalink: /races/
 ---
 
+<img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
+
 ## Race Schedule for 2018 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/11/2018-RACE-Calendar-11.16.pdf)
 
