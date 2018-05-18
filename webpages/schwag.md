@@ -7,7 +7,7 @@ permalink: /schwag/
 
 # Drake MTB Schwag
 
-![schwag]({{site.baseurl}}/images/schwag.JPG)
+![schwag]({{site.baseurl}}/images/schwag.jpg)
 
 ### Cool Stuff for everyone
 
