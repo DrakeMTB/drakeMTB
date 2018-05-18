@@ -4,6 +4,9 @@ title: Practices
 stitle: practices
 permalink: /practices/
 ---
+
+<img src="{{site.baseurl}}/images/practices.jpg" align="right" alt="DrakeMTB Practices" style="margin: 0 0 10px 10px;">
+
 # Team Rides
 Riders, Coaches, and Ride Leaders spend more time on team rides than any other activity.  Team rides help the Riders get to know their peers, learn and improve biking skills, increase levels of fitness, and get to know the beautiful landscape of Marin County in a way that is perhaps not possible by any other means.  Without team rides, the team would just be a collection of individuals who occasionally meet each other on the race course.
 
