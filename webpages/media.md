@@ -16,13 +16,20 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=os0f6S0e5yw" target="_blank">Drake Soph boys @ Granite Bay - 2018</a>
  * <a href="https://www.youtube.com/watch?v=yY7FlzVAQFg&t=325s" target="_blank">Drake JV & Varsity boys @ Laguna Seca Raceway 2018</a> - with contributions by Charlie Simpson & others
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
- 
+
+### News Articles
+* <a href="http://www.marinij.com/sports/20180520/drake-wins-high-school-mountain-biking-title-for-fourth-year-in-a-row" target="_blank">Drake wins high school mountain-biking title for fourth year in a row (Marin IJ)</a>
+
 #### Photo & Video Collections
+
+##### Race #6 - State Championships
+* <a href="https://www.amazon.com/photos/share/Ttl2Z47ZiiQSzFiJcBEHQ3eNXzuLhUjW3TBnAh8iUN0" target="_blank">Shawn Nelson's Photos</a>
+* <a href="https://photos.google.com/share/AF1QipMoEVMzoFs5ME6ERPpt1CzZLVEwZunkKUhVser-jznK53cTR7FHz3eIaQsb_1AKng" target="_blank">Tanja Zeise's Photos</a>
+* <a href="https://youtu.be/4EpyHFTNeXA" target="_blank">Travis McOuat's Preride Video - 5 Springs Farm, Petaluma</a>
+
 ##### Race #5 - Six Sigma Slinger
 * <a href="https://www.amazon.com/photos/groups/share/laht4u9TSfqkxXKnTTJ0iw.lVrBaWqb4rjF4kuFoouL-s" target="_blank">Shawn Nelson's Photos</a>
 * <a href="https://pamelapalma.smugmug.com/Sports/Nor-Cal-League-at-Six-Sigma-Ranch" target="_blank">Photos from Pamela Palma (friend of Laura Childress)</a>
-
-
 
 ##### Race #4 - Granite Bay Grinder
 * <a href="https://youtu.be/D607c3S0tSs" target="_blank">Travis McOuat's Preride Video - Granite Bay</a>
