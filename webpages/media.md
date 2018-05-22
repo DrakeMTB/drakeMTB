@@ -18,7 +18,7 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
 
 ### News Articles
-* <a href="http://www.marinij.com/sports/20180520/drake-wins-high-school-mountain-biking-title-for-fourth-year-in-a-row" target="_blank">Drake wins high school mountain-biking title for fourth year in a row (Marin IJ)</a>
+* <a href="http://www.marinij.com/sports/20180520/drake-wins-high-school-mountain-biking-title-for-fourth-year-in-a-row" target="_blank"><strong>Drake wins high school mountain-biking title for fourth year in a row</strong> (Marin IJ)</a>
 
 #### Photo & Video Collections
 
