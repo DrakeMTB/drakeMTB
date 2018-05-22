@@ -23,7 +23,7 @@ permalink: /media/
 #### Photo & Video Collections
 
 ##### Race #6 - State Championships
-* <a href="https://www.amazon.com/photos/share/Ttl2Z47ZiiQSzFiJcBEHQ3eNXzuLhUjW3TBnAh8iUN0" target="_blank">Shawn Nelson's Photos</a>
+* <a href="https://www.amazon.com/photos/share/Ttl2Z47ZiiQSzFiJcBEHQ3eNXzuLhUjW3TBnAh8iUN0" target="_blank">Shawn Nelson's Photos</a> (scroll down past the prom and 6 Sigma photos)
 * <a href="https://photos.google.com/share/AF1QipMoEVMzoFs5ME6ERPpt1CzZLVEwZunkKUhVser-jznK53cTR7FHz3eIaQsb_1AKng" target="_blank">Tanja Zeise's Photos</a>
 * <a href="https://youtu.be/4EpyHFTNeXA" target="_blank">Travis McOuat's Preride Video - 5 Springs Farm, Petaluma</a>
 
