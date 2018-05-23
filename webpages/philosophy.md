@@ -9,6 +9,7 @@ permalink: /philosophy/
 
 **On Racing**
 
+<img src="{{site.baseurl}}/images/philosophy.jpg" align="right" alt="Racing Philosophy" style="margin: 0 0 10px 10px;">
 If you are a new parent or Rider, please consider this section required reading.  The following race observer report from a former state champion Rider and team captain captures so much of what it means to be on the Drake team… why Riders race, how some Riders handle stress, how Riders can change throughout the years on the team, and what keeps Riders and parents coming back:
 
 “I am sorry about the lateness of this. After the race I had a busy week working, catching up with friends, spending lots of time with my family, and trying to rest when I could. I am now on an airplane flying back to school, and finally have some time to put into this ‘spectator report’. Sorry as well if this is long. Hopefully it is useful and interesting for you all.
