@@ -26,13 +26,16 @@ permalink: /media/
 * <a href="https://www.amazon.com/photos/share/sGequTeboTHZ6zBiiaejqFG089lTrweHQXqp6qJS5kf" target="_blank">Shawn Nelson's Photos</a>
 * <a href="https://photos.google.com/share/AF1QipMoEVMzoFs5ME6ERPpt1CzZLVEwZunkKUhVser-jznK53cTR7FHz3eIaQsb_1AKng" target="_blank">Tanja Zeise's Photos</a>
 * <a href="https://youtu.be/4EpyHFTNeXA" target="_blank">Travis McOuat's Preride Video - 5 Springs Farm, Petaluma</a>
+* <a href="https://photos.app.goo.gl/Yel0dVqCcjWqN1Db2" target="_blank">The Goulden's State Champs Photos</a>
 
 ##### Race #5 - Six Sigma Slinger
 * <a href="https://www.amazon.com/photos/groups/share/laht4u9TSfqkxXKnTTJ0iw.lVrBaWqb4rjF4kuFoouL-s" target="_blank">Shawn Nelson's Photos</a>
 * <a href="https://pamelapalma.smugmug.com/Sports/Nor-Cal-League-at-Six-Sigma-Ranch" target="_blank">Photos from Pamela Palma (friend of Laura Childress)</a>
+* <a href="https://photos.app.goo.gl/7t8sXd1dFKPiqQpr2" target="_blank">The Goulden's Six Sigma Photos</a>
 
 ##### Race #4 - Granite Bay Grinder
 * <a href="https://youtu.be/D607c3S0tSs" target="_blank">Travis McOuat's Preride Video - Granite Bay</a>
+* <a href="https://photos.app.goo.gl/J9sCTN9Uz68RRPOr2" target="_blank">The Goulden's Granite Bay Grinder Photos</a>
 
 ##### Race #3 - Back at the Fort
 * <a href="https://photos.app.goo.gl/ieRkrX698iIS5els2" target="_blank">Alexis White's photos</a>
@@ -41,16 +44,18 @@ permalink: /media/
 * <a href="https://youtu.be/O4xrmu54pSU" target="_blank">Travis McOuat's MTB Girls at Top of Mini-Hurl Hill Video</a>
 * <a href="https://youtu.be/QfsC2jxuMpc" target="_blank">Travis McOuat's Varsity and JV Boys - Back at the Fort Video</a>
 * <a href="https://youtu.be/fYB4NwlOSAw" target="_blank">Jakub Plichta's Fort Ord Boys Video</a>
-* <a href="https://photos.app.goo.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord Photos</a>
+* <a href="https://photos.app.goo.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord 2 Photos</a>
 * <a href="https://photos.app.goo.gl/YGQu8a61o3FPh4Ne2" target="_blank">Toby Janson-Smith's photos</a>
 
 ##### Race #2 - Central Coast Challenge
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
+* <a href="https://photos.app.goo.gl/7hg9tmneaan9Vyqb7" target="_blank">The Goulden's Laguna Seca Photos</a>
 
 ##### Race #1 - Fun at the Fort
 * <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katie Nelson's photos</a>
 * <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Janson-Smith's and Todd Schopp's photos</a>
+* <a href="https://photos.app.goo.gl/5qqvsJU03SNSlqi83" target="_blank">The Goulden's Fort Ord Photos</a>
 
 
 ### 2017
