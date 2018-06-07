@@ -89,13 +89,11 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 
 ## Your Coaches, Ride Leaders, and Team Mechanics for the 2018 Season
 
-#### Co-Head Coach Otis Guy
+#### Co-Head Coach Laura Childress
 
-![Otis]({{site.basurl}}/images/Otis-Guy.jpg)
+![Laura]({{site.basurl}}/images/laura.jpeg)
 
-Otis started riding mountain bikes in 1973 with Joe Breeze and Marc Vendetti. They first rode single speed pre-WWII Schwinns all over Mt. Tam. They later progressed to adding gears to old frames until Joe began building new frames in 1978. Otis started building frames in 1982 under his own name. He’s the only person to have raced the first Repack downhill mountain bike race (just outside Fairfax), the first Mountain Bike National Championships (1983), and the first Mountain Bike World Championships (1990). He holds the record for third fastest time ever on Repack, and won the event once. For 15 years he had his own race team (1985-2000). Otis was inducted into the Mountain Bike Hall of Fame in 1993. Otis is also a Paramedic and worked for the Ross Valley Fire Service from 1975 to 2007. In the summer Otis runs the [Otis Guy Mountain Bike camp](http://www.otisguymountainbikecamp.com) for 7-13 year olds. This camp has helped fill out the rosters in many of the local high schools. More importantly has given the spark of cycling to many kids. He is a certified EMS, Wilderness First Aid and First Aid instructor. Otis is one of the founding board members of the Marin Museum of Bicycling and the [Mountain Bike Hall of Fame](http://mmbhof.org/) located at 1966 SFD Blvd. in Fairfax.
-His daughter Alexis graduated from Drake in 2001, and his oldest son Sterling graduated from Drake in 2015 and his youngest son Marcus is now a Senior at Drake and rides on the MTB team. DrakeMTBCoaches@gmail.com
-
+lorem ipsum
 
 #### Co-Head Coach Rob Reed
 
