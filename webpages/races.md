@@ -16,8 +16,9 @@ permalink: /races/
 * [Race #3 – March 25th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2018/03/Race-3-Back-at-the-Fortv2-.pdf)
 * [Race #4 – April 14th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2018/03/4-Granite-Bay-Grinder-1231FV.pdf)
 * [Race #5 – May 5th (Saturday race at Six Sigma Ranch)](http://www.norcalmtb.org/wp-content/uploads/2018/01/5-Six-Sigma-Slinger-1231.pdf)
-* [California High School State Championships – May 18th and 19th (Sunday race at Tehachapi Race Course)](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course-2018)
 --->
+
+* [California High School State Championships – May 18th and 19th (Sunday race at Tehachapi Race Course)](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course-2018)
 
 *******
 
