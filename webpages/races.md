@@ -7,15 +7,17 @@ permalink: /races/
 
 <img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
 
-## Race Schedule for 2018 Season
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2017/11/2018-RACE-Calendar-11.16.pdf)
+## Race Schedule for 2019 Season
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2018/07/2019-NorCal-Schedule-revised.pdf)
 
+<!---
 * [Race #1 – February 25th (Sunday race at Fort Ord)](http://www.norcalmtb.org/wp-content/uploads/2018/02/1-Fun-at-the-Fort-216b.pdf)
 * [Race #2 – March 11th (Sunday race at Laguna Seca)](http://www.norcalmtb.org/wp-content/uploads/2018/01/2-Laguna-Seca-1231.pdf)
 * [Race #3 – March 25th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2018/03/Race-3-Back-at-the-Fortv2-.pdf)
 * [Race #4 – April 14th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2018/03/4-Granite-Bay-Grinder-1231FV.pdf)
 * [Race #5 – May 5th (Saturday race at Six Sigma Ranch)](http://www.norcalmtb.org/wp-content/uploads/2018/01/5-Six-Sigma-Slinger-1231.pdf)
-* [California High School State Championships – May 19th and 20th (Sunday race at Petaluma 5 Springs Ranch)](https://www.norcalmtb.org/wp-content/uploads/2018/04/State-Championships-2018-Flyer-v3-1.pdf)
+* [California High School State Championships – May 18th and 19th (Sunday race at Tehachapi Race Course)](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course-2018)
+--->
 
 *******
 
