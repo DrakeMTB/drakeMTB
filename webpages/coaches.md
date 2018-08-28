@@ -162,4 +162,4 @@ Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His pass
 
 ![waldenreed]({{site.baseurl}}/images/walden_mechanic.jpg)
 
-lorem ipsum
+Discovering a love of bikes at 8 years of age by way of the Hilly Hundred Century, Walden has pursued his lifelong passion for bikes ever since.  Walden started fixing bikes while on the Drake High School Mountain Bike Team, and has worked as a mechanic and bike builder for some of the best bicycle shops in the Bay Area.  Walden also enjoys cloud watching and anything that goes fast.
