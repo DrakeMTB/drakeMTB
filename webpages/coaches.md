@@ -134,7 +134,7 @@ lorem ipsum
 
 lorem ipsum
 
-#### Assistant Coach Shawn Nelsom
+#### Assistant Coach Shawn Nelson
 
 ![shawn]({{site.baseurl}}/images/shawn-coach.JPG)
 
