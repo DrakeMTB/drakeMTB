@@ -33,7 +33,7 @@ permalink: /parents/
 ||||
 | [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=F16F52CE-3810-45FB-9110-1BE5B72DDD31)| Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
-| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeUzhX9MMRaQSGIao9HLNbjLiWM5XQZoiBfwPpkOQV-SWhCmQ/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 20th |
+| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 20th |
 ||||
 | [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th |
 ||||
