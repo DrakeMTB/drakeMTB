@@ -23,13 +23,13 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Mimi Bennett at the Drake High Main Office | Sunday September 17th |
+| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Mimi Bennett at the Drake High Main Office | Sunday September 16th |
 ||||
-| [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Sunday September 17th |
+| [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Sunday September 16th |
 ||||
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 17th |
+| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Sunday September 16th |
 ||||
-| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to ride and race with the team |            October 28th |
+| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to ride and race with the team |            December 1st |
 ||||
 | [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=F16F52CE-3810-45FB-9110-1BE5B72DDD31)| Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
 ||||
