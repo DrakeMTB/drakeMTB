@@ -54,7 +54,7 @@ The Drake Mountain Bike Team is a club sport, which means that the team cannot f
 * Make sure that you and your Rider understand the ins and outs of [team training rides]({{site.baseurl}}/practices).  
 * Make sure that your Rider wears [the proper clothing on training rides]({{site.baseurl}}/images/what_to_wear_v2.pdf) and attends each ride with the [proper equipment]({{site.baseurl}}/images/what_to_bring.jpg)
 
-**Volunteer Parental Activities**
+[**Volunteer Parental Activities**]({{site.baseurl}}/volunteer)
 If you got through the checklist of forms above by the required deadlines, congratulations! Drake MTB has a [culture of parent involvement]({{site.baseurl}}/volunteer) both at races and during the season between races. There are many ways to help, and many skills needed. At least one parent is expected to attend races with their Rider, and pitch in to help during race day. Without parent volunteers, the team activities and races would literally grind to a dusty halt.
 
 **Volunteer at the Races**
