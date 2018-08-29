@@ -82,8 +82,8 @@ Trainers need to be unloaded from the trailers, set up in the Pit Zone, and kids
 **Pit area recycling and garbage handling**
 Drake’s Pit Zone is also famous for having the smallest footprint for waste, thanks to the well-organized recycling, garbage, and composting efforts.
 
-**Feed Zone volunteers**
-The Feed Zone is the area on the race course where individual riders get their water bottles handed to them during the race. There are two types of Feed Zone Volunteers: there are spotters who call in race numbers from a location away from the feed zone, and feeders working in the feed zone to give bottles to the riders as they come through. This is a fun and very participatory job!
+**Feed Zone Leader and volunteers**
+The Feed Zone is the area on the race course where individual riders get their water bottles handed to them during the race.  With a team this size, we sometimes need up to 100 bottles ready for a single race.  The Feed Zone Leader is the person who is responsible for making sure that bottles are washed and ready for each race, and that the Feed Zone is coordinated and staffed at each race. There are two types of Feed Zone Volunteers: there are spotters who call in race numbers from a location away from the feed zone, and feeders working in the feed zone to give bottles to the riders as they come through. This is a fun and very participatory job!
 
 **Grill Master and assistants**
 Grill Master is in charge of grilling up whatever yumminess is on the menu. Shifts rotate so no one misses their Rider’s race. 
