@@ -9,8 +9,8 @@ permalink: /nutrition/
 
 **Links**
  * [Link to NICA's Nutrition Guide](http://teach.truesport.org/nutrition/#takeaways)<br>
- * [Link to Content from Dana Williams talk to the team on 1/17/2017]({{site.basurl}}/images/Breakfast_ideas.pdf)<br>
- * [Breakfast Ideas by Alexis]({{site.basurl}}/images/Rider_Nutrition_by_Dana_Williams.pdf)
+ * [Link to Content from Dana Williams talk to the team on 1/17/2017]({{site.basurl}}/images/Rider_Nutrition_by_Dana_Williams.pdf)
+ * [Breakfast Ideas by Alexis]({{site.basurl}}/images/Breakfast_ideas.pdf)
 
 **Hydrate with more than plain water if you can**
 Drinking water is **ALWAYS** a good idea.  If you can, however, drink it with a little sodium added to aid its absorption into the bloodstream (you will know water is getting absorbed because you won’t have to urinate as frequently).  Skratch and Nuun are two different products that can be added to water to help with absorption and electrolyte replenishment.  You can also simply add ¼ teaspoon of sea salt and a little maple syrup to your water bottle; much cheaper in the long run.
