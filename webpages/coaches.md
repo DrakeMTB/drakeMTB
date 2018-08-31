@@ -95,14 +95,13 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 #### Co-Head Coach Laura Childress
 
 ![Laura]({{site.basurl}}/images/laura.jpeg)
-
-lorem ipsum
+Laura Childress has been running www.bikeadventuresforkids.com for 11 years, and the Drake MTB family is delighted to welcome her as a co-head coach for the 2018-2019 season!  Laura is an experienced road- and mountain biker and has been responsible for an amazing pipeline of middle school kids for Drake over the last decade.  She is a school nurse in Petaluma, and has a wealth of coaching and mentoring energy.
 
 #### Co-Head Coach Rob Reed
 
 ![Rob]({{site.basurl}}/images/coach-rob2.jpg)
 
- Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last three years, and this year is delighted to work with Otis on the coaching staff.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob works in San Francisco and commutes into the city, and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
+Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last five years, and this year is delighted to work with Laura Childress as a co-head coach.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob is a stay-at-home dad and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
 
 #### Assistant Coach Chris Kenton
 
@@ -120,7 +119,7 @@ Growing up in Fairfax, the birthplace of mountain biking, I guess you could say 
 
 ![philip]({{site.baseurl}}/images/philip-coach.jpg)
 
-I'm thrilled to be helping out the team this year as an assistant coach for the Drake MTB team.  My son Logan joined the team as a freshman in the 2016 season and brought me along as a willing and enthusiastic parent rider.  Logan has helped get me out on the trails of Marin since he was 6 years old and we would go out and back on the Shoreline Trail at China Camp, and NOT make it all the way from Deer Park to 5 Corners.  Times have certainly changed in that respect! The grit and determination that the kids on the Mountain Bike team display on the training rides and races is incredible and it's endlessly inspiring to watch. I'm thankful for all the work that all the parents and volunteers put into making this organization work so well and I look forward to another great season for the Drake MTB team.   
+I'm thrilled to be helping out the team this year as an assistant coach for the Drake MTB team.  My son Logan joined the team as a freshman in the 2016 season and is now a Varsity rider for the team.  Logan has helped get me out on the trails of Marin since he was 6 years old and we would go out and back on the Shoreline Trail at China Camp, and NOT make it all the way from Deer Park to 5 Corners.  Times have certainly changed in that respect! The grit and determination that the kids on the Mountain Bike team display on the training rides and races is incredible and it's endlessly inspiring to watch. I'm thankful for all the work that all the parents and volunteers put into making this organization work so well and I look forward to another great season for the Drake MTB team.   
 
 #### Assistant Coach Nicole Palkovsky
 
