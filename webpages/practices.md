@@ -33,7 +33,7 @@ At Pelo (weekly spin class), there is a container of clothes that have donated b
 
 **2. Food & Water**
 
-* For detailed information on food and water, please read through the [Nutrition content]([[site.baseurl]]/nutrition)
+* For detailed information on food and water, please read through the [Nutrition content]({{site.baseurl}}/nutrition)
 
 * We are a PEANUT-FREE TEAM, so no foods with peanut ingredients or peanut-flavor energy bars. Please check ingredients of the foods you are bringing.
 
