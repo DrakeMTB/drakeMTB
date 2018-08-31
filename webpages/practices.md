@@ -37,7 +37,7 @@ At Pelo (weekly spin class), there is a container of clothes that have donated b
 
 * We are a PEANUT-FREE TEAM, so no foods with peanut ingredients or peanut-flavor energy bars. Please check ingredients of the foods you are bringing.
 
-* Food, both real food (bars, sandwich, banana) and quick energy food (blocks or glucose tablets). See pages 21-22 for more nutrition and hydration details.
+* Food, both real food (bars, sandwich, banana) and quick energy food (blocks or glucose tablets).
 
 * Water bottle or hydration pack (such as Camelbak) with plenty of water/electrolyte solution.
 
