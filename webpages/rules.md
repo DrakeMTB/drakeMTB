@@ -6,7 +6,7 @@ permalink: /rules/
 ---
 
 ## NICA Rules
-[This rulebook](http://www.nationalmtb.org/blog/wp-content/uploads/NICA-Rulebook.pdf) has all of the information that Riders, Coaches, and Parents need to know about how the league is structured, how scoring is done, what the guidelines are for team rides, and many many other important things.  Because the rulebook is so long, one of our [captains]({{site.baseurl}}/captains) make a [presentation](https://docs.google.com/presentation/d/1lCzeqvyVF3BH8FIsBVCw_Y54TFwLITc-Vuo4MhWPIMU) to highlight the important facts, along with a [quiz](https://goo.gl/forms/wizEaFAeTibqI8Eh1) at the end to test your knowledge.  Thanks Ronan!  Great work.
+[This rulebook](http://www.nationalmtb.org/blog/wp-content/uploads/NICA-Rulebook.pdf) has all of the information that Riders, Coaches, and Parents need to know about how the league is structured, how scoring is done, what the guidelines are for team rides, and many many other important things. 
 
 
 ## Rules for Riders
@@ -30,15 +30,15 @@ Jumping off ramps, extended wheelies while riding in a crowd, curling berms and 
  6. **Treat each other with respect on and off the bike**  
 There should be nothing but support between all riders regardless of skill level or gender. Negative comments about team members will not be tolerated.
 
- 7. **Show trail courtesy – be the Spirit of Howdy!! (See <http://www.spiritofhowdy.org> for more information)**  
+ 7. **Show trail courtesy – be the Spirit of Howdy!!**  
 When riding on Public Lands please keep the following in mind:
-
     * Always yield right of way to other users
     * Respect other trail user groups
     * Control your speed
     * Do not litter
     * **Say Howdy to all users!!!**
- 8. **Communicate with your parents, Ride Leaders, and Coaches**  
+
+8. **Communicate with your parents, Ride Leaders, and Coaches**  
 Communicate with your parents, Ride Leaders, and Coaches when you are not feeling yourself physically or mentally – generally the adults around you are not good at reading minds, and over-communication is better than guesswork.  Let them know how they can help you, when you need it!
 
  9. **Read your Drake MTB email and texts**  
@@ -49,9 +49,12 @@ Our team is fully self-supporting and it takes everyone participating to make it
 
  11.  **Participate in trail maintenance at least once during the season**  
 The trails we ride only exist because of the efforts of folks that have built them, sustained them, and advocated for them, probably before you were born.  Drake MTB respects that tradition and expects every rider to participate in at least one trail maintenance volunteer activity during the school year.
- 12. **Volunteer for local groups and events**  
+
+12. **Volunteer for local groups and events**  
 Drake MTB is an important part of the local community, and our voice and numbers carry weight in the communities where we live.  Whether being active with [MCBC](http://www.marinbike.org/), going to meetings on Marin open-space usage, or getting information out to the team on which local politicians support the team’s trail access agenda, each Rider and family member can have lasting local impact.
- 13. **Familiarize yourself with NICA rulebook**  
+
+13. **Familiarize yourself with NICA rulebook**  
 The [NICA rulebook](http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf) contains a great deal of information, and reading it helps parents and Riders understand the need for some of the team rules above, how the races are run and scored, and a host of other rules and regulations that are helping high-school mountain biking grow into a mainstream sport: http://www.nationalmtb.org/wp-content/uploads/NICA-Rulebook.pdf
- 14. **Have FUN!**  
+
+14. **Have FUN!**  
 Mountain biking is one of the best sports there is. It is excellent low-impact aerobic exercise that you can do for a lifetime. You can cover more ground and see more cool stuff than with any other sport – at least that is the belief of the team!
