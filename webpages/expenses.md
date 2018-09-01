@@ -5,7 +5,7 @@ stitle: expenses
 permalink: /expenses/
 ---
 # Racer Expenses
-Mountain biking is a resource-intensive sport.  The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel.  The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLSdd3IXLRt7DjZA4b9HYtpFRuBuZxHeauVNy6z78pcf1DUENLg/viewform).
+Mountain biking is a resource-intensive sport.  The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel.  The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform).
 
 Item  | Cost
 :-----------| ----------:
@@ -26,7 +26,7 @@ As a club sport, the team receives no school funding, so annual dues and fundrai
 **Bicycle**  
 If a rider does not already have a high-quality mountain bike, we suggest that you spend at least $1,000 on a used bike see <http://www.craiglist.org> or <http://www.pinkbike.com>  for excellent used bicycles and $1,500 on a new bike.  Most of the other racers will be on hard-tailed 29-inch wheel bikes, so this is a good configuration to look for; dual-suspension bikes tend to be heavier and more expensive, neither of which tend to enhance the cross-country racing experience.  
 
-Some of the parents are saying to themselves “my first used car was cheaper than that!”, which may be true… however, a rider spends an enormous amount of time on the bike, and these amounts try to balance how much you will spend for repairs and maintenance to keep your rider upright and safe on a cheap bike, vs the peace of mind and better lighter components found on higher-quality bikes.  In general, spending more money gets you lighter bikes with longer lasting components.  Sunshine Bikes gives the team a [substantive discount on new bike purchases](https://www.sunshinebicycle.com/pages/hs2017), and Mike’s Bikes often discounts bicycles for Norcal riders.   This discount changes every year, so check in with <DrakeMTBDirector@gmail.com> for the latest information.
+Some of the parents are saying to themselves “my first used car was cheaper than that!”, which may be true… however, a rider spends an enormous amount of time on the bike, and these amounts try to balance how much you will spend for repairs and maintenance to keep your rider upright and safe on a cheap bike, vs the peace of mind and better lighter components found on higher-quality bikes.  In general, spending more money gets you lighter bikes with longer lasting components.  Sunshine Bikes gives the team a [substantive discount on new bike purchases](https://www.sunshinebicycle.com/pages/hs2018), and Mike’s Bikes often discounts bicycles for Norcal riders.   This discount changes every year, so check in with <DrakeMTBDirector@gmail.com> for the latest information.
 
 
 **Bicycle upkeep**  
