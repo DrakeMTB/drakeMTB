@@ -95,7 +95,8 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 #### Co-Head Coach Laura Childress
 
 ![Laura]({{site.basurl}}/images/laura.jpeg)
-Laura Childress has been running www.bikeadventuresforkids.com for 11 years, and the Drake MTB family is delighted to welcome her as a co-head coach for the 2018-2019 season!  Laura is an experienced road- and mountain biker and has been responsible for an amazing pipeline of middle school kids for Drake over the last decade.  She is a school nurse in Petaluma, and has a wealth of coaching and mentoring energy.
+
+I remember the first time I rode my bike and the exact moment my father let go the saddle of my blue Schwinn and I rode off untethered. Fear and excitement would soon turn into a new sense of freedom and self-confidence.  Bike riding opened a door to a whole new world of exploration, which would lead me on many secret adventures with my other bike-riding friends. Without a word to our parents, we would pack a lunch and set off on a day long adventure.  As long as we were home in one piece before the streetlights came on, we were good.  With no helmets, cell phones or GPS navigation we found our way from the suburbs, through the city to the ferry and over to the island.  Now, in a world where our children are escorted to and from school and to all their organized events, it’s hard to imagine our own children doing the same thing. That’s why we wanted to create a program to make accessible the freedom we enjoyed when we were kids. So, not only will your child learn about the possibilities out there, they will also discover the possibilities within themselves. For 11 years, I have been the director, ride leader, adventurer, medic, mechanic and mentor at Bike Adventures for Kids. I am a Registered Nurse, Wilderness Rescue and Remote First Aid certified and a certified CPR/AED Professional Rescuer and Health Care Provider.
 
 #### Co-Head Coach Rob Reed
 
