@@ -2,7 +2,7 @@
 layout: page
 title: Team Captains for 2017-18
 stitle: team_captains
-permalink: /captians/
+permalink: /captains/
 ---
 # Drake Captains
 
