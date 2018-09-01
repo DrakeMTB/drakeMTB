@@ -12,7 +12,7 @@ The Drake team captains provide on-the-trail and on-campus leadership for a team
 
 #### Audrey Fehlhaber
 
-![Audrey]({{site.basurl}}/images/audrey_captain.jpg)
+({{site.basurl}}/images/audrey_captain.jpg)
 
 When I joined the mountain biking team as a freshman, I had no idea what I was getting into. Little did I know that within a few short months, I would meet some of my closest friends, push myself harder than I thought possible, and find a group so tightly knit that I would consider it my second family. As a junior racing varsity this year, my motives for riding haven’t changed; I ride to be outside, to enjoy the company of this supportive team, to test the limits of my own strength, and because of my love for the sport. Mountain biking has brought me the satisfaction of victory and redemption, balanced by the frustration of sick days and broken chains. Through it all, I’ve learned to count on a group of peers, coaches, and parents who have the same passion for riding that I do; I owe my successes, large and small, to the entirety of the Drake MTB community. Here’s to another season full of the spirit of howdy!
 
