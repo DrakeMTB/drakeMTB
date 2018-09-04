@@ -19,8 +19,7 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
 
 ### News Articles
-* 
-<a href="https://www.velonews.com/2018/08/from-the-mag/high-school-mtb-leagues-rebuild-u-s-cyclings-base_477418">
+* <a href="https://www.velonews.com/2018/08/from-the-mag/high-school-mtb-leagues-rebuild-u-s-cyclings-base_477418">
 * <a href="http://www.marinij.com/sports/20180520/drake-wins-high-school-mountain-biking-title-for-fourth-year-in-a-row" target="_blank"><strong>Drake wins high school mountain-biking title for fourth year in a row</strong> (Marin IJ)</a>
 
 #### Photo & Video Collections
