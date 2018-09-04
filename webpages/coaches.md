@@ -132,7 +132,7 @@ lorem ipsum
 
 ![ted]({{site.baseurl}}/images/ted-coach.JPG)
 
-lorem ipsum
+Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
 
 #### Assistant Coach Shawn Nelson
 
