@@ -9,15 +9,19 @@ permalink: /emergency/
 |Title|Name|Cell phone number|
 |:----|:----|:----|
 |Team Director |Lynn Valdivia| 	 	415.302.0310|
-|Head Coach |Otis Guy| 		 	415.250.2585|
+|Head Coach |Laura Childress| 	 	415.279.4469|
 |Head Coach |Rob Reed| 		415.465.3101|
 | | | |
+|Assistant Coach |Mitch Brown| 	 	|
+|Assistant Coach |Ted Fehlhaber| 	415.846.4510|
 |Assistant Coach |Chris Kenton| 	 	415.302.1318|
-|Assistant Coach |Greg Murphy| 	415.377.2431|
+|Assistant Coach |Bill Melton| 	 	415.309.9458|
+|Assistant Coach |Shawn Nelson| 	415.412.6023|
+|Assistant Coach |Nicole Palkovsky| 	415.717.5181|
 |Assistant Coach |Scott Samet| 	 	415.997.9865|
-|Assistant Coach |Pete Sutherland|	415.676.9941|
-|Assistant Coach |Philip Swett| 	 	415.265.2802|
+|Assistant Coach |Matt Willis| 	 	415.342.6410|
+
 | | | |
+|Parent co-President|Michelle Cox| 	|
 |Parent co-President|Linda Kenton| 	415.378.9188|
-|Parent co-President|Alexis White| 	415.250.3030|
 ||||
