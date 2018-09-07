@@ -12,7 +12,7 @@ permalink: /emergency/
 |Head Coach |Laura Childress| 	 	415.279.4469|
 |Head Coach |Rob Reed| 		415.465.3101|
 | | | |
-|Assistant Coach |Mitch Brown| 	 	|
+|Assistant Coach |Mitch Brown| 	 	415.887.8536|
 |Assistant Coach |Ted Fehlhaber| 	415.846.4510|
 |Assistant Coach |Chris Kenton| 	 	415.302.1318|
 |Assistant Coach |Bill Melton| 	 	415.309.9458|
@@ -21,6 +21,6 @@ permalink: /emergency/
 |Assistant Coach |Scott Samet| 	 	415.997.9865|
 |Assistant Coach |Matt Willis| 	 	415.342.6410|
 | | | |
-|Parent Comittee co-President|Michelle Cox| 	|
+|Parent Comittee co-President|Michelle Cox| 	415.676.7246|
 |Parent Comittee co-President|Linda Kenton| 	415.378.9188|
 | | | |
