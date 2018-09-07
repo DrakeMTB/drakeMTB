@@ -138,17 +138,23 @@ Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and 
 
 ![shawn]({{site.baseurl}}/images/shawn-coach.JPG)
 
+Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after countless rides has stepped up to be an assistant coach. He grew up in Marin and has been riding these trails for a lot of years. Shawn is slow but only because he's fat and old. If you are looking for someone to ride next to who will make you feel better about your riding skills he's the guy. Fortunately, his one story always seems fresh, and his purple bike makes him easy to spot when he has accidentally rolled down a hill during a water break. If you see him during a ride say Howdy and possibly help him back up to the trail if needed.
+
+#### Assistant Coach Bill Melton
+
+![bill]({{site.baseurl}}/images/bill-coach.jpeg)
+
+I bought my first mountain bike after I moved to San Francisco in 1990 for post-graduate education.  I started off biking every dirt path I could find in Golden Gate Park and then eventually ventured across the bridge to explore Marin's incredible terrain.  Several years later I moved to New Mexico and my mountain biking world opened up wide as the Southwest became my playground.  Eventually I found my way back to the Bay Area and have lived in Fairfax for the last 16 years and never tire of rolling on two wheels.  I have coached youth soccer for 9 years and am continually impressed with the ability of youth sports to challenge kids in ways that promote self-esteem and resilience.  Mountain bike racing and the Drake MTB team set the standard in this respect.  The commitment of the riders, coaches and parents is truly impressive and something I am excited to be a part of.  I really enjoyed riding with the team last year as a ride leader and look forward to serving as an assistant coach.
+
+#### Assistant Coach Mitch Brown
+
+![mitch]({{site.baseurl}}/images/mitch-coach.JPG)
+
 lorem ipsum
 
 #### Assistant Coach Matt Willis
 
 ![matt]({{site.baseurl}}/images/matt-coach.JPG)
-
-lorem ipsum
-
-#### Assistant Coach Mitch Brown
-
-![mitch]({{site.baseurl}}/images/mitch-coach.JPG)
 
 lorem ipsum
 
