@@ -142,7 +142,7 @@ Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after coun
 
 #### Assistant Coach Bill Melton
 
-![bill]({{site.baseurl}}/images/bill-coach.jpeg)
+![bill]({{site.baseurl}}/images/billm-coach.jpeg)
 
 I bought my first mountain bike after I moved to San Francisco in 1990 for post-graduate education.  I started off biking every dirt path I could find in Golden Gate Park and then eventually ventured across the bridge to explore Marin's incredible terrain.  Several years later I moved to New Mexico and my mountain biking world opened up wide as the Southwest became my playground.  Eventually I found my way back to the Bay Area and have lived in Fairfax for the last 16 years and never tire of rolling on two wheels.  I have coached youth soccer for 9 years and am continually impressed with the ability of youth sports to challenge kids in ways that promote self-esteem and resilience.  Mountain bike racing and the Drake MTB team set the standard in this respect.  The commitment of the riders, coaches and parents is truly impressive and something I am excited to be a part of.  I really enjoyed riding with the team last year as a ride leader and look forward to serving as an assistant coach.
 
