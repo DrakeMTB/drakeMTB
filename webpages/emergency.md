@@ -21,7 +21,7 @@ permalink: /emergency/
 |Assistant Coach |Scott Samet| 	 	415.997.9865|
 |Assistant Coach |Matt Willis| 	 	415.342.6410|
 
-| | | |
+
 |Parent Comittee co-President|Michelle Cox| 	|
 |Parent Comittee co-President|Linda Kenton| 	415.378.9188|
 ||||
