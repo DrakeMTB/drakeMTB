@@ -5,7 +5,7 @@ stitle: register
 permalink: /register/
 ---
 
-# The team registration deadline is September 16th 2018...
+# The team registration deadline is October 8th 2018...
 
 # So **[please fill out the form ASAP](https://docs.google.com/forms/d/e/1FAIpQLScrVnIS3TWue4NoRjMUxEGnvLBh2BRGhpFtMAneboXCpvljCA/viewform)**
 
