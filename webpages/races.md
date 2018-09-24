@@ -8,7 +8,7 @@ permalink: /races/
 <img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
 
 ## Race Schedule for 2019 Season
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2018/07/2019-NorCal-Schedule-revised.pdf)
+(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2018/09/2019-NorCal-Schedule-V3.pdf)
 
 <!---
 * [Race #1 – February 25th (Sunday race at Fort Ord)](http://www.norcalmtb.org/wp-content/uploads/2018/02/1-Fun-at-the-Fort-216b.pdf)
