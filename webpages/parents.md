@@ -30,7 +30,7 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| Tam District Forms - coming soon!|||
+| Tam District Forms - coming soon!|| October 16th |
 | [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Monday October 8th |
 ||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Monday October 8th |
