@@ -102,7 +102,7 @@ I remember the first time I rode my bike and the exact moment my father let go t
 
 ![Rob]({{site.baseurl}}/images/coach-rob2.jpg)
 
-Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last five years, and this year is delighted to work with Laura Childress as a co-head coach.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob is a stay-at-home dad and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
+Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last five years, including the last two seasons as co-head Coach.  This year Rob is delighted to have Laura Childress as a new co-head coach!  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob is a stay-at-home dad and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
 
 #### Assistant Coach Chris Kenton
 
