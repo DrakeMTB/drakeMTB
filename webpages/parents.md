@@ -20,6 +20,12 @@ permalink: /parents/
 <!--- | [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
 |||| --->
 
+<!---||||
+| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th | --->
+
+<!--- ||||
+| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=F16F52CE-3810-45FB-9110-1BE5B72DDD31)| Get your jersey and shorts that identifies you as a Drake Rider | November 17th | --->
+
 ### Mandatory Parent List: Your Rider cannot train with the team or participate in the races without timely completion of these items <a name="mandatory"></a>
 
 | Item to Complete  | Description  | Submission Deadline |
@@ -31,13 +37,9 @@ permalink: /parents/
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | info the league needs to allow you to ride and race with the team |            December 1st |
 ||||
-| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=F16F52CE-3810-45FB-9110-1BE5B72DDD31)| Get your jersey and shorts that identifies you as a Drake Rider | November 17th |
-||||
 | <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 20th |
 ||||
-| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th |
-||||
-| [Pay $350 Team Dues]({{ site.baseurl}}/images/drake mtb dues-fall-2017.pdf)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
+| [Pay $600 Team Dues]({{ site.baseurl}}/images/drake mtb dues-fall-2017.pdf)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
