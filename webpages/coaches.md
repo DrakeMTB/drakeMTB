@@ -126,7 +126,7 @@ I'm thrilled to be helping out the team this year as an assistant coach for the 
 
 ![nicole]({{site.baseurl}}/images/nicole-coach.JPG)
 
-lorem ipsum
+Nicole is a technical rider par excellence, and won her category at Downieville last year.  Wanna shred?  Come on a team ride with Nicole.  She is from Canada, so she is also very nice.
 
 #### Assistant Coach Ted Fehlhaber
 
@@ -150,13 +150,13 @@ I bought my first mountain bike after I moved to San Francisco in 1990 for post-
 
 ![mitch]({{site.baseurl}}/images/mitch-coach.JPG)
 
-lorem ipsum
+Mitch Brown is in his twelfth year of teaching at Manor School in Fairfax. He has been an elementary school teacher for thirteen years, and is the proud father of a son and daughter. Prior to elementary teaching, Mitch was a collegiate coach and teacher, two-time NCAA All American runner, and a graduate student of kinesiology (emphasis in teaching and coaching), where he completed all of his MA coursework (ABT). He is a two-time inductee into Humboldt State's Athletic Hall of Fame. He has been a lifelong road, mountain and BMX rider, and currently rides with Divine Electric, racing whenever he can. Mitch loves teaching kids and having fun playing Capture the Flag, Kingo, and other games. His earliest biking memory is of riding his yellow Schwinn Stingray up and down his street while singing the Happy Days theme song for hours on end. He is Wilderness First Aid & CPR Certified.
 
 #### Assistant Coach Matt Willis
 
 ![matt]({{site.baseurl}}/images/matt-coach.JPG)
 
-lorem ipsum
+Matt Willis 
 
 #### Ride Leader Charlie Simpson
 
