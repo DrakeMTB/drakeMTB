@@ -156,7 +156,7 @@ Mitch Brown is in his twelfth year of teaching at Manor School in Fairfax. He ha
 
 ![matt]({{site.baseurl}}/images/matt-coach.JPG)
 
-Matt Willis 
+Matt Willis is a man of many talents... father, doctor, engaging riding companion, and [man who used to race against Soviets on a bicycle during the Cold War years](http://articles.mcall.com/1988-05-29/sports/2628327_1_soviets-lap-four-riders).  Quick with a smile and encouragement, Matt is a very welcome addition to the Drake MTB coaching staff.
 
 #### Ride Leader Charlie Simpson
 
