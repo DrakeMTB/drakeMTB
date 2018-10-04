@@ -6,7 +6,7 @@ permalink: /coaches/
 ---
 
 
-[<strong>Link to Team Ride sign-ups (Coaches, Asst Coaches, Ride Leaders, General Volunteers)<br>AND Ride Routes</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
+[<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
 <!---
 * [Coach Pitzone Assignments on Saturday April 14th Granite Bay]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
