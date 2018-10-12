@@ -17,8 +17,7 @@ permalink: /parents/
 <!--- * Driver	Certification	Form	(include	both	parents/guardians	on	this	form) -  please attach	copy	of	auto	insurance	policy	declarations	page	showing	name	of policy	holder,	coverage	levels,	and	effective	dates, and if a	student	will	drive,	include	copy	of	student’s	drivers	license --->
 <!--- * Field	Trip	Release,	Waiver	of	Liability,	and	Indemnity	Agreement	---> 
 
-<!--- | [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/2017_Tam_District_Field_Trip_Forms_Packet.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
-|||| --->
+
 
 <!---||||
 | [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th | --->
@@ -30,7 +29,10 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| Tam District Forms - coming soon!|| October 16th |
+
+| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/Drake MTB - Parent Forms 10-10-18.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
+||||
+ 	
 | [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Monday October 8th |
 ||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Monday October 8th |
