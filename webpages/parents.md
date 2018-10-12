@@ -29,7 +29,7 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/Drake MTB - Parent Forms 10-10-18.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
+| [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/DrakeMTB_ParentForms_10-10-18) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
 ||||
 | [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Monday October 8th |
 ||||
