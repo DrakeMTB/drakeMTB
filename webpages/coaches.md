@@ -8,11 +8,7 @@ permalink: /coaches/
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
-[Bike Check Form]([<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing))
-
-https://docs.google.com/forms/d/1ssJjWSwCKRP6Yw83mCjo4Bvm8_s1IkSvJWuZaYx3hQE/edit
-
-https://docs.google.com/forms/d/e/1FAIpQLSfD-L_vBSC3aeEyC-JiH9sShjHivUMi1e6tfk0FKcdzWvh9nQ/viewform
+[Bike Check Form](https://docs.google.com/forms/d/e/1FAIpQLSfD-L_vBSC3aeEyC-JiH9sShjHivUMi1e6tfk0FKcdzWvh9nQ/viewform)
 
 
 <!---
