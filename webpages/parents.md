@@ -32,8 +32,6 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-
-||||
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Monday October 8th |
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | Team  director will provide login info when NICA registration opens on October 15th |            October 19th |
