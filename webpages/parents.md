@@ -36,7 +36,7 @@ permalink: /parents/
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | Team  director will provide login info when NICA registration opens on October 15th |            October 19th |
 ||||
-| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD| Get your jersey and shorts that identifies you as a Drake Rider | November 26th |
+| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD)| Get your jersey and shorts that identifies you as a Drake Rider | November 26th |
 ||||
 | <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  November 26th |
 ||||
