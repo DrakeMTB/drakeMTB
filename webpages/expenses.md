@@ -9,8 +9,7 @@ Mountain biking is a resource-intensive sport.  The following information gives 
 
 Item  | Cost
 :-----------| ----------:
-Team Dues | 350
-Individual Fundraising Goal | 250
+Team Dues | 600
 Bicycle  | 1,500
 Bicycle upkeep  | 350
 Clothing  | 200
@@ -20,8 +19,11 @@ Aproximate Total  | 3,600
 
 **Note** that this estimate includes the cost of getting a race-ready mountain bike.  If your rider already has a bike, then nearly half of the expense is already taken care of.
 
-**Team Dues and Fundraising**  
-As a club sport, the team receives no school funding, so annual dues and fundraisers are the financial foundation of the team. We ask that each individual Rider be responsible for paying dues for the 2018-2019 season of $350 and commit to individual fundraising efforts for the team totaling $250 ($300 if using the online eTeamSponsor option). If the Rider raises less than $250 (or $300 using eTeamSponsor), then additional dues must be paid to make up the difference. See [here](https://docs.google.com/forms/d/e/1FAIpQLScfcym66MpvPf0YRAgc3Jh5c0cydRzAuKzPRNCvex9v8dmcGQ/viewform) for dues and fundraising payment details.
+**Team Dues**  
+As a club sport, the mountain bike team does not receive school funding (except for about $1,000 from the Drake Fund each year), so annual dues are the financial foundation of the team. Dues for the 2018/2019 season are $600. Half of the dues go toward league race fees, and the rest help pay for coaches stipends and expenses, equipment, and activities. See [here for dues and payment details](https://docs.google.com/document/d/1lSemjzSGjtNW6NN2r0SL7BZzZinsvTsERGlHIA_sqp8/edit?usp=sharing).
+
+**Scholarships**
+If dues are outside of what you feel your family can afford, scholarships are available. Every year the team works to reserve funds from our team sponsorships for team members in need of financial assistance. Scholarship funds are available to those families who would like assistance in paying for some of the expenses associated with team participation. We trust our community members to be the best judges of their own need and to reserve these funds for those in greatest need. It is an honor-based system and scholarship awards do not include a financial review of your household revenue and expenses. The scholarship application is [here](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform). Applications are due December 8, 2018.
 
 **Bicycle**  
 If a rider does not already have a high-quality mountain bike, we suggest that you spend at least $1,000 on a used bike see <http://www.craiglist.org> or <http://www.pinkbike.com>  for excellent used bicycles and $1,500 on a new bike.  Most of the other racers will be on hard-tailed 29-inch wheel bikes, so this is a good configuration to look for; dual-suspension bikes tend to be heavier and more expensive, neither of which tend to enhance the cross-country racing experience.  
