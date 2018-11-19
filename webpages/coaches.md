@@ -166,6 +166,12 @@ Matt Willis is a man of many talents... father, doctor, engaging riding companio
 
 Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
 
+#### Ride Leader Karl Vavrek
+
+![karl vavrek]({{site.baseurl}}/images/karl_coach.jpg)
+
+Karl takes his bike everywhere.  But, all too often it just goes for a ride on the roof of his car (see pic).  Nonetheless, he rides as much as he can and is excited to be a ride leader for DrakeMTB for the first time this season.  He has some experience "Leading from Behind.”  While living in San Francisco (before he and his family moved to their first home on Porteous near our Deer Park trailhead), he was the Group Rides Coordinator for the Bicycle Trails Council of the East Bay for a couple years leading multi-club rides with Marin’s own WOMBATS. He loves trail work and he has raced, but only just to verify he was not meant to race competitively (and to say he went on a group ride with 299 other guys and finished before 150 of them… Ha!). But for an old guy, he does OK.  He’s Max’s dad and does architecture when not on his bike (or under it… inside his car, Moby).
+
 #### Team Mechanic Walden Reed
 
 ![waldenreed]({{site.baseurl}}/images/walden_mechanic.jpg)
