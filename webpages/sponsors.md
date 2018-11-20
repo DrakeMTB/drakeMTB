@@ -44,23 +44,20 @@ Phone# (415)-456-3893
 ***
 ***
 ### Associate Sponsors
-[![logo](../images/Alancascio-logo.png)](http://www.alancasciodds.com)
-Alan Cascio<br>
-Family Dentistry<br>
-810 College Avenue, Suite 12<br>
-Kentfield<br>
-Phone# (415) 456-9193
+[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)
+<br>OSMO<br>
+Hydration is Power<br><br>
 ****
-[![got homes](../images/got-homes.jpg)](http://gothomes.com)
+[![got homes](../images/got-homes.jpg)](http://gothomes.com)<br><br>
 ****
-[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)
+[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)<br><br>
 ****
-[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)
+[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)<br>
 *FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*
 ****
-[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)
+[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)<br>
 *Exceptional Special Services Builder of Premier Homes
-Throughout the Bay Area*
+Throughout the Bay Area*<br>
 Phone# (415)-492-2020
 
 ***
