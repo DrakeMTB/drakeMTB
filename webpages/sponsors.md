@@ -25,16 +25,16 @@ Phone# (415)-259-5704
 ## Secondary Sponsors
 [![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com)<br><br>
 [![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)<br>
-Offical shop of Drake MTB!<br><br>
-****
+Official Shop of Drake MTB!<br><br>
+***
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com)<br>
 Nationwide Commercial Equipment Financing<br>
 Direct Financing Division<br>
 Clearview Financial<br>
 Phone# (888)-408-8805<br><br>
-****
+***
 ![Dovetail](../images/dovetail-logo.jpg)<br><br>
-****
+***
 [![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)<br>
 Orthodontist to Biking Stars…Like alumni Ben Enbom<br>
 And Dean Lyons<br>
