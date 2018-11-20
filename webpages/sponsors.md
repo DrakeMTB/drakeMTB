@@ -23,52 +23,50 @@ Phone# (415)-259-5704
 ***
 ***
 ## Secondary Sponsors
-[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com)
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)
-Offical shop of Drake MTB!
+[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com)<br><br>
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)<br>
+Offical shop of Drake MTB!<br><br>
 ****
-[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com)
+[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com)<br>
 Nationwide Commercial Equipment Financing<br>
 Direct Financing Division<br>
 Clearview Financial<br>
-Phone# (888)-408-8805
+Phone# (888)-408-8805<br><br>
 ****
-![Dovetail](../images/dovetail-logo.jpg)
+![Dovetail](../images/dovetail-logo.jpg)<br><br>
 ****
-[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)
+[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)<br>
 Orthodontist to Biking Stars…Like alumni Ben Enbom<br>
 And Dean Lyons<br>
 5th Street in San Rafael<br>
-Phone# (415)-456-3893
+Phone# (415)-456-3893<br><br>
 
 ***
 ***
 ### Associate Sponsors
-[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)
-<br>OSMO<br>
+[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)<br>
 Hydration is Power<br><br>
-****
+***
 [![got homes](../images/got-homes.jpg)](http://gothomes.com)<br><br>
-****
+***
 [![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)<br><br>
-****
+***
 [![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)<br>
-*FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*
-****
+*FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*<br><br>
+***
 [![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)<br>
 *Exceptional Special Services Builder of Premier Homes
 Throughout the Bay Area*<br>
-Phone# (415)-492-2020
+Phone# (415)-492-2020<br>
 
 ***
 ***
 ### Product Service
-[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)
-****
-[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)
-****
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org)
-*Enhancing the high school experience for all Drake students*
-****
-**In Memory of Jim Miller**
+[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)<br><br>
+***
+[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)<br><br>
+***
+[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org)<br><br>
+***
+<br>**In Memory of Jim Miller**<br>
 [![logo](../images/jmiller.jpg)](/jim_miller)
