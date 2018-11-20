@@ -25,7 +25,7 @@ permalink: /riders/
 <a name="pelo"></a>
 **Pelo Rules for 2018**  
 * Make sure you have set up a Pelo account here [first](https://www.pelofitness.com/firstride); you only need to do this once at the beginning of the season.
-* [<strong>SIGN UP WITH PELO USERNAME HERE</STRONG>](https://docs.google.com/spreadsheets/d/1D90qBIRN4r6zjOoTC30zHEN2BJmVdpmUhmqpJXXm5-A/edit?usp=sharing)
+* [<strong>SIGN UP WITH PELO USERNAME HERE</STRONG>](https://docs.google.com/spreadsheets/d/1dFe4KOD_Rx3vlWvJLmuRftxnuOvZliAjoSk6S6Ckg9g/edit#gid=1463035279)
 * Sign-ups are first-come, first-served... if you can't spell your Pelo Username properly, we cannot reserve your bike
 * <b>If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP). </b>
 * <b>The first time you sign up and do not show up, you will get a warning; the second time, you will lose your Drake Pelo privileges for the season.  If an emergency occurs and you cannot make a session you signed up for, you must notify Kim Janson-Smith via text BEFORE that session begins. </b>
