@@ -29,13 +29,13 @@ permalink: /riders/
 * Sign-ups are first-come, first-served... if you can't spell your Pelo Username properly, we cannot reserve your bike
 * <b>If you sign up and are not on a bike by 5 after the hour, you still have to pay for the session AND you will forfeit your bike to someone else (ie, if you sign up, SHOW UP). </b>
 * <b>The first time you sign up and do not show up, you will get a warning; the second time, you will lose your Drake Pelo privileges for the season.  If an emergency occurs and you cannot make a session you signed up for, you must notify Kim Janson-Smith via text BEFORE that session begins. </b>
-* Pelo sessions cost $10 per Rider per session; Drake MTB will contact your parents for payment for all of your Pelo sessions prior to the last race
+* Pelo sessions cost $8 per Rider per session; Drake MTB will contact your parents for payment for all of your Pelo sessions prior to the last race
 * <b>Sign up opens up on Sunday at noon and closes down by 10pm Monday night.</b>  The Monday night cut-off helps us get more seats in the 4 o'clock class.  If you are not sure you can commit to a Pelo class this far in advance, then go to the 5 o'clock class which always has open seats.
 * We will strive to have 25 seats for Drake riders in the 4pm slot but there are no guarantees since the available slots depend on when and how many slots other schools take.  If you sign up for 4pm and do NOT get a bike reserved, we will let you know.   5pm slot will have 10 bikes for Drake, and there are usually 10 open seats for any late-comers.
 * Honor system - no deleting other names, give other Riders the chance to do Pelo (ie, we only have 35 spots in total, so not all Riders can or should do every Pelo session)
 * Don't forget to bring SPD bike shoes, kit, water bottle, and maybe a towel+change of clothes
 * Need a ride?  try using the list to form your own carpools!
-* IF you still want to do Pelo but these time slots are booked or do not work for your crazy high school schedule, then you can always book a regular class at the student rate of $17 per session
+* IF you still want to do Pelo but these time slots are booked or do not work for your crazy high school schedule, then you can always book a regular class at the student rate of $23 per session
 
 **Why we ride**  
 We ride because we love spending five to ten hours a week on a bike, hanging out with friends, and competing against other racers.  We love pushing the limits of our endurance out in some of the best scenery on the planet, and we understand that part of our attraction to the sport comes from it being more physically dangerous and challenging than sitting in front of a video game.
