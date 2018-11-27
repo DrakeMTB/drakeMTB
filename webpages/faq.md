@@ -50,14 +50,6 @@ Yes, please refer to the [Team Calendar]({{site.baseurl}}/calendar).
 **If you want to ride on your own, can you recommend some routes?**  
 There are many routes to choose from. Drake MTB recommends getting a Marin County Bicycle Coalition map from Sunshine Bicycle Center in Fairfax and familiarizing yourself with local routes emanating from Fairfax.  In addition, the [Team Calendar]({{site.baseurl}}/calendar) has active links to the Strava routes [here is a typical example](https://www.strava.com/routes/3978471) used for each team ride.
 
-**What kind of a bike, components, equipment will a rider need?**  
-Bikes are personal items that can be very expensive, so there is no blanket recommendation that will fit the needs of every rider’s family. However, we can say this:
-
- * Frames are generally the same on any bike, but fit is very important. Please consult a shop expert on fit. We recommend a “hardtail” frame with front suspension.  
- * Components can range from inexpensive and fragile to expensive and super light. We recommend some mid-range components (e.g. Shimano LX or XT, SRAM XO) as a minimum for withstanding a season of use, but understand that families must make their own decisions.
- * For safety reasons, all riders **MUST** have helmet, gloves, eye-wear, padded shorts (baggies are fine!), bike shoes, and **CLIPLESS** pedals (there is a learning curve, but you’ll thank us later). A complement of non-cotton clothing is necessary, including layers for very cold winter rides – see [What to Wear on a Ride]({{site.baseurl}}/what_to_wear_v2.pdf). Each rider must also have a basic repair kit [What to Bring...]({{site.baseurl}}/what_to_bring.jpg) of pump, tire levers, patches and/or tube, multi-use tool, and emergency food.
-
-
 **Can riders of all different levels participate?**  
 Yes!!! Please read [Team Eligibility]({{site.baseurl}}/eligibility) requirements for more details.
 
@@ -89,9 +81,18 @@ If you are curious about becoming Parent Team Ride Leader please check out the r
 See the [Nutrition page]({{site.baseurl}}/nutrition) for in-depth information from an experienced cyclist mom.
 We are a **PEANUT-FREE TEAM**, so no foods with peanut ingredients or peanut-flavor energy bars. **Please check ingredients** of the foods you are bringing.
 
+<a name="bike"></a>
+**What kind of a bike, components, equipment will a rider need?**  
+Bikes are personal items that can be very expensive, so there is no blanket recommendation that will fit the needs of every rider’s family. However, we can say this:
+
+ * Frames are generally the same on any bike, but fit is very important. Please consult a shop expert on fit. We recommend a “hardtail” frame with front suspension.  
+ * Components can range from inexpensive and fragile to expensive and super light. We recommend some mid-range components (e.g. Shimano LX or XT, SRAM XO) as a minimum for withstanding a season of use, but understand that families must make their own decisions.
+ * For safety reasons, all riders **MUST** have helmet, gloves, eye-wear, padded shorts (baggies are fine!), bike shoes, and **CLIPLESS** pedals (there is a learning curve, but you’ll thank us later). A complement of non-cotton clothing is necessary, including layers for very cold winter rides – see [What to Wear on a Ride]({{site.baseurl}}/what_to_wear_v2.pdf). Each rider must also have a basic repair kit [What to Bring...]({{site.baseurl}}/what_to_bring.jpg) of pump, tire levers, patches and/or tube, multi-use tool, and emergency food.
+
 **What the heck is "bike fit" and where can I get help on that?**  
 Sunshine Bicycle Center in Fairfax has several staff members who are experts on bike fit, and we recommend that you visit them for a consultation.
 
+<a name="tires"></a>
 **Are tires important?  YES! they are the only thing connecting you to the ground**  
 Make sure that you have quality tires at the beginning of the season.  If your tires are more than a year old, or are close to being bald, then it is highly recommended that you get new tires.  This will make you ride safer, more controlled, and you will enjoy the training and racing more.
 
