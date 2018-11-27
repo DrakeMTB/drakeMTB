@@ -20,18 +20,6 @@ When the little voice in your head starts giving you reasons for not coming out 
 **Are riders taught about bike safety and preparedness?**  
 Yes. Drake MTB has a team technician to assist in some mechanical issues and to provide some instruction. We also go over and enforce proper road use including lane positioning, signage, and group formation.
 
-**Are riders supervised during the whole ride?**  
-No. The nature of mountain biking is such that it is impossible to keep your eyes on each rider all the time. Some will ride behind the coach, others in front. If this is an unacceptable situation for your family, then Drake MTB is NOT for you.
-
-**What are the races like?**  
-The courses are cross-country courses. Since Drake riders train on Mt. Tam and in Camp Tamarancho, they generally find the courses at races to be easy. Freshman riders can expect to race about 10-12 miles, while Varsity boys can race up to 28 miles.  Check out [Race Day information here]({{site.baseurl}}/raceday)  for videos of the Pit Zone, past races, and #DrakeMTBDivas to give you an idea of what a race is really like.
-
-**How can I support my rider during a race?**  
-[This write-up from a Rider]({{site.baseurl}}/racesupport) does a better job of telling parents how to support their Rider during a race than just about anything else we have come across.  In a phrase, Cheer Loudly and Often!
-
-**All these cycling terms confuse me, help!**  
-If you don’t know your Pit Zone from your Trainer, [check out our cycling Glossary]({{site.baseurl}}/glossary).
-
 **What is going through my Rider’s head during, before, after a race?**  
 [This write-up from a former Rider]({{site.baseurl}}/racesupport) gives parents and family a very complete picture of what it means to train, to race, and to keep a balanced perspective on life.  Two thumbs up on this write-up!
 
@@ -101,6 +89,18 @@ For training, especially in the rainier part of the training season, make sure y
 As you get closer to race season, it might make sense to put a set of race tires on your bike that are lighter (Nano, Race King) with a less aggressive tread pattern.  This will decrease your tire weight and rolling resistance, a big help especially on the longer races.
 
 If you can use tubeless tires on your wheelset, then use them!  Tubeless tires that are 2.2 or larger can be run as low as 17-19psi in the front and 20-25psi in the rear for hardtails (this of course highly depends on your body weight).  This gives the tires a lot more "give" on the trail that translates to a larger patch of rubber on the ground, giving you more traction, especially in corners.  Be careful to not go too low on the pressure or you can easily pinch flat or harm your wheels on a large rock or bump. If you want tubeless, sunshine will be more than happy to see what they can do to convert your wheels. Don’t feel like going to sunshine? I’ll also be more than happy to take a look and see what I can do.
+
+**Are riders supervised during the whole ride?**  
+No. The nature of mountain biking is such that it is impossible to keep your eyes on each rider all the time. Some will ride behind the coach, others in front. If this is an unacceptable situation for your family, then Drake MTB is NOT for you.
+
+**What are the races like?**  
+The courses are cross-country courses. Since Drake riders train on Mt. Tam and in Camp Tamarancho, they generally find the courses at races to be easy. Freshman riders can expect to race about 10-12 miles, while Varsity boys can race up to 28 miles.  Check out [Race Day information here]({{site.baseurl}}/raceday)  for videos of the Pit Zone, past races, and #DrakeMTBDivas to give you an idea of what a race is really like.
+
+**How can I support my rider during a race?**  
+[This write-up from a Rider]({{site.baseurl}}/racesupport) does a better job of telling parents how to support their Rider during a race than just about anything else we have come across.  In a phrase, Cheer Loudly and Often!
+
+**All these cycling terms confuse me, help!**  
+If you don’t know your Pit Zone from your Trainer, [check out our cycling Glossary]({{site.baseurl}}/glossary).
 
 **Don't Forget to Check your Brake Pads!**  
 Brake pads wear out quickly after riding in the rain or mud, so be sure to check your brake pads at least once every few weeks so that you are not three quarters into a long Sunday ride and walking your bike down Shafter Bridge.
