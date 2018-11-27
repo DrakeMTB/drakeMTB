@@ -75,6 +75,7 @@ Bikes are personal items that can be very expensive, so there is no blanket reco
 
  * Frames are generally the same on any bike, but fit is very important. Please consult a shop expert on fit. We recommend a “hardtail” frame with front suspension.  
  * Components can range from inexpensive and fragile to expensive and super light. We recommend some mid-range components (e.g. Shimano LX or XT, SRAM XO) as a minimum for withstanding a season of use, but understand that families must make their own decisions.
+ * If at all possible, either purchase a bike with a [1x setup](https://qbp.com/call_up/single-ring-bliss) or convert the bike you have... 1x means that you only have a single chainring at the crank , eliminating the weight and complexity of a front derailleur which is particularly important during races.  
  * For safety reasons, all riders **MUST** have helmet, gloves, eye-wear, padded shorts (baggies are fine!), bike shoes, and **CLIPLESS** pedals (there is a learning curve, but you’ll thank us later). A complement of non-cotton clothing is necessary, including layers for very cold winter rides – see [What to Wear on a Ride]({{site.baseurl}}/what_to_wear_v2.pdf). Each rider must also have a basic repair kit [What to Bring...]({{site.baseurl}}/what_to_bring.jpg) of pump, tire levers, patches and/or tube, multi-use tool, and emergency food.
 
 **What the heck is "bike fit" and where can I get help on that?**  
