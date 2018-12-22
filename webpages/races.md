@@ -35,7 +35,7 @@ permalink: /races/
 *******
 
 <a name="hotel"></a>
-## [Where to Stay... (Don't forget to book early)](https://docs.google.com/document/d/1mxxiBGEeQcRZJGSmf8Atv9ufNFiX3RWMkGAbCIFVU28)  
+## [Where to Stay... (Don't forget to book early)](https://docs.google.com/document/d/10Xo5TQUmDOvSc6jlu3Dk57cKB57z1fbvCZURBYt-tJY/edit?usp=sharing)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit.pdf)  
 
