@@ -33,7 +33,7 @@ permalink: /emergency/
 |Ride Leader |Isabella Battig|	415.517.4919|
 |Ride Leader |Jeffrey Guild|	510.708.7701|
 |Ride Leader |Karl Vavrek|	415.613.7940|
-|Ride Leader |Mackinzie Stanley|	415.86.4643|
+|Ride Leader |Mackinzie Stanley|	415.867.4643|
 |Ride Leader |Sarah Ashton|	415.602.8786|
 | | | |
 |Parent Comittee co-President|Michelle Cox| 	415.676.7246|
