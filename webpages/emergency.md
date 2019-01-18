@@ -19,7 +19,22 @@ permalink: /emergency/
 |Assistant Coach |Shawn Nelson| 	415.412.6023|
 |Assistant Coach |Nicole Palkovsky| 	415.717.5181|
 |Assistant Coach |Scott Samet| 	 	415.997.9865|
+|Assistant Coach |Philip Swett|   415.265.2802| 
 |Assistant Coach |Matt Willis| 	 	415.342.6410|
+| | | |
+|Ride Leader |Amie Brooke|	415.860.7896|
+|Ride Leader |Andrew Galbraith|	415.830.7088|
+|Ride Leader |Bridget Clark|	415.370.0740|
+|Ride Leader |Chris Miller|	415.225.2184|
+|Ride Leader |Dolores Mosqueda|	415.205.1501|
+|Ride Leader |Doug Mathieux|	415.595.0803|
+|Ride Leader |Eric  Betz|	415.272.1059|
+|Ride Leader |Evan Marquit|	415.516.6304|
+|Ride Leader |Isabella Battig|	415.517.4919|
+|Ride Leader |Jeffrey Guild|	510.708.7701|
+|Ride Leader |Karl Vavrek|	415.613.7940|
+|Ride Leader |Mackinzie Stanley|	415.86.4643|
+|Ride Leader |Sarah Ashton|	415.602.8786|
 | | | |
 |Parent Comittee co-President|Michelle Cox| 	415.676.7246|
 |Parent Comittee co-President|Linda Kenton| 	415.378.9188|
