@@ -53,13 +53,17 @@ Phone# (415)-515-3587<br><br>
 ### Associate Sponsors
 [![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)<br>
 Hydration is Power<br><br>
+
 ***
 [![got homes](../images/got-homes.jpg)](http://gothomes.com)<br><br>
+
 ***
 [![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html)<br><br>
+
 ***
 [![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)<br>
 *FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*<br><br>
+
 ***
 [![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)<br>
 *Exceptional Special Services Builder of Premier Homes
@@ -70,10 +74,13 @@ Phone# (415)-492-2020<br>
 ***
 ### Product Service
 [![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)<br><br>
+
 ***
 [![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)<br><br>
+
 ***
 [![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org)<br><br>
+
 ***
 <br>**In Memory of Jim Miller**<br>
 [![logo](../images/jmiller.jpg)](/jim_miller)
