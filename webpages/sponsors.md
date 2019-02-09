@@ -26,14 +26,17 @@ Phone# (415)-259-5704
 [![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com)<br><br>
 [![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/)<br>
 Official Shop of Drake MTB!<br><br>
+
 ***
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com)<br>
 Nationwide Commercial Equipment Financing<br>
 Direct Financing Division<br>
 Clearview Financial<br>
 Phone# (888)-408-8805<br><br>
+
 ***
 ![Dovetail](../images/dovetail-logo.jpg)<br><br>
+
 ***
 [![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)<br>
 Orthodontist to Biking Stars…Like alumni Ben Enbom<br>
@@ -41,7 +44,8 @@ And Dean Lyons<br>
 5th Street in San Rafael<br>
 Phone# (415)-456-3893<br><br>
 
-[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com)<br>
+***
+[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com)<br><br>
 Phone# (415)-515-3587<br><br>
 
 ***
