@@ -15,10 +15,11 @@ permalink: /sponsors/
 30% off Breezer Bikes<br>
 20% off other products<br>
 Only at 3 Ring Cylces<br>
-Phone# (415)-259-5704
+Phone# (415)-259-5704<br><br>
 
 ***
-[![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery.com)<br>
+[![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery)<br>
+Travis and Jennifer have a Junior on the team<br><br>
 
 ***
 ***
