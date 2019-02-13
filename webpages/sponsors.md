@@ -44,23 +44,22 @@ CONNECT@THINKDOVETAIL.COM<br>
 Stephanie O'Brien is the proud parent of a racing alumni<br><br>
 
 ***
-[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)<br>
+[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com)<br><br>
 **Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>
 5th Street in San Rafael<br>
 Phone# (415)-456-3893<br><br>
 
 ***
 [![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com)<br><br>
-**Top Producing Real Estate team in Marin County. **
-<br>
+**Top Producing Real Estate team in Marin County.**<br>
 Parents to Liam, a freshman on the team<br>
 Phone# (415)-515-3587<br><br>
 
 ***
 ***
 ### Associate Sponsors
-[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)<br>
-**Hydration is Power**<br><br>
+[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com)<br><br>
+**Hydration is Power**<br>
 Lee Hutchinson has a daughter on the team<br><br>
 
 ***
@@ -71,11 +70,11 @@ Lee Hutchinson has a daughter on the team<br><br>
 Philip has a freshman on the team and an alumni racer<br><br>
 
 ***
-[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)<br>
-*FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.*<br><br>
+[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com)<br><br>
+**FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
 
 ***
-[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)<br>
+[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com)<br><br>
 **Exceptional Special Services Builder of Premier Homes
 Throughout the Bay Area**<br>
 Phone# (415)-492-2020<br>
@@ -98,13 +97,15 @@ Chris is an assistant coach and has a senior on the team<br><br>
 ***
 ### Product Service
 [![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com)<br><br>
+**Marin Power Yoga**<br><br>
 
 ***
 [![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com)<br><br>
+**Pelo Fitness**<br>
 
 ***
 [![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org)<br><br>
 
 ***
 <br>**In Memory of Jim Miller**<br>
-[![logo](../images/jmiller.jpg)](/jim_miller)
+[![logo](../images/jmiller.jpg)](/jim_miller)<br><br>
