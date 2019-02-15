@@ -5,9 +5,9 @@ stitle: drake_mtb_coaches
 permalink: /coaches/
 ---
 
-* [Coach Pitzone Assignments on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2019.JPG)
-* [Master Pitzone Schedule on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Call-Ups Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/callups_ft_ord_2018.JPG)
+[Coach Pitzone Assignments on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2019.JPG)
+[Master Pitzone Schedule on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
+[Call-Ups Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/callups_ft_ord_2018.JPG)
 
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
