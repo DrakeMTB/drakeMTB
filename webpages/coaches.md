@@ -5,6 +5,10 @@ stitle: drake_mtb_coaches
 permalink: /coaches/
 ---
 
+* [Coach Pitzone Assignments on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2019.JPG)
+* [Master Pitzone Schedule on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
+* [Call-Ups Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/callups_ft_ord_2018.JPG)
+
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
@@ -13,13 +17,6 @@ permalink: /coaches/
 [NICA Incident Form -paper version](https://docs.google.com/document/d/1IPyJfw1tudOV_1RCjFVjrj_mMf5Rksmbfe4oTd_4oP8/edit)
 
 [Bike Check Form](https://docs.google.com/forms/d/e/1FAIpQLSfD-L_vBSC3aeEyC-JiH9sShjHivUMi1e6tfk0FKcdzWvh9nQ/viewform)
-
-
-<!---
-* [Coach Pitzone Assignments on Saturday April 14th Granite Bay]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2018.JPG)
-* [Master Pitzone Schedule on Saturday April 14th Granite Bay]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Call-Ups Saturday May 5th Six Sigma]({{site.baseurl}}/images/callups_sixsigma_all.JPG)
---->
 
 
 # Drake Head Coaches, Assistant Coaches, Ride Leaders and Mechanics
