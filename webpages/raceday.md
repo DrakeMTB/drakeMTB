@@ -12,15 +12,7 @@ permalink: /raceday/
 Describing a high school mountain bike race in words is impossible, but in 2016 we had a few excellent videographers and Riders put together the following content that helps new Riders and parents get the idea:
 
 **What does a race day look like?**
-
-* [Getting to know the Pit Zone](https://www.youtube.com/watch?v=i9eiSpGuxjI)
-* [Three to five minute music+video snapshots of EVERY 2016 race](https://www.youtube.com/watch?v=GnPXnqkWIlU&list=PL0iTUF9DuZ1x_c4RF76xzyjkk74hDrDP8)
-(thanks Brennan Healy!)
-
-**What do our Riders say?**
-
  * [DrakeGirls  Girl Riders on the Drake Team tell it like it is at Fort Ord 2016](https://www.youtube.com/watch?v=YUfSNj7cHpQ)
- * [Freshman Boys  The New Guys talk about racing at Laguna Seca 2016](https://www.youtube.com/watch?v=-oozGRhEk1E)
  * [Drake Sophomore Boys  This tight group of friends knows how to ride with a smile at Granite Bay 2016](https://www.youtube.com/watch?v=jVMlhFWBko0)
  * [JV and Varsity boys talk about longer races at Petaluma 2016…](https://www.youtube.com/watch?v=moe36leZhhk)  #sufferfest!
 
