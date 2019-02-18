@@ -10,8 +10,9 @@ permalink: /races/
 ## Race Schedule for 2019 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2018/12/2019-NorCal-Schedule-V5-.pdf)
 
+* [Race #1 – February 24th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2019/02/2019-Fort-Ord-Race-Flyer-2019-2-8.pdf)
+
 <!---
-* [Race #1 – February 25th (Sunday race at Fort Ord)](http://www.norcalmtb.org/wp-content/uploads/2018/02/1-Fun-at-the-Fort-216b.pdf)
 * [Race #2 – March 11th (Sunday race at Laguna Seca)](http://www.norcalmtb.org/wp-content/uploads/2018/01/2-Laguna-Seca-1231.pdf)
 * [Race #3 – March 25th (Sunday race at Ft Ord)](https://www.norcalmtb.org/wp-content/uploads/2018/03/Race-3-Back-at-the-Fortv2-.pdf)
 * [Race #4 – April 14th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2018/03/4-Granite-Bay-Grinder-1231FV.pdf)
