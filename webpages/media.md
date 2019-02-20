@@ -9,6 +9,13 @@ permalink: /media/
 
 <img src="{{site.baseurl}}/images/media.jpg" align="right" alt="Drake MTB Media" style="margin: 0 0 10px 10px;">
 
+### 2019
+
+#### Photo & Video Collections
+
+##### Race #1 - Fun at the Fort
+* <a href="https://youtu.be/jKCPQ46BDpE" target="_blank">Travis video: First Look @ Granite Bay course</a>
+
 ### 2018
 
 #### Joe Stranzl's Video Magic
@@ -46,15 +53,15 @@ permalink: /media/
 * <a href="https://youtu.be/O4xrmu54pSU" target="_blank">Travis McOuat's MTB Girls at Top of Mini-Hurl Hill Video</a>
 * <a href="https://youtu.be/QfsC2jxuMpc" target="_blank">Travis McOuat's Varsity and JV Boys - Back at the Fort Video</a>
 * <a href="https://youtu.be/fYB4NwlOSAw" target="_blank">Jakub Plichta's Fort Ord Boys Video</a>
-* <a href="https://photos.app.goo.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord 2 Photos</a>
+* <a href="https://photos.app.go
+##### Race #1 - Fun at the Fort
+* <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
+o.gl/yrcgwL3PV6agi4Mh1" target="_blank">The Goulden's Fort Ord 2 Photos</a>
 * <a href="https://photos.app.goo.gl/YGQu8a61o3FPh4Ne2" target="_blank">Toby Janson-Smith's photos</a>
 
 ##### Race #2 - Central Coast Challenge
 * <a href="https://www.amazon.com/photos/share/ISp3SKjiNN8W63UYhNOSKPmvqkb9zoQIKg16LKYfICZ" target="_blank">Katie Nelson's photos</a>
 * <a href="https://photos.app.goo.gl/7hg9tmneaan9Vyqb7" target="_blank">The Goulden's Laguna Seca Photos</a>
-
-##### Race #1 - Fun at the Fort
-* <a href="https://photos.app.goo.gl/F6yg0l6K3AhReYPA2" target="_blank">Alexis White's photos</a>
 * <a href="https://www.amazon.com/photos/share/cLI5xfK4XsamjbU5DSAbqedcflZslFCAaXvJqxQ7y6z" target="_blank">Katie Nelson's photos</a>
 * <a href="https://photos.app.goo.gl/cRVCY8WokisYJ2VD2" target="_blank">Toby Janson-Smith's and Todd Schopp's photos</a>
 * <a href="https://photos.app.goo.gl/5qqvsJU03SNSlqi83" target="_blank">The Goulden's Fort Ord Photos</a>
