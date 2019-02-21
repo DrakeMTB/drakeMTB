@@ -7,7 +7,7 @@ permalink: /coaches/
 
 * [Coach Pitzone Assignments on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2019.JPG)
 * [Master Pitzone Schedule on Sunday Feb  24th Fort Ord]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2018.JPG)
-* [Call-Ups Sunday Feb  24th Fort Ord](https://docs.google.com/spreadsheets/d/1Rhsg2r0eFwtD0is-g9KSLwLLXIcp5_XoJUefHbbttjQ/edit#gid=0)
+* Call-Ups Sunday Feb  24th Fort Ord [google sheets version](https://docs.google.com/spreadsheets/d/1Rhsg2r0eFwtD0is-g9KSLwLLXIcp5_XoJUefHbbttjQ/edit#gid=0)[printable JPG version]({{site.baseurl}}/images/call_ups_ft_Ord_2019.JPG)
 
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
