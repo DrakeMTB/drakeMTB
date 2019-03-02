@@ -14,6 +14,7 @@ permalink: /media/
 #### Photo & Video Collections
 
 ##### Race #1 - Fun at the Fort
+* <a href="https://photos.app.goo.gl/fQX4jZEcZvtrQUxA7" target="_blank">Chris Nelson's photos</a>
 * <a href="https://youtu.be/jKCPQ46BDpE" target="_blank">Travis video: First Look @ Granite Bay course</a>
 
 ### 2018
@@ -26,7 +27,7 @@ permalink: /media/
  * <a href="https://www.youtube.com/watch?v=gqAgymmV_Eg&t=53s" target="_blank">Drake Freshman Boys @ Ft Ord 2018</a> - with contributions by Jakub Plichta, Charlie Simpson & Scott Samet
 
 ### News Articles
-* <a href="https://www.velonews.com/2018/08/from-the-mag/high-school-mtb-leagues-rebuild-u-s-cyclings-base_477418">
+* <a href="https://www.velonews.com/2018/08/from-the-mag/high-school-mtb-leagues-rebuild-u-s-cyclings-base_477418" target="_blank">Velo News: High school MTB leagues rebuild U.S. cycling’s base</a>
 * <a href="http://www.marinij.com/sports/20180520/drake-wins-high-school-mountain-biking-title-for-fourth-year-in-a-row" target="_blank"><strong>Drake wins high school mountain-biking title for fourth year in a row</strong> (Marin IJ)</a>
 
 #### Photo & Video Collections
