@@ -13,6 +13,9 @@ permalink: /media/
 
 #### Photo & Video Collections
 
+#### Jakub Plichta's Video Collections
+ * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Drake Freshman Boys @ Ft Ord 2019</a>
+
 ##### Race #1 - Fun at the Fort
 * <a href="https://photos.app.goo.gl/fQX4jZEcZvtrQUxA7" target="_blank">Chris Nelson's photos</a>
 * <a href="https://youtu.be/jKCPQ46BDpE" target="_blank">Travis video: First Look @ Granite Bay course</a>
