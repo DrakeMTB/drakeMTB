@@ -16,6 +16,10 @@ permalink: /media/
 #### Jakub Plichta's Video Collections
  * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Drake Freshman Boys @ Ft Ord 2019</a>
 
+##### Race #2 - Granite Bay Grinder
+* <a href="https://www.dropbox.com/sh/msmgkny4qh4q9rn/AABbe-RW-bbIxgS5UKUk-tPxa?dl=0" target="_blank">Lee Hutchinson's photos</a>
+* <a href="https://www.dropbox.com/sh/e0fe52m322t1wzf/AAA0_yBYE64EtE8sXpsxi2dWa?dl=0" target="_blank">Clif Bar's Photos - filtered for Drake Riders (thanks Skyler Asher!)</a>
+
 ##### Race #1 - Fun at the Fort
 * <a href="https://www.dropbox.com/sh/yuh97dhj3ljxbk5/AAB05mKtvMWDI7Z4mFarKklna?dl=0" target="_blank">Lee Hutchinson's photos</a>
 * <a href="https://photos.app.goo.gl/fQX4jZEcZvtrQUxA7" target="_blank">Chris Nelson's photos</a>
