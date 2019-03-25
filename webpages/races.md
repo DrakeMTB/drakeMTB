@@ -11,9 +11,9 @@ permalink: /races/
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/wp-content/uploads/2019/01/2019-NorCal-Schedule-V6-.pdf)
 
 <!---
-* [Race #1 – February 24th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2019/02/2019-Fort-Ord-Race-Flyer-2019-2-8.pdf) --->
-* [Race #2 – March 16th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2019/02/4-Granite-Bay-Grinder-2019-2-26.pdf)
-* [Race #3 – March 31st (Sunday race at Laguna Seca)](https://www.norcalmtb.org/wp-content/uploads/2019/02/Laguna-Seca-2019-2-5.pdf)
+* [Race #1 – February 24th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2019/02/2019-Fort-Ord-Race-Flyer-2019-2-8.pdf)
+* [Race #2 – March 16th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2019/02/4-Granite-Bay-Grinder-2019-2-26.pdf) --->
+* [Race #3 – March 31st (Sunday race at Laguna Seca)](https://www.norcalmtb.org/wp-content/uploads/2019/03/Laguna-Seca-2019-3-21.pdf)
 * [Race #4 – April 27th (Saturday race at Six Sigma)](https://www.norcalmtb.org/wp-content/uploads/2019/02/5-Six-Sigma-Slinger-2019-2-5.pdf)
 * [Race #5 – May 11th (Saturday race at Six Sigma Ranch)](https://www.norcalmtb.org/wp-content/uploads/2019/02/5-Six-Sigma-Showdown-2019-2-5.pdf)
 * [California High School State Championships – May 18th and 19th (Sunday race at Tehachapi Race Course)](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course-2018)
@@ -51,9 +51,9 @@ permalink: /races/
 ******
 
  * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.JPG)
- * [JV Boys]({{site.baseurl}}/images/race2_sched_boys_jv.JPG)
- * [Sophomore Boys]({{site.baseurl}}/images/race2_sched_boys_soph.JPG)
- * [Frosh Boys]({{site.baseurl}}/images/race2_sched_boys_frosh.JPG)
+ * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.JPG)
+ * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.JPG)
+ * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.JPG)
 
 ******
 
