@@ -14,9 +14,12 @@ permalink: /media/
 #### Photo & Video Collections
 
 #### Jakub Plichta's Video Collections
- * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Drake Freshman Boys @ Ft Ord 2019</a>
+ * <a href="https://www.youtube.com/watch?v=yDk-6mqLTFw" target="_blank">The Girls @ Granite Bay 2019</a> (with contributions from Charlie Simpson)
+ * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Freshman Boys @ Ft Ord 2019</a>
 
 ##### Race #2 - Granite Bay Grinder
+* <a href="https://www.dropbox.com/sh/juef20dh8y3qgox/AABuKGov2QOASkWZBAjT-_Dsa?dl=0" target="_blank">Julie Segura's photos</a>
+* <a href="https://www.dropbox.com/sh/gzmwrf5y295y4d6/AABLkGkaWM-Rd1mbyxTUUWfAa?dl=0" target="_blank">Caroline Nelson's photos</a>
 * <a href="https://www.dropbox.com/sh/msmgkny4qh4q9rn/AABbe-RW-bbIxgS5UKUk-tPxa?dl=0" target="_blank">Lee Hutchinson's photos</a>
 * <a href="https://www.dropbox.com/sh/e0fe52m322t1wzf/AAA0_yBYE64EtE8sXpsxi2dWa?dl=0" target="_blank">Clif Bar's Photos - filtered for Drake Riders (thanks Skyler Asher!)</a>
 * <a href="https://youtu.be/4cbIy9Zl_ow" target="_blank">Travis' course video: First Look @ Granite Bay course</a>
