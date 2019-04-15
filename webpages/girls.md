@@ -4,7 +4,7 @@ title: 50 percent by 2025
 stitle: 50 percent by 2025
 permalink: /girls/
 ---
-##  Girls Ride Saturday April 19th 2019 10am at Java Hut!!
+##  Girls Ride Saturday April 20th 2019 10am at Java Hut!!
 
 My name is [Audrey]({{site.baseurl}}/images/audrey_captain.jpg), and I’m one of the captains of the Drake Mountain Biking Team. I spoke with many of you at the last race about putting on a girls ride. I’d like to invite you all to a social, no-drop girls ride at 10:00am on Saturday, April 20th. We’ll be meeting at Java Hut in Fairfax and ending our ride with beverages/snacks and a group photo at the Marin Museum of Bicycling/Mountain Bike Hall of Fame (also in Fairfax). We’ll be riding up from the Deer Park trailhead, and the ride shouldn’t take more than a couple hours. All female riders, coaches, and ride leaders are welcome. Prospective female team members are also invited, as this is a great opportunity for them to meet some of the rad ladies in the league. Drake’s female captains will be present and are all Wilderness First Aid trained, as are our female coaches and ride leaders; your riders will be in good hands.
 
