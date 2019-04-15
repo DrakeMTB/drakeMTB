@@ -4,6 +4,19 @@ title: 50 percent by 2025
 stitle: 50 percent by 2025
 permalink: /girls/
 ---
+##  Girls Ride Saturday April 19th 2019 10am at Java Hut!!
+
+My name is Audrey Fehlhaber, and I’m one of the captains of the Drake Mountain Biking Team. I spoke with many of you at the last race about putting on a girls ride. I’d like to invite you all to a social, no-drop girls ride at 10:00am on Saturday, April 20th. We’ll be meeting at Java Hut in Fairfax and ending our ride with beverages/snacks and a group photo at the Marin Museum of Bicycling/Mountain Bike Hall of Fame (also in Fairfax). We’ll be riding up from the Deer Park trailhead, and the ride shouldn’t take more than a couple hours. All female riders, coaches, and ride leaders are welcome. Prospective female team members are also invited, as this is a great opportunity for them to meet some of the rad ladies in the league. Drake’s female captains will be present and are all Wilderness First Aid trained, as are our female coaches and ride leaders; your riders will be in good hands.
+
+I understand that Fairfax is a bit of a hike for some of the teams in the NorCal league, but I wanted to extend the invitation to all teams regardless. Even after racing for over two years, I realized that I still hadn't met many of the amazing female riders in the league. I hope this ride serves as an opportunity to meet more riders, find new riding buddies, and celebrate getting more girls on bikes. I tried to speak directly with someone from each Northern Conference team, but please spread the word to other Northern Conference riders and coaches!
+
+Regards,
+
+Audrey
+
+
+
+
 ##  50% Girls by 2025
 
 The Drake Mountain Bike Team has made a public commitment to have half of the team represented by girl riders by 2025 (currently the team is approximately 33% girls).  
