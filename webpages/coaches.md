@@ -6,9 +6,9 @@ permalink: /coaches/
 ---
 
 <!--- --->
-* [Coach Pitzone Assignments on Sunday March 31st Laguna Seca]({{site.baseurl}}/images/coaches_master_sched_Granite_Bay_2019.JPG)
-* [Master Pitzone Schedule on Sunday March 31st Laguna Seca]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2019.JPG)
-* Call-Ups Sunday March 31st Laguna Seca ([google sheets version](https://docs.google.com/spreadsheets/d/1IkbdpfagDl8X5ZE1TCGkoBF5C2_pvn2Z5ho9jqS99KM/edit#gid=0))([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_1_2019.JPG))
+* [Coach Pitzone Assignments on Saturday April 27th at Six Sigma]({{site.baseurl}}/images/coaches_master_sched_Granite_Bay_2019.JPG)
+* [Master Pitzone Schedule on Saturday April 27th at Six Sigma]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2019.JPG)
+* Call-Ups Saturday April 27th at Six Sigma ([google sheets version](https://docs.google.com/spreadsheets/d/1IkbdpfagDl8X5ZE1TCGkoBF5C2_pvn2Z5ho9jqS99KM/edit#gid=0))([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_1_2019.JPG))
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
