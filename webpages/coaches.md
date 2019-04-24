@@ -6,7 +6,7 @@ permalink: /coaches/
 ---
 
 <!--- --->
-* [Coach Pitzone Assignments on Saturday April 27th at Six Sigma]({{site.baseurl}}/images/coaches_master_sched_Granite_Bay_2019.JPG)
+* [Coach Pitzone Assignments on Saturday April 27th at Six Sigma]({{site.baseurl}}/images/coaches_master_sched_six_sigma_1_2019.JPG)
 * [Master Pitzone Schedule on Saturday April 27th at Six Sigma]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2019.JPG)
 * Call-Ups Saturday April 27th at Six Sigma ([google sheets version](https://docs.google.com/spreadsheets/d/1e1ujlkhw79nEnxPGkxMQJwl4vtu9Ayb4OvN209LXo_Y/edit?usp=sharing)([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_1_2019.JPG))
 
