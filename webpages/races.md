@@ -50,10 +50,10 @@ permalink: /races/
 
 ******
 
- * [Varsity Boys]({{site.baseurl}}/images/race4_sched_boys_varsity.JPG)
- * [JV Boys]({{site.baseurl}}/images/race4_sched_boys_jv.JPG)
- * [Sophomore Boys]({{site.baseurl}}/images/race2_sched_boys_soph.JPG)
- * [Frosh Boys]({{site.baseurl}}/images/race2_sched_boys_frosh.JPG)
+ * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.JPG)
+ * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.JPG)
+ * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.JPG)
+ * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.JPG)
 
 ******
 
