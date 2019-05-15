@@ -11,6 +11,8 @@ permalink: /coaches/
 * Call-Ups Saturday May 11th at Six Sigma ([google sheets version](https://docs.google.com/spreadsheets/d/1XgLQOwrstUlZTfAbY-p3JrsAx0SSiK-7OeeCxS5_JM8/edit?usp=sharing))([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_2_2019.JPG))
 --->
 
+* [Racer/Pitzone Schedules on Sunday May 19th at Tehachapi]({{site.baseurl}}/images/racers_master_sched_states_2019.pdf)
+
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
 [NICA Online Incident Report Form](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=E8XX9FTNHP&athlete_id=99999)
