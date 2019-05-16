@@ -13,7 +13,7 @@ permalink: /coaches/
 
 * [GoPro video of Tehachapi Course](https://www.youtube.com/watch?v=v6Zmzol7gFc)
 * [MTBProject Map of Tehachapi Course](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course)
-* [Call Ups for Sunday May 19th at Tehachapi]({{site.baseurl}}/images/states_callups_2019.JPG)
+* [Call Ups for Sunday May 19th at Tehachapi]({{site.baseurl}}/images/states_callups_2019_v2.JPG)
 * [Racer/Pitzone Schedules on Sunday May 19th at Tehachapi]({{site.baseurl}}/images/racers_master_sched_states_2019.pdf)
 
 <!--- 
