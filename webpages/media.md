@@ -14,8 +14,16 @@ permalink: /media/
 #### Photo & Video Collections
 
 #### Jakub Plichta's Video Collections
+ * <a href="https://youtu.be/OJ7civbFdL0" target="_blank">JV and Varsity Boys @ Ft Ord Central Coast Challenge 2019</a>
  * <a href="https://www.youtube.com/watch?v=yDk-6mqLTFw" target="_blank">The Girls @ Granite Bay 2019</a> (with contributions from Charlie Simpson)
  * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Freshman Boys @ Ft Ord 2019</a>
+
+##### Race #6 - State Championships
+* <a href="https://youtu.be/8S1Hgm4k3Q0" target="_blank">Travis' course video: First Look @ new Six Sigma course</a>
+
+##### Race #5 - Six Sigma Showdown
+* <a href="https://youtu.be/8S1Hgm4k3Q0" target="_blank">Travis' course video: First Look @ new Six Sigma course</a>
+* <a href="https://www.klcfotos.com/clifbar/mtb/sixsigma" target="_blank">Photos from Clif Bar</a>
 
 ##### Race #2 - Granite Bay Grinder
 * <a href="https://www.dropbox.com/sh/juef20dh8y3qgox/AABuKGov2QOASkWZBAjT-_Dsa?dl=0" target="_blank">Julie Segura's photos</a>
