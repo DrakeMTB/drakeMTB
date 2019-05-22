@@ -19,7 +19,7 @@ permalink: /media/
  * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Freshman Boys @ Ft Ord 2019</a>
 
 ##### Race #6 - State Championships
-* <a href="https://youtu.be/8S1Hgm4k3Q0" target="_blank">Travis' course video: First Look @ new Six Sigma course</a>
+* <a href="https://www.youtube.com/watch?v=v6Zmzol7gFc" target="_blank">GoPro video @ Tehachapi course</a>
 
 ##### Race #5 - Six Sigma Showdown
 * <a href="https://youtu.be/8S1Hgm4k3Q0" target="_blank">Travis' course video: First Look @ new Six Sigma course</a>
