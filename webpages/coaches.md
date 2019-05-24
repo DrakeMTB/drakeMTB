@@ -9,15 +9,15 @@ permalink: /coaches/
 * [Coach Pitzone Assignments on Saturday May 11th at Six Sigma]({{site.baseurl}}/images/coaches_master_sched_Ft_Ord_2019.JPG)
 * [Master Pitzone Schedule on Saturday May 11th at Six Sigma]({{site.baseurl}}/images/pitzone_master_sched_Ft_Ord_2019.JPG)
 * Call-Ups Saturday May 11th at Six Sigma ([google sheets version](https://docs.google.com/spreadsheets/d/1XgLQOwrstUlZTfAbY-p3JrsAx0SSiK-7OeeCxS5_JM8/edit?usp=sharing))([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_2_2019.JPG))
---->
-
 * [GoPro video of Tehachapi Course](https://www.youtube.com/watch?v=v6Zmzol7gFc)
 * [MTBProject Map of Tehachapi Course](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course)
 * [Call Ups for Sunday May 19th at Tehachapi]({{site.baseurl}}/images/states_callups_2019_v2.JPG)
 * [Racer/Pitzone Schedules on Sunday May 19th at Tehachapi]({{site.baseurl}}/images/racers_master_sched_states_2019.pdf)
+--->
+
+[<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 
 <!--- 
-[<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
 [NICA Online Incident Report Form](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=E8XX9FTNHP&athlete_id=99999)
 [NICA Incident Form -paper version](https://docs.google.com/document/d/1IPyJfw1tudOV_1RCjFVjrj_mMf5Rksmbfe4oTd_4oP8/edit)
 [Bike Check Form](https://docs.google.com/forms/d/e/1FAIpQLSfD-L_vBSC3aeEyC-JiH9sShjHivUMi1e6tfk0FKcdzWvh9nQ/viewform)
