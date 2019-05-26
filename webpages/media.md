@@ -14,6 +14,7 @@ permalink: /media/
 #### Photo & Video Collections
 
 #### Jakub Plichta's Video Collections
+ * <a href="https://youtu.be/pMWqitc5axc" target="_blank">Freshmen and Sophomore Boys @ Six Sigma Slinger 2019</a>
  * <a href="https://youtu.be/OJ7civbFdL0" target="_blank">JV and Varsity Boys @ Ft Ord Central Coast Challenge 2019</a>
  * <a href="https://www.youtube.com/watch?v=yDk-6mqLTFw" target="_blank">The Girls @ Granite Bay 2019</a> (with contributions from Charlie Simpson)
  * <a href="https://youtu.be/C633Dcf9W5Y" target="_blank">Freshman Boys @ Ft Ord 2019</a>
