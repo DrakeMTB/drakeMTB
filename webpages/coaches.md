@@ -137,11 +137,15 @@ I'm thrilled to be helping out the team this year as an assistant coach for the 
 
 Nicole is a technical rider par excellence, and won her category at Downieville last year.  Wanna shred?  Come on a team ride with Nicole.  She is from Canada, so she is also very nice.
 
+<div style="clear: both;"></div>
+
 #### Assistant Coach Ted Fehlhaber
 
 ![ted]({{site.baseurl}}/images/ted-coach.jpeg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
+
+<div style="clear: both;"></div>
 
 #### Assistant Coach Shawn Nelson
 
