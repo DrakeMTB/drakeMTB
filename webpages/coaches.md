@@ -104,18 +104,21 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
 ![Laura]({{site.baseurl}}/images/laura.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 I remember the first time I rode my bike and the exact moment my father let go the saddle of my blue Schwinn and I rode off untethered. Fear and excitement would soon turn into a new sense of freedom and self-confidence.  Bike riding opened a door to a whole new world of exploration, which would lead me on many secret adventures with my other bike-riding friends. Without a word to our parents, we would pack a lunch and set off on a day long adventure.  As long as we were home in one piece before the streetlights came on, we were good.  With no helmets, cell phones or GPS navigation we found our way from the suburbs, through the city to the ferry and over to the island.  Now, in a world where our children are escorted to and from school and to all their organized events, it’s hard to imagine our own children doing the same thing. That’s why we wanted to create a program to make accessible the freedom we enjoyed when we were kids. So, not only will your child learn about the possibilities out there, they will also discover the possibilities within themselves. For 11 years, I have been the director, ride leader, adventurer, medic, mechanic and mentor at Bike Adventures for Kids. I am a Registered Nurse, Wilderness Rescue and Remote First Aid certified and a certified CPR/AED Professional Rescuer and Health Care Provider.
+<br>
 
 #### Co-Head Coach Rob Reed
 
 ![Rob]({{site.baseurl}}/images/coach-rob2.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last five years, including the last two seasons as co-head Coach.  This year Rob is delighted to have Laura Childress as a new co-head coach!  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob is a stay-at-home dad and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com
+<br>
 
 #### Assistant Coach Chris Kenton
 
 ![chris-k]({{site.baseurl}}/images/kenton-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 I'm Chris, aka Tommy's dad. I grew up in Sunnyvale, riding BMX bikes in the golden age of anodized alloy. Linda and I moved to Cascade in autumn of 1999, just in time to see the annual Appetite Seminar parade down our street. I was out raking leaves before our Thanksgiving guests arrived, watching hundreds of mountain bikers stream past. The next day I bought my first mountain bike to find out what I was missing and never looked back. I've learned more about myself from mountain biking than almost any other pursuit. The mental, physical and technical challenges never get old—and neither do the rewards of fresh air, adrenaline and alpine views. Unlike a lot of sports that you have to put on a shelf sooner or later, mountain biking is a life-long ride. I couldn't be happier sharing it with such a dedicated and passionate group of people.
+<br>
 
 #### Assistant Coach Scott Samet
 
