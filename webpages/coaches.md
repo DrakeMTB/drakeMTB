@@ -129,13 +129,13 @@ Growing up in Fairfax, the birthplace of mountain biking, I guess you could say 
 
 I'm thrilled to be helping out the team this year as an assistant coach for the Drake MTB team.  My son Logan joined the team as a freshman in the 2016 season and is now a Varsity rider for the team.  Logan has helped get me out on the trails of Marin since he was 6 years old and we would go out and back on the Shoreline Trail at China Camp, and NOT make it all the way from Deer Park to 5 Corners.  Times have certainly changed in that respect! The grit and determination that the kids on the Mountain Bike team display on the training rides and races is incredible and it's endlessly inspiring to watch. I'm thankful for all the work that all the parents and volunteers put into making this organization work so well and I look forward to another great season for the Drake MTB team.   
 
-<div style="clear: both;">
+<div style="clear: both;"></div>
+  
 #### Assistant Coach Nicole Palkovsky
 
 ![nicole]({{site.baseurl}}/images/nicole-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Nicole is a technical rider par excellence, and won her category at Downieville last year.  Wanna shred?  Come on a team ride with Nicole.  She is from Canada, so she is also very nice.
-</div>
 
 #### Assistant Coach Ted Fehlhaber
 
