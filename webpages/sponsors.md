@@ -24,79 +24,62 @@ permalink: /sponsors/
 
 |     |      |
 :---  | ---:
-[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  |
+[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  
 
-***
+<hr>
 [![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) |    |
 
-***
+<hr>
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
 
-***
+<hr>
 [![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
 
-***
-[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>
-5th Street in San Rafael<br>
-Phone# (415)-456-3893<br><br>
+<hr>
+[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com) | **Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>5th Street in San Rafael<br>Phone# (415)-456-3893<br><br>
 
-***
-[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Top Producing Real Estate team in Marin County.**<br>
-Parents to Liam, a freshman on the team<br>
-Phone# (415)-515-3587<br><br>
+<hr>
+[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com) | **Top Producing Real Estate team in Marin County.**<br>Parents to Liam, a freshman on the team<br>Phone# (415)-515-3587<br><br>
 
 ***
 ***
 ### Associate Sponsors
-[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Hydration is Power**<br>
-Lee Hutchinson has a daughter on the team<br><br>
 
-***
-[![got homes](../images/got-homes.jpg)](http://gothomes.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
+|     |      |
+:---  | ---:
+[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com) | **Hydration is Power**<br>Lee Hutchinson has a daughter on the team<br><br>
 
-***
-[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-Philip has a freshman on the team and an alumni racer<br><br>
+<hr>
+[![got homes](../images/got-homes.jpg)](http://gothomes.com) |    |
 
-***
-[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
+<hr>
+[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
 
-***
-[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Exceptional Special Services Builder of Premier Homes
-Throughout the Bay Area**<br>
-Phone# (415)-492-2020<br>
+<hr>
+[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com) | **FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
 
-***
-[![logo](../images/DiamondHomeRest_Logo.png)](http://diamondhomerestoration.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-1226 43rd Avenue<br>
-San Francisco, CA 94122<br>
-Phone# (415)-722-5034<br><br>
+<hr>
+[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com) | **Exceptional Special Services Builder of Premier Homes Throughout the Bay Area**<br>Phone# (415)-492-2020<br>
 
-***
-[![logo](../images/SocialRep_Logo.png)](https://www.socialrep.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-Chris Kenton<br>
-237 Crescent Road, Suite 5<br>
-San Anselmo, CA 94960<br>
-Phone# (415)-315-9152<br>
-Chris is an assistant coach and has a senior on the team<br><br>
+<hr>
+[![logo](../images/DiamondHomeRest_Logo.png)](http://diamondhomerestoration.com) | 1226 43rd Avenue<br>San Francisco, CA 94122<br>Phone# (415)-722-5034<br><br>
+
+<hr>
+[![logo](../images/SocialRep_Logo.png)](https://www.socialrep.com) | Chris Kenton<br>237 Crescent Road, Suite 5<br>San Anselmo, CA 94960<br>Phone# (415)-315-9152<br>Chris is an assistant coach and has a senior on the team<br><br>
 
 ***
 ***
 ### Product Service
-[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Marin Power Yoga**<br><br>
+
+|     |      |
+:---  | ---:
+[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com) | **Marin Power Yoga**<br><br>
 
 ***
-[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Pelo Fitness**<br>
+[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com) | **Pelo Fitness**<br>
 
 ***
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
+[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |    |
 
 ***
 <br>**In Memory of Jim Miller**<br>
