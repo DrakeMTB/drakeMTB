@@ -5,6 +5,11 @@ stitle: our_sponsors
 permalink: /sponsors/
 ---
 
+<style>
+  th{
+    border:1px solid #000000;
+  }
+</style>
 
 *Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
@@ -24,10 +29,10 @@ permalink: /sponsors/
 :---  | ---:
 [![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  
 [![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) | 737 Center Blvd<br> Fairfax, CA 94930<br> (415) 459-3334<br><br>
-<hr>[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
-<hr>[![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
-<hr>[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com) | **Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>5th Street in San Rafael<br>Phone# (415)-456-3893<br><br>
-<hr>[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com) | **Top Producing Real Estate team in Marin County.**<br>Parents to Liam, a freshman on the team<br>Phone# (415)-515-3587<br><br>
+[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
+[![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
+[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com) | **Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>5th Street in San Rafael<br>Phone# (415)-456-3893<br><br>
+[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com) | **Top Producing Real Estate team in Marin County.**<br>Parents to Liam, a freshman on the team<br>Phone# (415)-515-3587<br><br>
 
 ***
 ***
