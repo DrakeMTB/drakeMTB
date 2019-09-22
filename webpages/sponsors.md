@@ -26,8 +26,7 @@ permalink: /sponsors/
 :---  | ---:
 [![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  
 
-<hr>
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) |    |
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) |  .  
 
 <hr>
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
@@ -50,7 +49,7 @@ permalink: /sponsors/
 [![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com) | **Hydration is Power**<br>Lee Hutchinson has a daughter on the team<br><br>
 
 <hr>
-[![got homes](../images/got-homes.jpg)](http://gothomes.com) |    |
+[![got homes](../images/got-homes.jpg)](http://gothomes.com) |  .
 
 <hr>
 [![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
@@ -79,7 +78,7 @@ permalink: /sponsors/
 [![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com) | **Pelo Fitness**<br>
 
 ***
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |    |
+[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |   .
 
 ***
 <br>**In Memory of Jim Miller**<br>
