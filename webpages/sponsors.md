@@ -49,7 +49,7 @@ permalink: /sponsors/
 [![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com) | **Hydration is Power**<br>Lee Hutchinson has a daughter on the team<br><br>
 
 <hr>
-[![got homes](../images/got-homes.jpg)](http://gothomes.com) |  .
+[![got homes](../images/got-homes.jpg)](http://gothomes.com) | Mobile: 415-302-5690<br> Office: 415-925-3235
 
 <hr>
 [![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
@@ -74,12 +74,13 @@ permalink: /sponsors/
 :---  | ---:
 [![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com) | **Marin Power Yoga**<br><br>
 
-***
-[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com) | **Pelo Fitness**<br>
+<hr>
+[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com) | **Pelo Fitness**<br><br>
 
-***
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |   .
+<hr>
+[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |  Enhancing the high school experience for all Drake students<br><br>
 
-***
+<hr>
+<hr>
 <br>**In Memory of Jim Miller**<br>
 [![logo](../images/jmiller.jpg)](/jim_miller)<br><br>
