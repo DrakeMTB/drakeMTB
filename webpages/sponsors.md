@@ -10,7 +10,7 @@ permalink: /sponsors/
 
 ***
 # Primary Sponsors
-[![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com)<br><br>
+[![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com){:style="float: left;margin-right: 5px;margin-bottom: 12px;"}
 **Drake Team Deal:**<br>
 30% off Breezer Bikes<br>
 20% off other products<br>
