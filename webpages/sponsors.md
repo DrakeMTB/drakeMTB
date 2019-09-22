@@ -14,6 +14,8 @@ permalink: /sponsors/
 |     |      |
 :---  | ---:
 [![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com) | **Drake Team Deal:**<br> 30% off Breezer Bikes<br> 20% off other products<br> Only at 3 Ring Cylces<br> Phone# (415)-259-5704<br><br>
+
+***
 [![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery) | Travis and Jennifer have a Senior on the team<br><br>
 
 ***
@@ -22,9 +24,15 @@ permalink: /sponsors/
 
 |     |      |
 :---  | ---:
-[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) |    |
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) | **Official Shop of Drake MTB!**<br><br>
+[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  |
+
+***
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) |    |
+
+***
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
+
+***
 [![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
 
 ***
