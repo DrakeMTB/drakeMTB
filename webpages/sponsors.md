@@ -26,7 +26,7 @@ permalink: /sponsors/
 :---  | ---:
 [![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  
 
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) |  .  
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) | 737 Center Blvd<br> Fairfax, CA 94930<br> (415) 459-3334<br><br>
 
 <hr>
 [![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
