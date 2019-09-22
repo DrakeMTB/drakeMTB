@@ -11,32 +11,21 @@ permalink: /sponsors/
 ***
 # Primary Sponsors
 
-|         |    |
-:---        |     ---:
+|     |      |
+:---  | ---:
 [![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com) | **Drake Team Deal:**<br> 30% off Breezer Bikes<br> 20% off other products<br> Only at 3 Ring Cylces<br> Phone# (415)-259-5704<br><br>
 [![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery) | Travis and Jennifer have a Senior on the team<br><br>
 
 ***
 ***
 ## Secondary Sponsors
-[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com){:style="float: left;margin-right: 5px;margin-bottom: 5px;"}
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Official Shop of Drake MTB!**<br><br>
 
-***
-[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-**Nationwide Commercial Equipment Financing**<br>
-Direct Financing Division<br>
-Clearview Financial<br>
-Phone# (888)-408-8805<br><br>
-
-***
-![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
-237 Crescent Road, Suite 4<br>
-San Anselmo, CA 94960<br>
-Phone# (415)-485-1196<br>
-CONNECT@THINKDOVETAIL.COM<br>
-Stephanie O'Brien is the proud parent of a racing alumni<br><br>
+|     |      |
+:---  | ---:
+[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) |    |
+[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) | **Official Shop of Drake MTB!**<br><br>
+[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
+[![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
 
 ***
 [![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com){:style="float: left;margin-right: 5px;margin-bottom: 30px;"}
