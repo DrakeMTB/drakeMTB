@@ -10,9 +10,15 @@ permalink: /sponsors/
 
 ***
 # Primary Sponsors
-| [![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com)        | **Drake Team Deal:**<br> 30% off Breezer Bikes<br> 20% off other products<br> Only at 3 Ring Cylces<br> Phone# (415)-259-5704<br><br> |
-|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------:|
-| [![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery) |                                                                                 Travis and Jennifer have a Senior on the team<br><br> |
+<div style="float:left; width:50%;">[![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com)</div>
+<div style="float:left; width:50%;">**Drake Team Deal:**<br> 
+  30% off Breezer Bikes<br> 
+  20% off other products<br> 
+  Only at 3 Ring Cylces<br> 
+  Phone# (415)-259-5704<br><br>
+</div>
+<div style="float:left; width:50%;">[![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery)</div>
+<div style="float:left; width:50%;">Travis and Jennifer have a Senior on the team<br><br></div>
 
 ***
 ***
