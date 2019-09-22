@@ -36,7 +36,7 @@ Clearview Financial<br>
 Phone# (888)-408-8805<br><br>
 
 ***
-![Dovetail](../images/dovetail-logo.jpg)(http://www.dovetaildci.com)<br><br>
+![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com)<br><br>
 237 Crescent Road, Suite 4<br>
 San Anselmo, CA 94960<br>
 Phone# (415)-485-1196<br>
