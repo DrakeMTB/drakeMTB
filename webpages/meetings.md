@@ -8,17 +8,18 @@ permalink: /meetings/
 <img src="{{site.basurl}}/images/parents.JPG" alt="Parents :)" style="width:75%;height:75%;">
 
 
-## Parent Meeting agenda/notes from 2017/2018 season
+## Parent Meeting agenda/notes from 2019/2020 season
 
-Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM in Devonshire Hall. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.
+Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.
+
+* [First Parent Meeting is 10/1 in Room 104]
+
+## Parent Meeting agenda/notes from 2017/2018 season
 
 * [Trail Advocacy Alert! Comments needed by Oct 9th, MMWD meeting Oct 17th](http://www.marinbike.org/news/offroad/comments-needed-today-on-azalea-hill-ceqa-document) ... see full map [here]({{site.baseurl}}/images/MCBC_trail_projects_and_proposals.jpg)
 * [Oct 3rd 2017 New/Returning Parent Meeting Agenda]({{site.baseurl}}/images/new_parents_agenda_v2.pdf)
 * [Drake MTB Quick Parents Guide for 2017/2018 season]({{site.baseurl}}/images/2017_2018_Drake_MTB_Parent_info.pdf)
 * [2016/2017 season budget overview]({{site.baseurl}}/images/2017_budget.pdf)
-
-
-
 
 ## Parent Meeting agenda/notes from 2016/2017 season
 
