@@ -9,6 +9,7 @@ permalink: /sponsors/
 img {
     margin-bottom: 25px !important;
     max-width: 60% !important;
+    max-height: 170px !important;
 }
 </style>
 
