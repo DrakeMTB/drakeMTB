@@ -36,8 +36,8 @@ permalink: /sponsors/
 :---  | ---:
 [![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com) | **Hydration is Power**<br>Lee Hutchinson has a daughter on the team<br><br>
 [![got homes](../images/got-homes.jpg)](http://gothomes.com) | Mobile: 415-302-5690<br> Office: 415-925-3235
-[![logo](../images/Dolby_Vert_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
-[![first on scene logo](../images/First-On-Scene.jpg)](http://firstonscene.com) | **FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
+[![logo](../images/Dolby_Horz_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
+[![first on scene logo](../images/First-On-Scene-Horz.jpg)](http://firstonscene.com) | **FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
 [![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com) | **Exceptional Special Services Builder of Premier Homes Throughout the Bay Area**<br>Phone# (415)-492-2020<br>
 [![logo](../images/DiamondHomeRest_Logo.png)](http://diamondhomerestoration.com) | 1226 43rd Avenue<br>San Francisco, CA 94122<br>Phone# (415)-722-5034<br><br>
 [![logo](../images/SocialRep_Logo.png)](https://www.socialrep.com) | Chris Kenton<br>237 Crescent Road, Suite 5<br>San Anselmo, CA 94960<br>Phone# (415)-315-9152<br>Chris is an assistant coach and has a senior on the team<br><br>
