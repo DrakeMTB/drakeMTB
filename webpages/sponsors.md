@@ -5,6 +5,13 @@ stitle: our_sponsors
 permalink: /sponsors/
 ---
 
+<style>
+img {
+    margin-bottom: 25px !important;
+    max-width: 60% !important;
+}
+</style>
+
 *Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
 ***
