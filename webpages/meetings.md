@@ -12,7 +12,7 @@ permalink: /meetings/
 
 Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.
 
-* [First Parent Meeting is 10/1 in Room 104]
+* First Parent Meeting is 10/1 in Room 104
 
 ## Parent Meeting agenda/notes from 2017/2018 season
 
