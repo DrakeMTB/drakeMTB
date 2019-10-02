@@ -45,7 +45,7 @@ permalink: /parents/
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
 
-![pic of parents and riders]({{site.baseurl}}/images/parents-riders.jpg)
+![pic of parents and riders]({{site.baseurl}}/images/parents-riders.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Being a mountain bike parent can be an amazing way to connect with other parents and Riders on the team. Our goal is to help families and Riders have the most rewarding Drake MTB experience by providing a way for parents and guardians to spend more time with their Riders before they move on to life beyond high school. We have generally found that the more Riders and families participate in activities together, the more satisfying the mountain bike team experience. For questions that we do not address below, please contact <DrakeMTBParents@gmail.com>.
 
