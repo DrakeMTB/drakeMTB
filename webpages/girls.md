@@ -25,21 +25,11 @@ Also take a look at this [great NorCal produced video](https://m.youtube.com/wat
 
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
-#### Hannah Betz - senior
-
-![pic of hannab](../images/hannahb_girls.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Starting to mountain bike was the best thing I've ever done for myself. Joining the drake MTB team seemed daunting at first, but with the support of my family and friends that I made before and after joining the club, I went from a total biking beginner to a racer on an incredible competitive team. I mountain bike because it makes me feel great. I hadn't really been a part of a sports team or really even regularly exercised before I joined the team, and it seemed so crazy that I could be having so much fun while also taking care of myself and my body. Racing was hard to get used to and it took a lot of dedication to improve, but it was all worth it. I felt confident and supported by my team from my worst race to my best race. On top of that, I made so many close friends and became part of the enormous mountain bike community that exists in Marin. I literally started from the bottom and it just goes to show that any girl can join the team and feel right at home, no matter the skill level.
-
-<div style="clear: both;"></div>
-
-****
-
 #### Audrey Fehlhaber - junior
 
-![pic of Audrey](../images/audrey_girls.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![pic of Audrey](../images/audrey_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-When I joined the mountain biking team, I had no idea what I was getting into. Little did I know that within a few short months I would meet some of my closest friends, push myself harder than I thought possible, and find my second family. I was hesitant to start biking again, but as someone who tends to go for all or nothing, I let go of my uncertainty and went for it. Biking has become a part of me, and is now hard for me to go without. My positive experiences have been fueled by the passion and support of the tightly knit community that makes up our team. To be a part of this group is something truly special, and I consider myself lucky to ride with those who love mountain biking as much as I do.
+When I joined the mountain biking team as a freshman, I had no idea what I was getting into. Little did I know that within a few short months, I would meet some of my closest friends, push myself harder than I thought possible, and find a group so tightly knit that I would consider it my second family. As a senior racing varsity this year, my motives for riding haven’t changed; I ride to be outside, to enjoy the company of this supportive team, to test the limits of my own strength, and because of my love for the sport. Mountain biking has brought me the satisfaction of victory and redemption, balanced by the frustration of sick days and broken chains. Through it all, I’ve learned to count on a group of peers, coaches, and parents who have the same passion for riding that I do; I owe my successes, large and small, to the entirety of the Drake MTB community. As a captain, I hope to help others learn to appreciate mountain biking, both the good and the bad, as much as I do. Here’s to another season full of the spirit of howdy!
 
 <div style="clear: both;"></div>
 
