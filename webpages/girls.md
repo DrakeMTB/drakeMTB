@@ -25,7 +25,7 @@ Also take a look at this [great NorCal produced video](https://m.youtube.com/wat
 
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
-#### Audrey Fehlhaber - junior
+#### Audrey Fehlhaber - senior
 
 ![pic of Audrey](../images/audrey_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
@@ -35,7 +35,7 @@ When I joined the mountain biking team as a freshman, I had no idea what I was g
 
 ****
 
-#### Ceci Hellman - junior
+#### Ceci Hellman - senior
 
 ![pic of Ceci](../images/girls_ceci.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
@@ -45,7 +45,7 @@ My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. 
 
 ****
 
-#### Justine McOuat - junior
+#### Justine McOuat - senior
 
 ![pic of Justine](../images/justine_girls.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
