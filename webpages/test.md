@@ -7,6 +7,6 @@ permalink: /test/
 
 ### Sponsors
 
-![pic of Ceci](../images/2020_Sponsors.png)
+![sponsors](../images/2020_Sponsors.png)
 
 
