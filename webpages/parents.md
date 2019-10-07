@@ -32,15 +32,15 @@ permalink: /parents/
 
 | Item to Complete  | Description  | Submission Deadline |
 |:-------------|:---------------:| -------------:|
-| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         Monday October 8th |
+| [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
 ||||
-| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | Team  director will provide login info when NICA registration opens on October 15th |            October 19th |
+| [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | You should already have NICA email invitation to register |            October 15th |
 ||||
-| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD)| Get your jersey and shorts that identifies you as a Drake Rider | November 26th |
+| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD)| Order your jersey and shorts that identifies you as a Drake Rider | October 31st |
 ||||
-| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  December 8th |
+| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  December 15th |
 ||||
-| [Pay $600 Team Dues](https://docs.google.com/document/d/1lSemjzSGjtNW6NN2r0SL7BZzZinsvTsERGlHIA_sqp8/edit?usp=sharing)| The money that pays for your races, coaching stipends, and other team necessities | December 15th |
+| [Pay $600 Team Dues](https://docs.google.com/document/d/1lSemjzSGjtNW6NN2r0SL7BZzZinsvTsERGlHIA_sqp8/edit?usp=sharing)| The money that pays for your races, coaching stipends, and other team necessities | November 15th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
