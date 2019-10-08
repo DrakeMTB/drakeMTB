@@ -9,7 +9,7 @@ permalink: /testcal/
 
 
 <div class="w3-container w3-padding-32 w3-center">
-  <h1>All Things Drake MTB - 9</h1> 
+  <h1>All Things Drake MTB - 10</h1> 
 </div>
 
 
@@ -24,12 +24,6 @@ permalink: /testcal/
 
 
 <div class="w3-row"><br>
-
-<div class="w3-quarter">
-  <a href="http://www.norcalmtb.org/"><img src="images/nor-cal.jpg" alt="Boss" style="width:45%" class="w3-square w3-hover-opacity"></a>
-  <h3><a href="http://www.norcalmtb.org/">Nor Cal Racing</a></h3>
-  <p>Information on our racing league</p>
-</div>
 
 
 </div>
