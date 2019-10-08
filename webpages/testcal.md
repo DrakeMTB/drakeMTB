@@ -6,15 +6,7 @@ permalink: /testcal/
 ---
 
 
-<style>
-@media (max-width: 1350px){.w3-display-container>img{max-width:95vw !important;}}
-@media (max-width: 992px){
-	.w3-display-container>img{max-width:92vw !important;} 
-	.full-calendar{display: none !important;} 
-	.agenda-calendar{width: 100% !important}
-}
-@media (max-width: 600px){.w3-display-container>img{max-width:88vw !important;}}
-</style>	
+
 
 <div class="w3-container w3-padding-32 w3-center">
   <h1>All Things Drake MTB</h1> 
