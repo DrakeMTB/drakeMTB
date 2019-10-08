@@ -9,25 +9,9 @@ permalink: /testcal/
 
 
 <div class="w3-container w3-padding-32 w3-center">
-  <h1>All Things Drake MTB</h1> 
+  <h1>All Things Drake MTB - 2</h1> 
 </div>
 
-<div style="text-align: center;">
-<div class="w3-display-container w3-animate-opacity" style="width: 85%; display:inline-block;">
-  <img class="testimg" src="images/drake_mtb_team_pic_2019(1).jpeg" alt="Drake MTB 2019 Team Picture" style="width: 100%; max-width: 97vw;">
-  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-    <button onClick="window.location.href = 'http://drakemtb.org/about/'" class="w3-btn w3-xlarge w3-theme w3-hover-teal" title="About the Drake MTB Team">Drake HS MTB 2019</button>
-  </div>
-</div>
-</div>
-
-<!-- Container -->
-<div class="w3-container w3-padding-32 w3-center">
-<h2>Welcome to the online home of the Drake Pirates MTB Team</h2>
-<p>8X California State Champs, 2009 - 2012, 2015-2018 and 10X NorCal High School Mountain Bike League Champs (2004, 2006, 2009 through 2017)</p>
-	
-<h2>Oops! We're currently having trouble with our calendars.<br>
-	Click <a href="{{ site.baseurl }}/calendar">HERE</a> to go to a functional team calendar.</h2>
 
 <!--google calendar(s) here-->
 <div class="w3-quarter agenda-calendar">
