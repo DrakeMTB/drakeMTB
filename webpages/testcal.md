@@ -9,7 +9,7 @@ permalink: /testcal/
 
 
 <div class="w3-container w3-padding-32 w3-center">
-  <h1>All Things Drake MTB - 7</h1> 
+  <h1>All Things Drake MTB - 8</h1> 
 </div>
 
 
@@ -35,12 +35,6 @@ permalink: /testcal/
   <a href="http://www.nationalmtb.org/"><img src="images/nica.png" alt="Boss" style="width:45%" class="w3-square w3-hover-opacity"></a>
   <h3><a href="http://www.nationalmtb.org/">NICA</a></h3>
   <p>Developing mountain bike leagues across the US</p>
-</div>
-
-<div class="w3-quarter">
-  <a href="{{ site.baseurl }}/media"><img src="images/news.png" alt="Boss" style="width:45%" class="w3-square w3-hover-opacity"></a>
-  <h3><a href="{{ site.baseurl }}/media">News Feed</a></h3>
-  <p>Info on the Team</p>
 </div>
 
 </div>
