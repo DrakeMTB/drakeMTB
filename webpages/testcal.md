@@ -17,7 +17,7 @@ permalink: /testcal/
 </style>	
 
 <div class="w3-container w3-padding-32 w3-center">
-  <h1>All Things Drake MTB - 13</h1> 
+  <h1>All Things Drake MTB - 14</h1> 
 </div>
 
 <div style="text-align: center;">
@@ -94,7 +94,7 @@ permalink: /testcal/
 </div>
 -->
 
-<br>
+<div><br>
 
 <div class="w3-quarter">
   <a href="http://www.norcalmtb.org/"><img src="images/nor-cal.jpg" alt="Boss" style="width:45%" class="w3-square w3-hover-opacity"></a>
@@ -118,6 +118,7 @@ permalink: /testcal/
   <a href="{{ site.baseurl }}/sponsors"><img src="images/drakeMTBlogo.png" alt="Boss" style="width:45%" class="w3-square w3-hover-opacity"></a>
   <h3><a href="{{ site.baseurl }}/sponsors">Sponsors</a></h3>
   <p>Our Sponsors Thank You!</p>
+</div>
 </div>
 
 </div>
