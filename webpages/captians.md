@@ -20,7 +20,7 @@ When I joined the mountain biking team as a freshman, I had no idea what I was g
 
 #### Justine McOuat
 
-![Justine]({{site.basurl}}/images/justine_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![Justine]({{site.basurl}}/images/justine_captain.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 If you went to the dictionary and looked up the word "shred", you would likely find an entry that says "see also:  Justine McOuat on any trail in Marin".  Going downhill fast is a specialty, and there are a few QOM's with her name on them.  Justine also plays tennis, but thankfully the seasonal overlap is small and being captain of the tennis team too is just another way she develops her personal leadership skills!
 
