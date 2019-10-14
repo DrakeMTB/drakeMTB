@@ -125,7 +125,7 @@ I'm Chris Kenton... I grew up in Sunnyvale, riding BMX bikes in the golden age o
 
 #### Assistant Coach Jeff Guild
 
-![jeff]({{site.baseurl}}/images/jeff-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![jeff]({{site.baseurl}}/images/jeff-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Howdy gang!  I’m Coach Jeff and I like mountain biking mostly because it’s fun, but also because it attracts cool people to hang out with. It’s also good for getting exercise and exploring places near and far. Besides all the fun, I really appreciate the opportunity biking gives me to challenge myself to improve skills and fitness, which in the end makes biking even more fun! Coaching on the Drake team gives me the opportunity to hang out with great people, support our student athletes in improving their skills and overcoming challenges, and generally share the stoke that comes from mountain biking.
 Roll Pirates!
