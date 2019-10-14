@@ -134,7 +134,7 @@ Roll Pirates!
 
 #### Assistant Coach Chris Miller
 
-![chris]({{site.baseurl}}/images/chrism-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![chris]({{site.baseurl}}/images/chrism-coach.png){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trail  to s I kept wondering how many people know about these. Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but having volunteered last year for the Drake mountain bike team there is no coaching like getting to mountain bike with these amazing drake athletes. 
 
@@ -142,7 +142,7 @@ Growing up in the Sierra, or growing older anyway, we didn’t realize we were m
 
 #### Assistant Coach Lynn Valdivia
 
-![lynn]({{site.baseurl}}/images/lynn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![lynn]({{site.baseurl}}/images/lynn-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine.
 
