@@ -158,7 +158,7 @@ Karl takes his bike everywhere.  But, all too often it just goes for a ride on t
 
 #### Assistant Coach Ted Fehlhaber
 
-![ted]({{site.baseurl}}/images/ted-coach.jpeg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![ted]({{site.baseurl}}/images/ted-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
 
@@ -204,8 +204,4 @@ Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His pass
 
 <div style="clear: both;"></div>
 
-#### Team Mechanic Walden Reed
 
-![waldenreed]({{site.baseurl}}/images/walden_mechanic.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Discovering a love of bikes at 8 years of age by way of the Hilly Hundred Century, Walden has pursued his lifelong passion for bikes ever since.  Walden started fixing bikes while on the Drake High School Mountain Bike Team, and has worked as a mechanic and bike builder for some of the best bicycle shops in the Bay Area.  Walden also enjoys cloud watching and anything that goes fast.
