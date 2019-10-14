@@ -127,7 +127,10 @@ I'm Chris Kenton... I grew up in Sunnyvale, riding BMX bikes in the golden age o
 
 ![jeff]({{site.baseurl}}/images/jeff-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-lorem ipsum
+Howdy gang!  I’m Coach Jeff and I like mountain biking mostly because it’s fun, but also because it attracts cool people to hang out with. It’s also good for getting exercise and exploring places near and far.
+Besides all the fun, I really appreciate the opportunity biking gives me to challenge myself to improve skills and fitness, which in the end makes biking even more fun!
+Coaching on the Drake team gives me the opportunity to hang out with great people, support our student athletes in improving their skills and overcoming challenges, and generally share the stoke that comes from mountain biking.
+Roll Pirates!
 
 <div style="clear: both;"></div>
 
@@ -135,7 +138,7 @@ lorem ipsum
 
 ![chris]({{site.baseurl}}/images/chrism-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-lorem ipsum
+Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trail  to s I kept wondering how many people know about these. Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but having volunteered last year for the Drake mountain bike team there is no coaching like getting to mountain bike with these amazing drake athletes. 
 
 <div style="clear: both;"></div>
 
@@ -143,7 +146,7 @@ lorem ipsum
 
 ![lynn]({{site.baseurl}}/images/lynn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-lorem ipsum
+Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine.
 
 <div style="clear: both;"></div>
   
