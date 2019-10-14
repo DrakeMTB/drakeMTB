@@ -15,7 +15,7 @@ permalink: /coaches/
 * [Racer/Pitzone Schedules on Sunday May 19th at Tehachapi]({{site.baseurl}}/images/racers_master_sched_states_2019.pdf)
 --->
 
-[<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1cQqyTalEOll_g_1lJkn9BAgXBAxmrdetHvsjvh3EEFI/edit?usp=sharing)  
+[<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1ymmh-pj4O3mFQSaGd1BWIbhSXDGLojX8_tkCi7rpaSM/edit#gid=0)  
 
 <!--- 
 [NICA Online Incident Report Form](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=E8XX9FTNHP&athlete_id=99999)
