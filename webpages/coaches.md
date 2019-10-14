@@ -134,7 +134,7 @@ Roll Pirates!
 
 #### Assistant Coach Chris Miller
 
-![chris]({{site.baseurl}}/images/chrism-coach.png){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![chris]({{site.baseurl}}/images/chrism-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trail  to s I kept wondering how many people know about these. Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but having volunteered last year for the Drake mountain bike team there is no coaching like getting to mountain bike with these amazing drake athletes. 
 
