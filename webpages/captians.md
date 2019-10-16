@@ -28,7 +28,7 @@ I knew I wanted to join the mountain bike team since middle school, and I am so 
 
 #### Sasha Plichta
 
-![Sasha]({{site.basurl}}/images/sasha_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![Sasha]({{site.basurl}}/images/sasha_captain.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 I joined the team as a freshman because I saw it as a natural continuation of the experiences I had had riding in middle and elementary school. It was my first real experience with competitive cycling and I quickly came to realize that the mountain bike team is so much more than just a collection of like-minded athletes. I’ve found some of my best friends through the team, and though I now ride more for enjoyment than the competition, I take great pleasure in being able to foster the same community that I found for the next generation of riders through my role as a captain.
 
