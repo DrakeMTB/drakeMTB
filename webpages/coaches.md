@@ -97,7 +97,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Annual Waiver
  * Annual Risk Management webinar 1 and test
 
-## Your Coaches, Ride Leaders, and Team Mechanics for the 2018 Season
+## Your Coaches, General Volunteer Ride Leaders, and Team Mechanics for the 2018 Season
 
 #### Co-Head Coach Laura Childress
 
@@ -196,7 +196,7 @@ Matt Willis is a man of many talents... father, doctor, engaging riding companio
 
 <div style="clear: both;"></div>
 
-#### Ride Leader Charlie Simpson
+#### Ride Leader and General Volunteer Charlie Simpson
 
 ![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
