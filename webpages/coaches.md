@@ -196,6 +196,15 @@ Matt Willis is a man of many talents... father, doctor, engaging riding companio
 
 <div style="clear: both;"></div>
 
+#### Ride Leader and General Volunteer Dylan Riley
+
+![dylan_riley]({{site.baseurl}}/images/dylan.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+If traveling any sort of distance, Dylan Riley prefers to get there on two wheels whether it be by road bike, cross bike, cargo bike, tandem, e-bike, or mountain bike (mountain bike races excluded).  A former safe routes to school coordinator in San Francisco, Dylan has been involved with getting kids on bikes for years.  He is a builder of wheels, some of which are even round, a participant in races, usually not for last, and a father of two.  A veteran elementary school teacher of 13 years, he enjoys challenging kids to be their best and in the process is just happy to be along for the ride.
+
+<div style="clear: both;"></div>
+
+
 #### Ride Leader and General Volunteer Charlie Simpson
 
 ![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
