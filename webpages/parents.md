@@ -40,7 +40,7 @@ permalink: /parents/
 ||||
 | <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  December 1th |
 ||||
-| [Pay $600 Team Dues](https://docs.google.com/document/d/11buoXBvlNv1wWOG62ncBDEi76tV-DLID0aWjTSdKgFU/edit| The money that pays for your races, coaching stipends, and other team necessities) | December 15th |
+| [Pay $600 Team Dues](https://docs.google.com/document/d/11buoXBvlNv1wWOG62ncBDEi76tV-DLID0aWjTSdKgFU/edit) | The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
 
 The <DrakeMTBDirector@gmail.com> holds responsibility for team compliance with the necessary forms, so please reach out to our Director via email with any questions or issues on the above forms.
