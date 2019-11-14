@@ -24,18 +24,21 @@ permalink: /emergency/
 |Assistant Coach |Shawn Nelson| 	415.412.6023|
 |Assistant Coach |Ted Fehlhaber| 	415.846.4510|
 | | | |
-|Ride Leader |Amie Brooke|	415.860.7896|
-|Ride Leader |Andrew Galbraith|	415.830.7088|
+|Ride Leader |Brian Karr|	415.710.7677|
 |Ride Leader |Bridget Clark|	415.370.0740|
+|Ride Leader |Darin Jackson|	415.531.0074|
 |Ride Leader |Dolores Mosqueda|	415.205.1501|
 |Ride Leader |Doug Mathieux|	415.595.0803|
+|Ride Leader |Dylan Riley|	415.307.4059|
+|Ride Leader |Emily Karr|	415.310.8612|
 |Ride Leader |Eric  Betz|	415.272.1059|
 |Ride Leader |Evan Marquit|	415.516.6304|
 |Ride Leader |Isabella Battig|	415.517.4919|
+|Ride Leader |Libby Caldwell|	|
 |Ride Leader |Mackinzie Stanley|	415.867.4643|
 |Ride Leader |Nicole Palkovsky| 	415.717.5181|
 |Ride Leader |Philip Swett|   415.265.2802| 
-|Ride Leader |Sarah Ashton|	415.602.8786|
+|Ride Leader |Sam Lueck|	415.465.0127|
 |Ride Leader |Scott Samet| 	 	415.997.9865|
 | | | |
 |Parent Comittee co-President|Genise Swain| 	415.265.9523|
