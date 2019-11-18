@@ -7,7 +7,7 @@ permalink: /media/
 
 # Drake MTB and NorCal volunteering
 
-<a href="{{site.baseurl}}/images/coaches_summit_preso_11-16-2019.pdf">Drake MTB presentation to NorCal on 11-16-2019</a>
+<a href="/images/coaches_summit_preso_11-16-2019.pdf">Drake MTB presentation to NorCal on 11-16-2019</a>
 
 
 # Drake MTB on the Web and In the News
