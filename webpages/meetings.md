@@ -10,9 +10,10 @@ permalink: /meetings/
 
 ## Parent Meeting agenda/notes from 2019/2020 season
 
-Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.
+Drake MTB Parent meetings happen the first Tuesday of each month at 7 PM. Everyone is welcome! We like to hear your feedback and your input. We are always looking for more parent involvement.  Here are the meeting notes for the 2019/20 season.
 
-* First Parent Meeting is 10/1 in Room 104
+* [October 1, 2019](https://docs.google.com/document/d/1gysUDNX94eRPbWY6Ml7A89f5SZVPgeq-djUAOzQQM00/edit?usp=sharing)
+* [November 5, 2019](https://docs.google.com/document/d/14R4RXiRYgQtE_Tg50n9Y0Dhe0kAjN_1-Jy2u6iy_hsE/edit?usp=sharing)
 
 ## Parent Meeting agenda/notes from 2017/2018 season
 
