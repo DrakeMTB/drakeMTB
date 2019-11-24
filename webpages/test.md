@@ -27,10 +27,10 @@ div.sponsor {
 }
 </style>
 
-*Z Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+*Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
 <div class="sponsorGroup primary">
-  <strong>PRIMARY</strong><br />
+  PRIMARY<br />
   <div class="w3-third sponsor">
     <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
   </div>
@@ -43,7 +43,7 @@ div.sponsor {
 </div>
 
 <div class="sponsorGroup secondary">
-  <strong>SECONDARY</strong><br />
+  SECONDARY<br />
   <div class="w3-quarter sponsor">
     <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
   </div>
@@ -59,7 +59,7 @@ div.sponsor {
 </div>
 
 <div class="sponsorGroup associate">
-  <strong>ASSOCIATE</strong><br />
+  ASSOCIATE<br />
   <div class="w3-quarter sponsor">
     <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
   </div>
@@ -87,3 +87,21 @@ div.sponsor {
     <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
+
+<div class="sponsorGroup friend">
+  TEAM FRIENDS<br />
+  <br />
+  <div class="w3-quarter sponsor">
+    <a href="#" target="_blank"><strong>Haney Orthodontics</strong></a>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="#" target="_blank"><strong>Gestalt Haus</strong></a>
+  </div>
+  <div class="w3-quarter sponsor">
+    &nbsp;
+  </div>
+  <div class="w3-quarter sponsor">
+    &nbsp;
+  </div>
+</div>
+<br /><br />
