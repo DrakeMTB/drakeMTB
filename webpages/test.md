@@ -61,30 +61,30 @@ div.sponsor {
 <div class="sponsorGroup associate">
   ASSOCIATE<br />
   <div class="w3-quarter sponsor">
-    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><strong>Java Hut</strong></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"></a>
+    <a href="https://marinpoweryoga.com" target="_blank"><img src="/images/logo_MPY.jpg" alt="Marin Power Yoga" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://www.dolby.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.pelofitness.com" target="_blank"><img src="/images/pelo-logo.jpg" alt="Pelo Fitness" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.xmrfire.com/" target="_blank"><img src="/images/logo_XMRFire.png" alt="XMR Fire" class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
 <div class="sponsorGroup associate">
   <div class="w3-quarter sponsor">
-    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.drakefund.org" target="_blank"><img src="/images/drake_fund.jpg" alt="Drake Fund" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"></a>
+    <a href="http://www.gothomes.com" target="_blank"><img src="/images/got-homes.jpg" alt="Bill Johnson Real Estate Group" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://www.dolby.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"></a>
+    <a href="https://apfinancing.com" target="_blank"><img src="/images/logo_APFinancing.png" alt="Allegiant Partners Equipment Financing" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"></a>
+    <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
 
@@ -92,10 +92,10 @@ div.sponsor {
   TEAM FRIENDS<br />
   <br />
   <div class="w3-quarter sponsor">
-    <a href="#" target="_blank"><strong>Haney Orthodontics</strong></a>
+    <a href="http://www.haneyorthodontics.com" target="_blank"><strong>Haney Orthodontics</strong></a>
   </div>
   <div class="w3-quarter sponsor">
-    <a href="#" target="_blank"><strong>Gestalt Haus</strong></a>
+    <a href="https://gestalthausoffairfax.com" target="_blank"><strong>Gestalt Haus</strong></a>
   </div>
   <div class="w3-quarter sponsor">
     &nbsp;
