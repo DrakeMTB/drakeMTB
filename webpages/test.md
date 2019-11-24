@@ -8,7 +8,7 @@ permalink: /test/
 *Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
 <div>
-  PRIMARY<br />
+  <strong>PRIMARY</strong><br />
   <div class="w3-third">
     <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
   </div>
@@ -21,7 +21,7 @@ permalink: /test/
 </div>
 
 <div>
-  SECONDARY<br />
+  <strong>SECONDARY</strong><br />
   <div class="w3-quarter">
     <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
   </div>
