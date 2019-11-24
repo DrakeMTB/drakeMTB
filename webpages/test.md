@@ -10,28 +10,28 @@ permalink: /test/
 <div>
   PRIMARY<br />
   <div class="w3-third">
-    <a href="https://www.facebook.com/juicery" target="_blank"><img src="images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-third">
-    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="images/sunshine_new.JPG" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/sunshine_new.JPG" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-third">
-    <a href="https://jscompanyinc.com" target="_blank"><img src="images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
 
 <div>
   SECONDARY<br />
   <div class="w3-quarter">
-    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter">
-    <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter">
-    <a href="https://www.dolby.com" target="_blank"><img src="images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.dolby.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter">
-    <a href="https://osmonutrition.com" target="_blank"><img src="images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"></a>
+    <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
