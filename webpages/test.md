@@ -16,7 +16,7 @@ permalink: /test/
     <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/sunshine_new.JPG" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-third">
-    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
   </div>
 </div>
 
