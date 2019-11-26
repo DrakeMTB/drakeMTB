@@ -45,7 +45,7 @@ div.sponsor {
 <div class="sponsorGroup secondary">
   SECONDARY<br />
   <div class="w3-quarter sponsor">
-    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/redhorse.jpg" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/logo_RedHorse2.png" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"></a>
@@ -61,7 +61,7 @@ div.sponsor {
 <div class="sponsorGroup associate">
   ASSOCIATE<br />
   <div class="w3-quarter sponsor">
-    <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><strong>Java Hut</strong></a>
+    <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><img src="/images/logo_JavaHut.png" alt="Java Hut" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://marinpoweryoga.com" target="_blank"><img src="/images/logo_MPY.jpg" alt="Marin Power Yoga" class="w3-square w3-hover-opacity"></a>
