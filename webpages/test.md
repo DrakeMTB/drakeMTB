@@ -35,7 +35,7 @@ div.sponsor {
     <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-third sponsor">
-    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/sunshine_new.JPG" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
   </div>
   <div class="w3-third sponsor">
     <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
