@@ -27,7 +27,7 @@ div.sponsor {
 }
 div.sponsor span.caption {
     text-align: center:
-    font-size: 8px;
+    font-size: 10px !important;
 }
 </style>
 
