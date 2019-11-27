@@ -25,7 +25,7 @@ div.sponsorGroup {
 div.sponsor {
     text-align: center;
 }
-div.sponsor span.caption {
+div.sponsor.caption {
     text-align: center:
     font-size: 10px !important;
 }
@@ -37,15 +37,23 @@ div.sponsor span.caption {
   PRIMARY<br />
   <div class="w3-third sponsor">
     <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
-    <span class="caption">415-123-4567</span>
   </div>
   <div class="w3-third sponsor">
     <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
-    <span class="caption">415-123-4567</span>
   </div>
   <div class="w3-third sponsor">
     <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
-    <span class="caption">415-123-4567</span>
+  </div>
+</div>
+<div class="sponsorGroup">
+  <div class="w3-third sponsor caption">
+      415-123-4567
+  </div>
+  <div class="w3-third sponsor caption">
+      415-123-4567
+  </div>
+  <div class="w3-third sponsor caption">
+      415-123-4567
   </div>
 </div>
 
