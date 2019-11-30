@@ -35,20 +35,20 @@ div.sponsor span.caption {
 }
 </style>
 
-*X Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+*Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
 <div class="sponsorGroup primary">
   PRIMARY<br />
   <div class="w3-third sponsor">
-    <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"><br /></a>
       <span class="caption">415-123-4567</span>
   </div>
   <div class="w3-third sponsor">
-    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"></a>
+    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"><br /></a>
       <span class="caption">415-123-4567</span>
   </div>
   <div class="w3-third sponsor">
-    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"></a>
+    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"><br /></a>
       <span class="caption">415-123-4567</span>
   </div>
 </div>
