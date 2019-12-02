@@ -19,14 +19,10 @@ permalink: /parents/
 
 
 
-<!---||||
-| [Participate in Fundraising $250 for the team](URL tbd)| Raise $250 that - in addition to $350 in Dues - pays for races, coaching stipends, and team necessities | December 15th | --->
-
-<!--- | [Tam District Field Trip Forms Approval Packet]({{site.baseurl}}/images/DrakeMTB_ParentForms_10-10-18.pdf) | ALL of these pages must be printed, filled out, and emailed to Lynn Valdivia at <DrakeMTBDirector@gmail.com> or dropped off either at 26 Humbold Ave San Anselmo or to Jolie Jacobs at the Drake High Main Office | Monday October 8th |
+<!--- commented out by RHR on 12-2-2019 | [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD)| Order your jersey and shorts that identifies you as a Drake Rider | October 31st |
 ||||
-| [Register for the Drake Team]({{site.baseurl}}/register) | Information the team and school needs to allow participation in this club sport | Monday October 8th |
-||||
- --->
+| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  December 1th |
+||||  --->
 
 ### Mandatory Parent List: Your Rider cannot train with the team or participate in the races without timely completion of these items <a name="mandatory"></a>
 
@@ -35,10 +31,6 @@ permalink: /parents/
 | [Join the DrakeMTB google Group](https://docs.google.com/forms/d/e/1FAIpQLScCDynLJepyBTFAzqfZI9dTpCWTGCgzkQdhY0TSY6LIkXKXKg/viewform) | Stay up-to-date on the latest team and community info |         October 15th |
 ||||
 | [Register your Rider with NICA](https://pitzone.nationalmtb.org/users/sign_in) | You should already have NICA email invitation to register |            October 15th |
-||||
-| [Order Team Jersey(s) for your Rider](http://teamorder.serviziocorse.com/index.aspx?pc=6B27AE78-6B8F-4D1B-890C-86543984B5BD)| Order your jersey and shorts that identifies you as a Drake Rider | October 31st |
-||||
-| <a name="scholarship"></a>[Fill out scholarship form (if desired)](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform) | Financial assistance to help assure equal opportunities for all riders |  December 1th |
 ||||
 | [Pay $600 Team Dues](https://docs.google.com/document/d/11buoXBvlNv1wWOG62ncBDEi76tV-DLID0aWjTSdKgFU/edit) | The money that pays for your races, coaching stipends, and other team necessities | December 15th |
 ||||
