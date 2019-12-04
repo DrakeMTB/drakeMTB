@@ -4,6 +4,11 @@ ignoreme: true
 ---
 @charset "utf-8";
 
+@font-face {
+	font-family: 'CANDARA';
+	src: url('/fonts/CANDARA.eot');
+	src: local('CANDARA'), url('/fonts/CANDARA.woff') format('woff'), url('/fonts/CANDARA.ttf') format('truetype');
+}
 
 
 // Our variables
