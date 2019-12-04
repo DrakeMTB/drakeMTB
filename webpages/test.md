@@ -27,7 +27,8 @@ div.sponsor {
 }
 div.sponsor span.caption {
     text-align: center:
-    font-size: 9px !important;
+    font-family: 'CANDARA' !important;
+    font-size: 12px !important;
     margin-bottom: 10px;
 }
     
