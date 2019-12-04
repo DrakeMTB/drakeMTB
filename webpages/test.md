@@ -26,7 +26,7 @@ div.sponsor {
     text-align: center;
 }
 div.sponsor span.caption {
-    text-align: center:
+    text-align: center;
     font-family: 'CANDARA' !important;
     font-size: 12px !important;
     margin-bottom: 10px;
@@ -38,7 +38,7 @@ div.sponsor span.caption {
 }
 </style>
 
-*X4 Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+*X5 Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
 <div class="sponsorGroup primary">
   PRIMARY<br />
