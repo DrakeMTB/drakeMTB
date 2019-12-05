@@ -38,13 +38,15 @@ div.sponsor span.caption {
 }
 </style>
 
-*X5 Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+*Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+
+*Click logo to go to sponsor websites*
 
 <div class="sponsorGroup primary">
   PRIMARY<br />
   <div class="w3-third sponsor">
     <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 847-3038</span>
+    <span class="caption">(415) 847-3038<br>Official Team Smoothies</span>
   </div>
   <div class="w3-third sponsor">
     <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"><br /></a>
@@ -60,19 +62,19 @@ div.sponsor span.caption {
   SECONDARY<br />
   <div class="w3-quarter sponsor">
     <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/logo_RedHorse2.png" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 492-2020</span>
+    <span class="caption">(415) 492-2020<br>Builder of Premier Homes</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 515-3587</span>
+    <span class="caption">(415) 515-3587<br>Marin Real Estate</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://www.dolby.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 558-0200</span>
+    <span class="caption">(415) 558-0200<br>Rich, Clear, Powerful</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 258-1613</span>
+    <span class="caption">(415) 258-1613<br>Hydration is Power</span>
   </div>
 </div>
 
@@ -80,37 +82,37 @@ div.sponsor span.caption {
   ASSOCIATE<br />
   <div class="w3-quarter sponsor">
     <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><img src="/images/logo_JavaHut.png" alt="Java Hut" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 457-4581</span>
+    <span class="caption">(415) 457-4581<br>Coffee + Bikes</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://marinpoweryoga.com" target="_blank"><img src="/images/logo_MPY.jpg" alt="Marin Power Yoga" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 683-1191</span>
+    <span class="caption">(415) 683-1191<br>Marin Power Yoga</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://www.pelofitness.com" target="_blank"><img src="/images/pelo-logo.jpg" alt="Pelo Fitness" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 459-7356</span>
+    <span class="caption">(415) 459-7356<br>Pelo Fitness</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://www.xmrfire.com/" target="_blank"><img src="/images/logo_XMRFire.png" alt="XMR Fire" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 218-1549</span>
+    <span class="caption">(415) 218-1549<br>Wildfire Prevention Consulting</span>
   </div>
 </div>
 <div class="sponsorGroup associate">
   <div class="w3-quarter sponsor">
     <a href="https://www.drakefund.org" target="_blank"><img src="/images/drake_fund.jpg" alt="Drake Fund" class="w3-square w3-hover-opacity"><br /></a>
-      <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a></span>
+      <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a><br></span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="http://www.gothomes.com" target="_blank"><img src="/images/got-homes.jpg" alt="Bill Johnson Real Estate Group" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(415) 925-3235</span>
+    <span class="caption">(415) 925-3235<br>Marin Real Estate</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="https://apfinancing.com" target="_blank"><img src="/images/logo_APFinancing.png" alt="Allegiant Partners Equipment Financing" class="w3-square w3-hover-opacity"><br /></a>
-    <span class="caption">(800) 604-4817</span>
+    <span class="caption">(800) 604-4817<br>Commercial Equipment Financing</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"><br /></a>
-      <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a></span>
+      <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
   </div>
 </div>
 
