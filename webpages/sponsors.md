@@ -7,60 +7,131 @@ permalink: /sponsors/
 
 <style>
 img {
-    margin-bottom: 25px !important;
-    max-width: 60% !important;
-    max-height: 170px !important;
+    margin-bottom: 5px !important;
+    max-width: 80% !important;
+}
+div.primary img { 
+    max-height: 150px;
+}
+div.secondary img { 
+    max-height: 100px;
+}
+div.associate img { 
+    max-height: 80px;
+}
+div.sponsorGroup {
+    clear: both;
+}
+div.sponsor {
+    text-align: center;
+}
+div.sponsor span.caption {
+    text-align: center;
+    font-family: 'CANDARA' !important;
+    font-size: 12px !important;
+    margin-bottom: 10px;
+}
+    
+@media (max-width: 992px) {
+    span.caption {display: none !important;} 
+    img {margin-bottom: 20px !important;
 }
 </style>
 
-*Below is a list of the 2018-19 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
+*Below is a list of the 2019-20 Drake MTB Sponsors. Check them out! Use their services!! Drake MTB must raise 100% of the funds we need every season. We do not receive financial support from the school since we are considered a club sport opposed to an MCAL sport. Therefore, we are very grateful for our sponsors’ support. Without their generosity, the team would not be able to thrive and feel so supported on and off the trails. Thank you to each and everyone one!*
 
-***
-# Primary Sponsors
+*Click logo to go to sponsor websites*
 
-|     |      |
-:---  | ---:
-[![Breezer Bikes](../images/breezer.jpg)](http://breezerbikes.com) | **Drake Team Deal:**<br> 30% off Breezer Bikes<br> 20% off other products<br> Only at 3 Ring Cylces<br> Phone# (415)-259-5704<br><br>
-[![The Juicery](../images/juicery.jpg)](https://www.facebook.com/juicery) | Travis and Jennifer have a Senior on the team<br><br>
+<div class="sponsorGroup primary">
+  PRIMARY<br />
+  <div class="w3-third sponsor">
+    <a href="https://www.facebook.com/juicery" target="_blank"><img src="/images/juicery.jpg" alt="The Juicery" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 847-3038<br>Official Team Smoothies</span>
+  </div>
+  <div class="w3-third sponsor">
+    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 459-3334<br>Official Team Bike Shop</span>
+  </div>
+  <div class="w3-third sponsor">
+    <a href="https://jscompanyinc.com" target="_blank"><img src="/images/logo-JSCo.jpg" alt="JS Company Inc." class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 460-2100<br>Sustainable Demolition</span>
+  </div>
+</div>
 
-***
-***
-## Secondary Sponsors
+<div class="sponsorGroup secondary">
+  SECONDARY<br />
+  <div class="w3-quarter sponsor">
+    <a href="https://www.redhorseconstructors.com" target="_blank"><img src="/images/logo_RedHorse2.png" alt="Redhorse Construction, Inc." class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 492-2020<br>Builder of Premier Homes</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://www.thenelsongroupmarin.com" target="_blank"><img src="/images/NG_logo.png" alt="The Nelson Group" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 515-3587<br>Marin Real Estate</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://www.dolby.com" target="_blank"><img src="/images/Dolby_Vert_Black.png" alt="Dolby" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 558-0200<br>Rich, Clear, Powerful</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://osmonutrition.com" target="_blank"><img src="/images/Osmo_wordmark_color.png" alt="Osmo" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 258-1613<br>Hydration is Power</span>
+  </div>
+</div>
 
-|     |      |
-:---  | ---:
-[![sunshine logo](../images/sunshine_new.JPG)](http://www.sunshinebicycle.com) | **Official Shop of Drake MTB!**<br><br>  
-[![sunshine-nica](../images/nica-header.jpg)](http://www.sunshinebicycle.com/nica16/) | 737 Center Blvd<br> Fairfax, CA 94930<br> (415) 459-3334<br><br>
-[![Allegiant](../images/Allegiant-logo.jpg)](http://www.clearviewfinancial.com) | **Nationwide Commercial Equipment Financing**<br>Direct Financing Division<br>Clearview Financial<br>Phone# (888)-408-8805<br><br>
-[![Dovetail](../images/dovetail-logo.jpg)](http://www.dovetaildci.com) | 237 Crescent Road, Suite 4<br>San Anselmo, CA 94960<br>Phone# (415)-485-1196<br>CONNECT@THINKDOVETAIL.COM<br>Stephanie O'Brien is the proud parent of a racing alumni<br><br>
-[![gonzalez logo](../images/Gonzolez-logo.png)](http://www.drmichelleg.com) | **Orthodontist to Biking Stars…Like alumni Ben Enbom and Dean Lyons**<br>5th Street in San Rafael<br>Phone# (415)-456-3893<br><br>
-[![NelsonGroup logo](../images/NG_logo.png)](http://www.TheNelsonGroupMarin.com) | **Top Producing Real Estate team in Marin County.**<br>Parents to Liam, a freshman on the team<br>Phone# (415)-515-3587<br><br>
+<div class="sponsorGroup associate">
+  ASSOCIATE<br />
+  <div class="w3-quarter sponsor">
+    <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><img src="/images/logo_JavaHut.png" alt="Java Hut" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 457-4581<br>Coffee + Bikes</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://marinpoweryoga.com" target="_blank"><img src="/images/logo_MPY.jpg" alt="Marin Power Yoga" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 683-1191<br>Marin Power Yoga</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://www.pelofitness.com" target="_blank"><img src="/images/pelo-logo.jpg" alt="Pelo Fitness" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 459-7356<br>Pelo Fitness</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://www.xmrfire.com/" target="_blank"><img src="/images/logo_XMRFire.png" alt="XMR Fire" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 218-1549<br>Wildfire Prevention Consulting</span>
+  </div>
+</div>
+<div class="sponsorGroup associate">
+  <div class="w3-quarter sponsor">
+    <a href="https://www.drakefund.org" target="_blank"><img src="/images/drake_fund.jpg" alt="Drake Fund" class="w3-square w3-hover-opacity"><br /></a>
+      <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a><br>Drake Fund</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="http://www.gothomes.com" target="_blank"><img src="/images/got-homes.jpg" alt="Bill Johnson Real Estate Group" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(415) 925-3235<br>Marin Real Estate</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://apfinancing.com" target="_blank"><img src="/images/logo_APFinancing.png" alt="Allegiant Partners Equipment Financing" class="w3-square w3-hover-opacity"><br /></a>
+    <span class="caption">(800) 604-4817<br>Commercial Equipment Financing</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"><br /></a>
+      <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
+  </div>
+</div>
 
-***
-***
-### Associate Sponsors
-
-|     |      |
-:---  | ---:
-[![logo](../images/Osmo_wordmark_color.png)](http://www.osmonutrition.com) | **Hydration is Power**<br>Lee Hutchinson has a daughter on the team<br><br>
-[![got homes](../images/got-homes.jpg)](http://gothomes.com) | Mobile: 415-302-5690<br> Office: 415-925-3235
-[![logo](../images/Dolby_Horz_Black.png)](http://www.dolby.com/us/en/index.html) | Philip has a sophomore on the team and an alumni racer<br><br>
-[![first on scene logo](../images/First-On-Scene-Horz.jpg)](http://firstonscene.com) | **FirstOnScene is a company with one focus: building the best fire department RMS on the market at the lowest possible price.**<br><br>
-[![Redhorse Builders](../images/redhorse.jpg)](http://www.redhorseconstructors.com) | **Exceptional Special Services Builder of Premier Homes Throughout the Bay Area**<br>Phone# (415)-492-2020<br>
-[![logo](../images/DiamondHomeRest_Logo.png)](http://diamondhomerestoration.com) | 1226 43rd Avenue<br>San Francisco, CA 94122<br>Phone# (415)-722-5034<br><br>
-[![logo](../images/SocialRep_Logo.png)](https://www.socialrep.com) | Chris Kenton<br>237 Crescent Road, Suite 5<br>San Anselmo, CA 94960<br>Phone# (415)-315-9152<br>Chris is an assistant coach and has a senior on the team<br><br>
-
-***
-***
-### Product Service
-
-|     |      |
-:---  | ---:
-[![logo](../images/marin-yoga.png)](http://www.Marinpoweryoga.com) | **Marin Power Yoga**<br><br>
-[![logo](../images/pelo-logo.jpg)](http://www.pelofitness.com) | **Pelo Fitness**<br><br>
-[![drake_fund logo](../images/drake_fund.jpg)](http://www.drakefund.org) |  Enhancing the high school experience for all Drake students<br><br>
-
-<hr>
-<hr>
-<br>**In Memory of Jim Miller**<br>
-[![logo](../images/jmiller.jpg)](/jim_miller)<br><br>
+<div class="sponsorGroup friend">
+  TEAM FRIENDS<br />
+  <br />
+  <div class="w3-quarter sponsor">
+    <a href="http://www.haneyorthodontics.com" target="_blank"><strong>Haney Orthodontics</strong><br /></a>
+    <span class="caption">(415) 453-7880</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    <a href="https://gestalthausoffairfax.com" target="_blank"><strong>Gestalt Haus</strong><br /></a>
+    <span class="caption">(415) 721-7895</span>
+  </div>
+  <div class="w3-quarter sponsor">
+    &nbsp;
+  </div>
+  <div class="w3-quarter sponsor">
+    &nbsp;
+  </div>
+</div>
+<br /><br />
