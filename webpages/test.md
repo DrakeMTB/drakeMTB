@@ -100,7 +100,7 @@ div.sponsor span.caption {
 <div class="sponsorGroup associate">
   <div class="w3-quarter sponsor">
     <a href="https://www.drakefund.org" target="_blank"><img src="/images/drake_fund.jpg" alt="Drake Fund" class="w3-square w3-hover-opacity"><br /></a>
-      <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a><br></span>
+      <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a><br>Drake Fund</span>
   </div>
   <div class="w3-quarter sponsor">
     <a href="http://www.gothomes.com" target="_blank"><img src="/images/got-homes.jpg" alt="Bill Johnson Real Estate Group" class="w3-square w3-hover-opacity"><br /></a>
