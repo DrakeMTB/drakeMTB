@@ -27,7 +27,7 @@ div.sponsor {
 }
 div.sponsor span.caption {
     text-align: center;
-    font-family: 'CANDARA' !important;
+    font-family: 'GEORGIA' !important;
     font-size: 12px !important;
     margin-bottom: 10px;
 }
