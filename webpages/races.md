@@ -7,16 +7,15 @@ permalink: /races/
 
 <img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
 
-## Race Schedule for 2019 Season
+## Race Schedule for 2020 Season
 (for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/races-2/#raceflyers)
 
-<!---
-* [Race #1 – February 24th (Sunday race at Fort Ord)](https://www.norcalmtb.org/wp-content/uploads/2019/02/2019-Fort-Ord-Race-Flyer-2019-2-8.pdf)
-* [Race #2 – March 16th (Saturday race at Granite Bay)](https://www.norcalmtb.org/wp-content/uploads/2019/02/4-Granite-Bay-Grinder-2019-2-26.pdf) --->
-* [Race #3 – March 31st (Sunday race at Laguna Seca)](https://www.norcalmtb.org/wp-content/uploads/2019/03/Laguna-Seca-2019-3-21.pdf)
-* [Race #4 – April 27th (Saturday race at Six Sigma)](https://www.norcalmtb.org/wp-content/uploads/2019/02/5-Six-Sigma-Slinger-2019-2-5.pdf)
-* [Race #5 – May 11th (Saturday race at Six Sigma Ranch)](https://www.norcalmtb.org/wp-content/uploads/2019/02/5-Six-Sigma-Showdown-2019-2-5.pdf)
-* [California High School State Championships – May 18th and 19th (Sunday race at Tehachapi Race Course)](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course-2018)
+* [Race #1 – Saturday, March 7 - Redding]()
+* [Race #2 – Saturday, March 21 - Petaluma]() 
+* [Race #3 – Saturday, April 4 - Granite Bay]()
+* [Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA]()
+* [Race #5 – Saturday, May 2 - Six Sigma Ranch]()
+* [Norcal Championships – Sunday, May 17 - Six Sigma Ranch]()
 
 *******
 
@@ -33,7 +32,7 @@ permalink: /races/
 *******
 
 <a name="hotel"></a>
-## [Where to Stay... (Don't forget to book early)](https://docs.google.com/document/d/10Xo5TQUmDOvSc6jlu3Dk57cKB57z1fbvCZURBYt-tJY/edit?usp=sharing)  
+## [Where to Stay... (Don't forget to book early)](https://docs.google.com/document/d/1lZ-AWFZw7DhgIF1a61Dar72MLVmYTbe1ApoJ4t0eaB8/edit)  
 
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit_2019.JPG)  
 
