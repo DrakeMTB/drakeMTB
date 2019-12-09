@@ -8,20 +8,20 @@ permalink: /races/
 <img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
 
 ## Race Schedule for 2020 Season
-(for most up-to-date information, check this [pdf link to NorcalMTB site)](https://www.norcalmtb.org/races-2/#raceflyers)
+(The race schedule is not finalized yet.  For the most up-to-date information, check the <a href="https://www.norcalmtb.org/races-2/#raceflyers" target="_blank">NorcalMTB race site</a>
 
-* [Race #1 – Saturday, March 7 - Redding]()
-* [Race #2 – Saturday, March 21 - Petaluma]() 
-* [Race #3 – Saturday, April 4 - Granite Bay]()
-* [Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA]()
-* [Race #5 – Saturday, May 2 - Six Sigma Ranch]()
-* [Norcal Championships – Sunday, May 17 - Six Sigma Ranch]()
+* <a href="#" target="_blank">Race #1 – Saturday, March 7 - Redding</a>
+* <a href="#" target="_blank">Race #2 – Saturday, March 21 - Petaluma</a>
+* <a href="#" target="_blank">Race #3 – Saturday, April 4 - Granite Bay</a>
+* <a href="#" target="_blank">Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA</a>
+* <a href="#" target="_blank">Race #5 – Saturday, May 2 - Six Sigma Ranch</a>
+* <a href="#" target="_blank">Norcal Championships – Sunday, May 17 - Six Sigma Ranch</a>
 
 *******
 
-## [Volunteer Sign Up Sheet](https://docs.google.com/spreadsheets/d/1i7jYM_tcQWjQCO_UllpXPlf6-NWrGxW3Nk9FX_AIZr4/edit?ts=5a74beaf#gid=1677563385)  
+## [Volunteer Sign Up Sheet]()  
 
-## [Food Sign Up Sheet](https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY/edit?ts=5a7508a4#gid=0)  
+## [Food Sign Up Sheet]()  
 
 *******
 
