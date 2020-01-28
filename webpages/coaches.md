@@ -123,6 +123,23 @@ I'm Chris Kenton... I grew up in Sunnyvale, riding BMX bikes in the golden age o
 
 <div style="clear: both;"></div>
 
+#### Assistant Coach Chris Nelson
+
+![chris_nelson]({{site.baseurl}}/images/.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Chris Nelson has been a competitive and recreational cyclist for over 35 years.  He raced on the road at UC Berkeley and took up mountain biking in the mid 1980s.  Mainly a lover of road cycling, Chris has recently fallen back in love with the dirt, especially since assisting with the White Hill MS MTB club last year and since becoming a sponsor, parent volunteer and now assistant coach at Drake.  He played lacrosse growing up (and was coached by his father) but took up cycling while at Cal and hasn't looked back.  He is overjoyed to be helping out this amazing program of awesome student riders, parents and coaches and he's especially proud to be following in his father's footsteps of being a youth sports coach.  He lives in San Anselmo and works in the residential real estate business. His son Liam races on the Drake Team.
+
+<div style="clear: both;"></div>
+
+#### Assistant Coach Dylan Riley
+
+![dylan_riley]({{site.baseurl}}/images/dylan.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+If traveling any sort of distance, Dylan Riley prefers to get there on two wheels whether it be by road bike, cross bike, cargo bike, tandem, e-bike, or mountain bike (mountain bike races excluded).  A former safe routes to school coordinator in San Francisco, Dylan has been involved with getting kids on bikes for years.  He is a builder of wheels, some of which are even round, a participant in races, usually not for last, and a father of two.  A veteran elementary school teacher of 13 years, he enjoys challenging kids to be their best and in the process is just happy to be along for the ride.
+
+<div style="clear: both;"></div>
+
+
 #### Assistant Coach Jeff Guild
 
 ![jeff]({{site.baseurl}}/images/jeff-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
@@ -196,21 +213,8 @@ Matt Willis is a man of many talents... father, doctor, engaging riding companio
 
 <div style="clear: both;"></div>
 
-#### Ride Leader and General Volunteer Dylan Riley
-
-![dylan_riley]({{site.baseurl}}/images/dylan.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-If traveling any sort of distance, Dylan Riley prefers to get there on two wheels whether it be by road bike, cross bike, cargo bike, tandem, e-bike, or mountain bike (mountain bike races excluded).  A former safe routes to school coordinator in San Francisco, Dylan has been involved with getting kids on bikes for years.  He is a builder of wheels, some of which are even round, a participant in races, usually not for last, and a father of two.  A veteran elementary school teacher of 13 years, he enjoys challenging kids to be their best and in the process is just happy to be along for the ride.
-
-<div style="clear: both;"></div>
-
-
-#### Ride Leader and General Volunteer Charlie Simpson
-
-![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him.
-
-<div style="clear: both;"></div>
+<!---
+#### Ride Leader and General Volunteer Charlie Simpson ![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him. <div style="clear: both;"></div>
+--->
 
 
