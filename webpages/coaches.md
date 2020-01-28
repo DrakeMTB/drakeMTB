@@ -115,6 +115,14 @@ Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last
 
 <div style="clear: both;"></div>
 
+#### Assistant Coach Bill Melton
+
+![bill]({{site.baseurl}}/images/billm-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+I bought my first mountain bike after I moved to San Francisco in 1990 for post-graduate education.  I started off biking every dirt path I could find in Golden Gate Park and then eventually ventured across the bridge to explore Marin's incredible terrain.  Several years later I moved to New Mexico and my mountain biking world opened up wide as the Southwest became my playground.  Eventually I found my way back to the Bay Area and have lived in Fairfax for the last 16 years and never tire of rolling on two wheels.  I have coached youth soccer for 9 years and am continually impressed with the ability of youth sports to challenge kids in ways that promote self-esteem and resilience.  Mountain bike racing and the Drake MTB team set the standard in this respect.  The commitment of the riders, coaches and parents is truly impressive and something I am excited to be a part of.  I really enjoyed riding with the team last year as a ride leader and look forward to serving as an assistant coach.
+
+<div style="clear: both;"></div>
+
 #### Assistant Coach Chris Kenton
 
 ![chris-k]({{site.baseurl}}/images/kenton-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
@@ -123,9 +131,17 @@ I'm Chris Kenton... I grew up in Sunnyvale, riding BMX bikes in the golden age o
 
 <div style="clear: both;"></div>
 
+#### Assistant Coach Chris Miller
+
+![chris]({{site.baseurl}}/images/chrism-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trails I kept wondering how many people knew about these... Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but in my mind there is no coaching like mountain bike coaching with these amazing drake athletes. 
+
+<div style="clear: both;"></div>
+
 #### Assistant Coach Chris Nelson
 
-![chris_nelson]({{site.baseurl}}/images/.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![chris_nelson]({{site.baseurl}}/images/chris_nelson.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Chris Nelson has been a competitive and recreational cyclist for over 35 years.  He raced on the road at UC Berkeley and took up mountain biking in the mid 1980s.  Mainly a lover of road cycling, Chris has recently fallen back in love with the dirt, especially since assisting with the White Hill MS MTB club last year and since becoming a sponsor, parent volunteer and now assistant coach at Drake.  He played lacrosse growing up (and was coached by his father) but took up cycling while at Cal and hasn't looked back.  He is overjoyed to be helping out this amazing program of awesome student riders, parents and coaches and he's especially proud to be following in his father's footsteps of being a youth sports coach.  He lives in San Anselmo and works in the residential real estate business. His son Liam races on the Drake Team.
 
@@ -149,51 +165,13 @@ Roll Pirates!
 
 <div style="clear: both;"></div>
 
-#### Assistant Coach Chris Miller
-
-![chris]({{site.baseurl}}/images/chrism-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trails I kept wondering how many people knew about these... Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but in my mind there is no coaching like mountain bike coaching with these amazing drake athletes. 
-
-<div style="clear: both;"></div>
-
-#### Assistant Coach Lynn Valdivia
-
-![lynn]({{site.baseurl}}/images/lynn-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine.
-
-<div style="clear: both;"></div>
+<!--- #### Assistant Coach Lynn Valdivia ![lynn]({{site.baseurl}}/images/lynn-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine. <div style="clear: both;"></div> --->
   
 #### Assistant Coach Karl Vavrek
 
 ![karl vavrek]({{site.baseurl}}/images/karl_coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Karl takes his bike everywhere.  But, all too often it just goes for a ride on the roof of his car (see pic).  Nonetheless, he rides as much as he can and is excited to be a ride leader for DrakeMTB for the first time this season.  He has some experience "Leading from Behind.”  While living in San Francisco (before he and his family moved to their first home on Porteous near our Deer Park trailhead), he was the Group Rides Coordinator for the Bicycle Trails Council of the East Bay for a couple years leading multi-club rides with Marin’s own WOMBATS. He loves trail work and he has raced, but only just to verify he was not meant to race competitively (and to say he went on a group ride with 299 other guys and finished before 150 of them… Ha!). But for an old guy, he does OK.  He’s Max’s dad and does architecture when not on his bike (or under it… inside his car, Moby).
-
-<div style="clear: both;"></div>
-
-#### Assistant Coach Ted Fehlhaber
-
-![ted]({{site.baseurl}}/images/ted-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
-
-<div style="clear: both;"></div>
-
-#### Assistant Coach Shawn Nelson
-
-![shawn]({{site.baseurl}}/images/shawn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after countless rides has stepped up to be an assistant coach. He grew up in Marin and has been riding these trails for a lot of years. Shawn is slow but only because he's fat and old. If you are looking for someone to ride next to who will make you feel better about your riding skills he's the guy. Fortunately, his one story always seems fresh, and his purple bike makes him easy to spot when he has accidentally rolled down a hill during a water break. If you see him during a ride say Howdy and possibly help him back up to the trail if needed.
-
-<div style="clear: both;"></div>
-
-#### Assistant Coach Bill Melton
-
-![bill]({{site.baseurl}}/images/billm-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-I bought my first mountain bike after I moved to San Francisco in 1990 for post-graduate education.  I started off biking every dirt path I could find in Golden Gate Park and then eventually ventured across the bridge to explore Marin's incredible terrain.  Several years later I moved to New Mexico and my mountain biking world opened up wide as the Southwest became my playground.  Eventually I found my way back to the Bay Area and have lived in Fairfax for the last 16 years and never tire of rolling on two wheels.  I have coached youth soccer for 9 years and am continually impressed with the ability of youth sports to challenge kids in ways that promote self-esteem and resilience.  Mountain bike racing and the Drake MTB team set the standard in this respect.  The commitment of the riders, coaches and parents is truly impressive and something I am excited to be a part of.  I really enjoyed riding with the team last year as a ride leader and look forward to serving as an assistant coach.
 
 <div style="clear: both;"></div>
 
@@ -210,6 +188,23 @@ Mitch Brown is in his twelfth year of teaching at Manor School in Fairfax. He ha
 ![matt]({{site.baseurl}}/images/matt-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Matt Willis is a man of many talents... father, doctor, engaging riding companion, and [man who used to race against Soviets on a bicycle during the Cold War years](http://articles.mcall.com/1988-05-29/sports/2628327_1_soviets-lap-four-riders).  Quick with a smile and encouragement, Matt is a very welcome addition to the Drake MTB coaching staff.
+
+<div style="clear: both;"></div>
+
+#### Assistant Coach Shawn Nelson
+
+![shawn]({{site.baseurl}}/images/shawn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after countless rides has stepped up to be an assistant coach. He grew up in Marin and has been riding these trails for a lot of years. Shawn is slow but only because he's fat and old. If you are looking for someone to ride next to who will make you feel better about your riding skills he's the guy. Fortunately, his one story always seems fresh, and his purple bike makes him easy to spot when he has accidentally rolled down a hill during a water break. If you see him during a ride say Howdy and possibly help him back up to the trail if needed.
+
+<div style="clear: both;"></div>
+
+
+#### Assistant Coach Ted Fehlhaber
+
+![ted]({{site.baseurl}}/images/ted-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
 
 <div style="clear: both;"></div>
 
