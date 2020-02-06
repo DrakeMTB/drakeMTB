@@ -10,11 +10,11 @@ permalink: /races/
 ## Race Schedule for 2020 Season
 (The race schedule is not finalized yet.  For the most up-to-date information, check the <a href="https://www.norcalmtb.org/races-2/#raceflyers" target="_blank">NorcalMTB race site</a>
 
-* <a href="#" target="_blank">Race #1 – Saturday, March 7 - Redding</a>
-* <a href="#" target="_blank">Race #2 – Saturday, March 21 - Petaluma</a>
-* <a href="#" target="_blank">Race #3 – Saturday, April 4 - Granite Bay</a>
-* <a href="#" target="_blank">Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA</a>
-* <a href="#" target="_blank">Race #5 – Saturday, May 2 - Six Sigma Ranch</a>
+* <a href="https://www.norcalmtb.org/wp-content/uploads/2020/02/RACE-1-SWASEY-2.6.2020-.pdf" target="_blank">Race #1 – Saturday, March 7 - Redding</a>
+* <a href="https://www.norcalmtb.org/wp-content/uploads/2020/01/RACE-2-Petaluma-CA-v2.1.pdf" target="_blank">Race #2 – Saturday, March 21 - Petaluma</a>
+* <a href="https://www.norcalmtb.org/wp-content/uploads/2020/01/RACE-3-v2.1.pdf" target="_blank">Race #3 – Saturday, April 4 - Granite Bay</a>
+* <a href="https://www.norcalmtb.org/wp-content/uploads/2020/02/RACE-4-25.pdf" target="_blank">Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA</a>
+* <a href="https://www.norcalmtb.org/wp-content/uploads/2020/01/RACE-5-v2.1.pdf" target="_blank">Race #5 – Saturday, May 2 - Six Sigma Ranch</a>
 * <a href="#" target="_blank">Norcal Championships – Sunday, May 17 - Six Sigma Ranch</a>
 
 *******
@@ -37,6 +37,8 @@ permalink: /races/
 ## What to Bring... [Race Kit contents]({{site.baseurl}}/images/race_kit_2019.JPG)  
 
 ## What to Wear...[Think about the weather]({{site.baseurl}}/images/what_to_wear_v2.pdf)  
+
+## [How scoring works]({{site.baseurl}}/images/MTB-Scoring-from-NICA_v4.pdf)  
 
 *******
 
