@@ -34,7 +34,7 @@ permalink: /emergency/
 |Ride Leader |Eric  Betz|	415.272.1059|
 |Ride Leader |Evan Marquit|	415.516.6304|
 |Ride Leader |Isabella Battig|	415.517.4919|
-|Ride Leader |Libby Caldwell|	|
+|Ride Leader |Libby Caldwell|	415.847.6157|
 |Ride Leader |Mackinzie Stanley|	415.867.4643|
 |Ride Leader |Nicole Palkovsky| 	415.717.5181|
 |Ride Leader |Philip Swett|   415.265.2802| 
