@@ -45,14 +45,14 @@ permalink: /races/
 # <a name="schedule"></a>Race Day schedules
 
  * [Varsity Girls]({{site.baseurl}}/images/race1_sched_girls_varsity.JPG)
- * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_jv.JPG)
+ * [JV Girls]({{site.baseurl}}/images/race1_sched_girls_JV.JPG)
  * [Sophomore Girls]({{site.baseurl}}/images/race1_sched_girls_soph.JPG)
  * [Frosh Girls]({{site.baseurl}}/images/race1_sched_girls_frosh.JPG)
 
 ******
 
  * [Varsity Boys]({{site.baseurl}}/images/race1_sched_boys_varsity.JPG)
- * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_jv.JPG)
+ * [JV Boys]({{site.baseurl}}/images/race1_sched_boys_JV.JPG)
  * [Sophomore Boys]({{site.baseurl}}/images/race1_sched_boys_soph.JPG)
  * [Frosh Boys]({{site.baseurl}}/images/race1_sched_boys_frosh.JPG)
 
