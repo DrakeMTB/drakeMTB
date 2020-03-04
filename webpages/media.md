@@ -14,6 +14,14 @@ permalink: /media/
 
 <img src="{{site.baseurl}}/images/media.jpg" align="right" alt="Drake MTB Media" style="margin: 0 0 10px 10px;">
 
+### 2020
+
+#### Photo & Video Collections
+
+##### Race #1 - Swasey Shred
+* <a href="https://youtu.be/TcbIYr9DjYk" target="_blank">Travis' course video: First Look @ Swasey course</a>
+
+
 ### 2019
 
 #### Photo & Video Collections
