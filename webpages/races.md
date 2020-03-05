@@ -19,9 +19,9 @@ permalink: /races/
 
 *******
 
-## [Volunteer Sign Up Sheet]()  
+## <a href="https://docs.google.com/spreadsheets/d/1QVQzQvSp15jKttCX98bNlioRb_dnvYn5TKH7uDNrmIU/edit#gid=1677563385" target="_blank">Volunteer Sign Up Sheet</a>
 
-## [Food Sign Up Sheet]()  
+## <a href="https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY/edit#gid=0" target="_blank">Food Sign Up Sheet</a>
 
 *******
 
