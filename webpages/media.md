@@ -19,6 +19,7 @@ permalink: /media/
 #### Photo & Video Collections
 
 ##### Race #1 - Swasey Shred
+* <a href="https://pamelapalma.smugmug.com/Sports/-Norcal-Mtb-Race-1-March-7th/i-DRRLMZM" target="_blank">Race photos (from Norcal)</a>
 * <a href="https://photos.google.com/share/AF1QipN01Mt5cba17F3VF1ukMLzCkTAfm0qt2CJYZZlTQGxHGssiN1fb4uVWefvn7VD-PA?key=RmJiY3hmTmpFXzdULVBjUDZlemY2QW5lNWhaVjlB" target="_blank">Race photos (several contributors)</a>
 * <a href="https://youtu.be/TcbIYr9DjYk" target="_blank">Travis' course video: First Look @ Swasey course</a>
 
