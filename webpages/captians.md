@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Captains for 2018-19
+title: Team Captains for 2020-21
 stitle: team_captains
 permalink: /captains/
 ---
@@ -9,24 +9,6 @@ permalink: /captains/
 The Drake team captains provide on-the-trail and on-campus leadership for a team with an unparalleled record of consistency and excellence over the years.  Drake captains are chosen for their integrity and leadership, helping the coaches with mentoring and support for such a large and diverse racing team.  Perhaps most importantly, the captains are always available as resources for the other Riders on the Drake campus during school hours, something that coaches and parents cannot provide.  And if captains are willing, they are encouraged to share their phone numbers so other Riders can text them for help.  
 
 ## The following individuals are currently Captains for the Drake MTB team:
-
-#### Audrey Fehlhaber
-
-![Audrey]({{site.baseurl}}/images/audrey_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-When I joined the mountain biking team as a freshman, I had no idea what I was getting into. Little did I know that within a few short months, I would meet some of my closest friends, push myself harder than I thought possible, and find a group so tightly knit that I would consider it my second family. As a senior racing varsity this year, my motives for riding haven’t changed; I ride to be outside, to enjoy the company of this supportive team, to test the limits of my own strength, and because of my love for the sport. Mountain biking has brought me the satisfaction of victory and redemption, balanced by the frustration of sick days and broken chains. Through it all, I’ve learned to count on a group of peers, coaches, and parents who have the same passion for riding that I do; I owe my successes, large and small, to the entirety of the Drake MTB community. As a captain, I hope to help others learn to appreciate mountain biking, both the good and the bad, as much as I do. Here’s to another season full of the spirit of howdy!
-
-<div style="clear: both;"></div>
-
-<!--- #### Justine McOuat ![Justine]({{site.basurl}}/images/justine_captain.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} I knew I wanted to join the mountain bike team since middle school, and I am so glad I did!  This community has given me amazing friends, countless laughs, and a group of supporters I can always count on.  I hope as a captain I am able to give back even a fraction of what the team gives to me. <div style="clear: both;"></div> --->
-
-#### Sasha Plichta
-
-![Sasha]({{site.basurl}}/images/sasha-captain.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-I joined the team as a freshman because I saw it as a natural continuation of the experiences I had had riding in middle and elementary school. It was my first real experience with competitive cycling and I quickly came to realize that the mountain bike team is so much more than just a collection of like-minded athletes. I’ve found some of my best friends through the team, and though I now ride more for enjoyment than the competition, I take great pleasure in being able to foster the same community that I found for the next generation of riders through my role as a captain.
-
-<div style="clear: both;"></div>
 
 #### Maggie Nelson
 
@@ -42,9 +24,31 @@ I’ve been biking for as long as I can remember. Thanks to my dad, I was on my 
 
 I originally got into mountain biking because of my dad. He has been riding for many years and has been encouraging me to go with him for as long as I can remember. He was the reason I originally started mountain biking, and without him I probably wouldn’t even be on the team. I have been racing and riding with the Drake Mountain Bike team for the past two years. Before that I rode with my dad and my friends for about three years, but was never super into it. Joining the team at Drake helped me to realize how fun mountain biking can be and how passionate I am about this sport. The wonderful community only adds to my excitement that comes along with the beginning of each new season. This year I am going to race my first year in junior varsity; and I am excited for the challenges and hardships that will come along with the new category, but I am confident that my supportive teammates, coaches and parents will help me overcome them.  Art is everywhere!
 
+<div style="clear: both;"></div>
+
+#### Townsend Moore
+
+![Townsend]({{site.baseurl}}/images/townsend_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+When I was younger, I loved the outdoors and being physically active, so when I began mountain biking in 6th grade, I immediately fell in love with the sport. For me, though, mountain biking is more than simply a sport. It is a place where I can go to ground myself, to orientate, and collect my thoughts. It is home to a large and friendly community. It has shown me how to overcome adversity, how to get back up from a fall, and not just a physical one, but the emotional ones that everyone inevitably faces on or off the bike.
+ 
+Over the six years since I began mountain biking, and the three years since I joined the Drake mountain bike team, I have developed a deep appreciation for the unique aspects of biking; those that represent the pillars of our community, that allows, encourages, and supports me. One such pillar is our expansive access to nature, via our local parks and trails. They allow us to venture away from civilization and connect with the flora and fauna, giving us an awe-inspiring place to ride our bikes. 
+ 
+Even with that, ultimately, for me, what makes this sport so extraordinary is the team. Coaches and riders provide guidance and support, facilitating growth and improvement in members not only as riders, but as students, by giving them an opportunity to push themselves outside of their comfort zone, in a way where they have the support needed to have positive growth. 
+ 
+Through thick and thin the team has been there for me, and so in this upcoming season, I’m excited and grateful for the opportunity to be there for the team. 
 
 <div style="clear: both;"></div>
 
+#### Jonas Pitcha
+
+![Jonas]({{site.baseurl}}/images/jonas_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+I have been biking for as long as I can remember. What started out as my parents dragging me on rides with them, over time developed into a love for the sport. I rode all through middle school and as a Freshman at Drake joining the bike team was a natural next step. I was not sure exactly what to expect from the team but was positively surprised to find such a tightly knit group of riders. Over the years at Drake, the team has managed to foster a unique community that is extremely accepting, respectful, and shares a love for riding. This community is what makes our team so special, and what made me want to contribute and give back.
+ 
+Over the past two years, I have met some of my closest friends on the team and the camaraderie has helped me grow into a better person. As a captain, I am committed to maintaining and deepening our incredible community and fostering a passion for the sport in young riders. Roll Pirates! 
+
+<div style="clear: both;"></div>
 
 **Drake Captains** also meet a stringent set of **requirements** above and beyond showing up to team practices and races:
 
