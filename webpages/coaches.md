@@ -42,7 +42,7 @@ In recent years, Drake has had more than seventy Riders on the team.  Keeping su
  * Celebrate effort and victories
  * Respect the land management rules whether with the team or not
 
-**Two Co-Head Coaches**  
+**Three Co-Head Coaches**  
 The co-head coaches are involved with every aspect of the team, but have primary responsibility for the following:
 
  * Set up the ride calendar for the season
@@ -99,21 +99,29 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Annual Waiver
  * Annual Risk Management webinar 1 and test
 
-## Your Coaches, General Volunteer Ride Leaders, and Team Mechanics for the 2018 Season
+## Your Coaches, General Volunteer Ride Leaders, and Team Mechanics for the 2021 Season
 
-#### Co-Head Coach Laura Childress
+#### Co-Head Coach Chris Nelson
 
-![Laura]({{site.baseurl}}/images/laura.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![chris_nelson]({{site.baseurl}}/images/chris_nelson.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-I remember the first time I rode my bike and the exact moment my father let go the saddle of my blue Schwinn and I rode off untethered. Fear and excitement would soon turn into a new sense of freedom and self-confidence.  Bike riding opened a door to a whole new world of exploration, which would lead me on many secret adventures with my other bike-riding friends. Without a word to our parents, we would pack a lunch and set off on a day long adventure.  As long as we were home in one piece before the streetlights came on, we were good.  With no helmets, cell phones or GPS navigation we found our way from the suburbs, through the city to the ferry and over to the island.  Now, in a world where our children are escorted to and from school and to all their organized events, it’s hard to imagine our own children doing the same thing. That’s why we wanted to create a program to make accessible the freedom we enjoyed when we were kids. So, not only will your child learn about the possibilities out there, they will also discover the possibilities within themselves. For 11 years, I have been the director, ride leader, adventurer, medic, mechanic and mentor at Bike Adventures for Kids. I am a Registered Nurse, Wilderness Rescue and Remote First Aid certified and a certified CPR/AED Professional Rescuer and Health Care Provider.   
+Chris Nelson has been a competitive and recreational cyclist for over 35 years. He raced on the road at UC Berkeley and took up mountain biking in the mid 1980s. Mainly a lover of road cycling, Chris has recently fallen back in love with the dirt, especially since becoming a sponsor, parent volunteer and now Head Coach at Drake. He rides weekly with his other two head coaches and can often be found riding his MTB or road bike on many of the awesome trails and roads throughout Marin County. He played lacrosse growing up (and was coached by his father) but took up cycling while at Cal and hasn’t looked back. He is honored and excited to be helping out this amazing program of awesome student riders, parents and coaches and he’s especially proud to be following in his father’s footsteps of being a youth sports coach. He lives in San Anselmo and works in the residential real estate business. His son Liam races on the team.
 
 <div style="clear: both;"></div>
 
-#### Co-Head Coach Rob Reed
+#### Co-Head Coach Dylan Riley
 
-![Rob]({{site.baseurl}}/images/coach-rob2.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![dylan_riley]({{site.baseurl}}/images/dylan.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-Rob Reed has been a Drake Mountain Bike Team parent and ride leader for the last five years, including the last three seasons as co-head Coach.  He has been an avid biker all of his life, and fell in love with mountain biking in the Bay Area when he moved to San Francisco in 1989 fresh out of college.  Rob is a stay-at-home dad and puts more miles on his bike than his car.  When asked what kind of biker he is – road or mountain? – Rob is likely to answer “yes”. DrakeMTBCoaches@gmail.com  
+If traveling any sort of distance, Dylan Riley prefers to get there on two wheels whether it be by road bike, cross bike, cargo bike, tandem, e-bike, or mountain bike (mountain bike races excluded).  A former safe routes to school coordinator in San Francisco, Dylan has been involved with getting kids on bikes for years.  He is a builder of wheels, some of which are even round, a participant in races, usually not for last, and a father of two.  A veteran elementary school teacher of 13 years, he enjoys challenging kids to be their best and in the process is just happy to be along for the ride.
+
+<div style="clear: both;"></div>
+
+#### Co-Head Coach Shawn Nelson
+
+![shawn]({{site.baseurl}}/images/shawn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after countless rides has stepped up to be an assistant coach. He grew up in Marin and has been riding these trails for a lot of years. Shawn is slow but only because he's fat and old. If you are looking for someone to ride next to who will make you feel better about your riding skills he's the guy. Fortunately, his one story always seems fresh, and his purple bike makes him easy to spot when he has accidentally rolled down a hill during a water break. If you see him during a ride say Howdy and possibly help him back up to the trail if needed.
 
 <div style="clear: both;"></div>
 
@@ -140,23 +148,6 @@ I'm Chris Kenton... I grew up in Sunnyvale, riding BMX bikes in the golden age o
 Growing up in the Sierra, or growing older anyway, we didn’t realize we were mountain biking. We were just biking.... in the mountains. I can’t remember spending much time inside. Four seasons a year we were in the elements with our crew and it got ugly. Our poor parents, remember that, let us ride wild. When I moved to santa Cruz in the 90’s and found clipless pedals I fell in love. When I moved to Marin and began exploring trails I kept wondering how many people knew about these... Little did I know. I co-started the cross country and track team at manor school while coaching little league and girls softball, but in my mind there is no coaching like mountain bike coaching with these amazing drake athletes. 
 
 <div style="clear: both;"></div>
-
-#### Assistant Coach Chris Nelson
-
-![chris_nelson]({{site.baseurl}}/images/chris_nelson.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Chris Nelson has been a competitive and recreational cyclist for over 35 years.  He raced on the road at UC Berkeley and took up mountain biking in the mid 1980s.  Mainly a lover of road cycling, Chris has recently fallen back in love with the dirt, especially since assisting with the White Hill MS MTB club last year and since becoming a sponsor, parent volunteer and now assistant coach at Drake.  He played lacrosse growing up (and was coached by his father) but took up cycling while at Cal and hasn't looked back.  He is overjoyed to be helping out this amazing program of awesome student riders, parents and coaches and he's especially proud to be following in his father's footsteps of being a youth sports coach.  He lives in San Anselmo and works in the residential real estate business. His son Liam races on the Drake Team.
-
-<div style="clear: both;"></div>
-
-#### Assistant Coach Dylan Riley
-
-![dylan_riley]({{site.baseurl}}/images/dylan.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-If traveling any sort of distance, Dylan Riley prefers to get there on two wheels whether it be by road bike, cross bike, cargo bike, tandem, e-bike, or mountain bike (mountain bike races excluded).  A former safe routes to school coordinator in San Francisco, Dylan has been involved with getting kids on bikes for years.  He is a builder of wheels, some of which are even round, a participant in races, usually not for last, and a father of two.  A veteran elementary school teacher of 13 years, he enjoys challenging kids to be their best and in the process is just happy to be along for the ride.
-
-<div style="clear: both;"></div>
-
 
 #### Assistant Coach Jeff Guild
 
@@ -192,15 +183,6 @@ Mitch Brown is in his twelfth year of teaching at Manor School in Fairfax. He ha
 Matt Willis is a man of many talents... father, doctor, engaging riding companion, and [man who used to race against Soviets on a bicycle during the Cold War years](http://articles.mcall.com/1988-05-29/sports/2628327_1_soviets-lap-four-riders).  Quick with a smile and encouragement, Matt is a very welcome addition to the Drake MTB coaching staff.
 
 <div style="clear: both;"></div>
-
-#### Assistant Coach Shawn Nelson
-
-![shawn]({{site.baseurl}}/images/shawn-coach.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Shawn Nelson has been a ride leader and Shwag guy now for 3 years and after countless rides has stepped up to be an assistant coach. He grew up in Marin and has been riding these trails for a lot of years. Shawn is slow but only because he's fat and old. If you are looking for someone to ride next to who will make you feel better about your riding skills he's the guy. Fortunately, his one story always seems fresh, and his purple bike makes him easy to spot when he has accidentally rolled down a hill during a water break. If you see him during a ride say Howdy and possibly help him back up to the trail if needed.
-
-<div style="clear: both;"></div>
-
 
 #### Assistant Coach Ted Fehlhaber
 
