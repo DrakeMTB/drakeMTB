@@ -53,7 +53,7 @@ Over the past two years, I have met some of my closest friends on the team and t
 **Drake Captains** also meet a stringent set of **requirements** above and beyond showing up to team practices and races:
 
 **Passion and excitement for the team and the sport**  
-Great captains are passionate captains.  The spirit of the team drives our success; captains are constant ambassadors for the team and the sport, so taking the time to talk to anyone about the team, mountain biking, trail advocacy, girls on bikes, etc, is important for the future of the team.  Captains also show excitement for team rides and team events; if the people Riders look up to are excited about going to pelo and yoga and races, then they are too.
+Great captains are passionate captains.  The spirit of the team drives our success; captains are constant ambassadors for the team and the sport, so taking the time to talk to anyone about the team, mountain biking, trail advocacy, girls on bikes, etc, is important for the future of the team.  Captains also show excitement for team rides and team events; if the people riders look up to are excited about attending workouts at Pelo, Yoga classes at Marin Power Yoga and participating in the races, then they are too.
 
 **Knowing the rules**  
 All captains are asked to read the NICA RuleBook so that they can help coaches and ride leaders with the task of keeping the whole team working within the specified league rules.  This is important for training rides and races; for example, a Rider who accepts mechanical assistance during a race can accrue a costly point penalty, and a Rider who rides illegal trails can be disqualified from racing.  
