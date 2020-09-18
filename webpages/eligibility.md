@@ -7,13 +7,13 @@ permalink: /eligibility/
 
 # Drake MTB Eligibility Requirements
 
-The Drake mountain bike team allows any high school rider who is willing to make the time and effort to learn the sport of mountain biking and participate in races join the team, with the following requirements.
+The Drake mountain bike team allows any high school rider who is willing to make the time and effort to learn the sport of mountain biking, and participate in races, to join the team with the following requirements.
 
 If you decide to join the team, you as a rider commit to the following:
 
 * No participation in Spring sports
 
- * Attend 2 practices per week (not including Yoga) and 3 of 6 races.
+ * Attend 2 practices per week (not including Yoga or Pelo) and 3 of 6 races.
 
  * Participate in The Drake MTB hill climb (run as a pre season and postseason event).  This is an activity used to determine your physical ability, and you must complete [this ride](https://www.strava.com/routes/4969427) in 25 minutes or less.  If you are new to the sport, we strongly recommend trying this route and checking your fitness level prior to your commitment to team participation.
 
