@@ -5,19 +5,20 @@ stitle: drake_mtb_coaches
 permalink: /coaches/
 ---
 
-
+<!---
 * [Head Coach Pitzone Assignments on Saturday March 7th at Redding]({{site.baseurl}}/images/coaches_master_redding_2020.JPG)
 * [Asst Coach Pitzone Assignments on Saturday March 7th at Dylan Riley's house]({{site.baseurl}}/images/asst_coaches_mastersched_redding_2020.JPG)
 * [Master Pitzone Schedule on Saturday March 7th in Timbuktu]({{site.baseurl}}/images/pitzone_master_sched_Redding_2020.JPG)
+--->
 
 <!--- * Call-Ups Saturday May 11th at Six Sigma ([google sheets version](https://docs.google.com/spreadsheets/d/1XgLQOwrstUlZTfAbY-p3JrsAx0SSiK-7OeeCxS5_JM8/edit?usp=sharing))([printable JPG version]({{site.baseurl}}/images/call_ups_six_sigma_2_2019.JPG))
 * [GoPro video of Tehachapi Course](https://www.youtube.com/watch?v=v6Zmzol7gFc)
 * [MTBProject Map of Tehachapi Course](https://www.mtbproject.com/trail/7034310/nica-socal-hs-cycling-league-tehachapi-race-course)
 * [Call Ups for Sunday May 19th at Tehachapi]({{site.baseurl}}/images/states_callups_2019_v2.JPG)
 * [Racer/Pitzone Schedules on Sunday May 19th at Tehachapi]({{site.baseurl}}/images/racers_master_sched_states_2019.pdf)
---->
 
 [<strong>Link to Team Event Sign-ups for Coaches and Ride Leaders</strong>](https://docs.google.com/spreadsheets/d/1ymmh-pj4O3mFQSaGd1BWIbhSXDGLojX8_tkCi7rpaSM/edit#gid=0)  
+--->
 
 <!--- 
 [NICA Online Incident Report Form](https://redcap01.brisc.utah.edu/ccts/redcap/surveys/?s=E8XX9FTNHP&athlete_id=99999)
@@ -99,7 +100,7 @@ Mountain bikes are complex mechanical devices with many points of failure.  Ride
  * Annual Waiver
  * Annual Risk Management webinar 1 and test
 
-## Your Coaches, General Volunteer Ride Leaders, and Team Mechanics for the 2021 Season
+## Your Coaches, General Volunteer Ride Leaders, and Team Mechanics for the 2020-2021 Season
 
 #### Co-Head Coach Chris Nelson
 
