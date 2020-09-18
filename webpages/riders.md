@@ -23,7 +23,7 @@ permalink: /riders/
 * [Back pain? Do this!]({{site.baseurl}}/images/physio_notes_2017.pdf)
 
 <a name="pelo"></a>
-**Pelo Rules for 2019**  
+**Pelo Rules for 2020/2021**  
 * Make sure you have set up a Pelo account here [first](https://www.pelofitness.com/firstride); you only need to do this once at the beginning of the season.
 * [<strong>SIGN UP WITH PELO USERNAME HERE</STRONG>](https://docs.google.com/spreadsheets/d/1dFe4KOD_Rx3vlWvJLmuRftxnuOvZliAjoSk6S6Ckg9g/edit#gid=1463035279)
 * Sign-ups are first-come, first-served... if you can't spell your Pelo Username properly, we cannot reserve your bike
