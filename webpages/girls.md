@@ -25,28 +25,9 @@ Also take a look at this [great NorCal produced video](https://m.youtube.com/wat
 
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
-#### Audrey Fehlhaber - senior
+#### Joylyn “Mimi” Freund - senior
 
-![pic of Audrey](../images/audrey_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![pic of Mimi](../images/girls_Mimi.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
-When I joined the mountain biking team as a freshman, I had no idea what I was getting into. Little did I know that within a few short months, I would meet some of my closest friends, push myself harder than I thought possible, and find a group so tightly knit that I would consider it my second family. As a senior racing varsity this year, my motives for riding haven’t changed; I ride to be outside, to enjoy the company of this supportive team, to test the limits of my own strength, and because of my love for the sport. Mountain biking has brought me the satisfaction of victory and redemption, balanced by the frustration of sick days and broken chains. Through it all, I’ve learned to count on a group of peers, coaches, and parents who have the same passion for riding that I do; I owe my successes, large and small, to the entirety of the Drake MTB community. As a captain, I hope to help others learn to appreciate mountain biking, both the good and the bad, as much as I do. Here’s to another season full of the spirit of howdy!
+The first time I ever rode a mountain bike was during the first team ride of my season, freshman year. Immediately, I knew this would be the sport I would stay with throughout high school and beyond. The people I met, the friends I made, the community that surrounded me was full of supportive, encouraging, fun people! Everyone on the team is there for each other. One of my favorite parts of the races is to walk the course with some team members, cheering for those currently racing. As part of the team, I learned how to push myself in ways I hadn’t before, every pedal stroke making me stronger, and the feeling of reaching the top of the mountain was one of the best I’ve ever felt! I love being able to be outdoors with this sport, exploring new territory and improving skills on the bike, both up and downhill. Joining the Drake Mountain Bike Team was one of the best decisions I’ve made. Nothing feels better than feeling the success of a ride or a race when surrounded by an entire community lifting you up.
 
-<div style="clear: both;"></div>
-
-****
-
-#### Ceci Hellman - senior
-
-![pic of Ceci](../images/girls_ceci.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-My name is Ceci Hellman and I am a sophomore on the Drake mountain biking team. Freshman year was my first year mountain biking. I am really grateful for the mountain biking community. Being on such a kind and supportive team has helped me improve and become a better mountain biker. At the beginning of my first season, I was really nervous about the races, but  you are just encouraged to try your best and have fun. I started mountain biking because my parents encouraged me to get more involved with sports, and I thought it seemed really fun. Now mountain biking is one of my favorite activities! I love being on the drake mountain biking team!
-
-<div style="clear: both;"></div>
-
-****
-
-#### Justine McOuat - senior
-
-![pic of Justine](../images/justine_girls.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-I'm Justine McOuat, currently a sophomore at Drake, and I don't know exactly where I would be without the beautiful Drake Mountain Biking Team. Or let alone, biking in general. I started mountain biking in the summer after 6th grade, after I tried to join a mountain biking club and was shut down by a boy saying "you know this is for advanced riders, right?". Boy, did that tick me off, but man did it push me to prove to him that he was an idiot. I road with my dad and did a mountain bike camp, and then turned into a counselor at that very same camp, where I actively support little kids (especially lil ladies) on the trails and off. That camp was the opening of the ever flourishing mountain biking community, and all of its wonder. I've know since middle school that I was going to be on the Drake team no matter what, so I did. One of the best decisions of my life. The coaches and my teammates have always been so caring and supportive. They helped me fall in love with the sport even more. I'd consider them my second family, and some of my best friends. A special thank you to Rob and Otis for being the best coaches I've ever known, and for starting this 50% by 2025 movement. 
