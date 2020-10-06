@@ -35,7 +35,7 @@ The first time I ever rode a mountain bike was during the first team ride of my 
 
 #### Maggie Nelson - senior
 
-![pic of Maggie](../images/maggie_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+![pic of Maggie](../images/girls_Maggie.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
 Mountain biking has been a part of my life ever since I was big enough to ride a bike. It's evolved from weekend rides up Five Corners with my dad to cruising over to Alpine Dam with my friends. Whether I'm pushing myself or just taking it easy, mountain biking is a great escape from the stress that comes with being in high school. With so much to figure out and so many things to do, finding time to step back can be hard, and mountain biking provides a space for me to do that. Not only do I get a respite from the woes of teenage life, but I also get to spend time with amazing people. The mountain biking community has always been there for me, even when I didn't know it. I've met some of my closest friends and had some of the best times riding my bike, and I can't imagine my life without my feet clipped into pedals.
 
