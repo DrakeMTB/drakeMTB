@@ -39,4 +39,11 @@ The first time I ever rode a mountain bike was during the first team ride of my 
 
 Mountain biking has been a part of my life ever since I was big enough to ride a bike. It's evolved from weekend rides up Five Corners with my dad to cruising over to Alpine Dam with my friends. Whether I'm pushing myself or just taking it easy, mountain biking is a great escape from the stress that comes with being in high school. With so much to figure out and so many things to do, finding time to step back can be hard, and mountain biking provides a space for me to do that. Not only do I get a respite from the woes of teenage life, but I also get to spend time with amazing people. The mountain biking community has always been there for me, even when I didn't know it. I've met some of my closest friends and had some of the best times riding my bike, and I can't imagine my life without my feet clipped into pedals.
 
+<div style="clear: both;"></div>
+
+#### Maya Riley - junior
+
+![pic of Maya](../images/girls_Maya.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+Freshman year on the team was my first year of mountain biking ever. It started out sort of rocky (haha puns) but as time went on I grew to love it.  It became a way to have mini adventures on the weekends and after school, as well as just a fun thing to do with pals. Friendly competition and all. Not to mention, pushing yourself to go uphill as fast as you can feels pretty great when you get to the top. There's a nice view, a rush of adrenaline, a real satisfying feeling and then you can shoot downhill as fast as you can go without running over hikers and other riders or stressing out horses. Races were intimidating at first, but after the first few, I started to look forward to them. Mountain biking has become such a big part of my life. I met really friendly people on the team, as well as just out and about on the trails. The team opened up a very rad community that I am so grateful to be a part of.
 
