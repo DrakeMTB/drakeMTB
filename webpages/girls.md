@@ -31,6 +31,7 @@ For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
 The first time I ever rode a mountain bike was during the first team ride of my season, freshman year. Immediately, I knew this would be the sport I would stay with throughout high school and beyond. The people I met, the friends I made, the community that surrounded me was full of supportive, encouraging, fun people! Everyone on the team is there for each other. One of my favorite parts of the races is to walk the course with some team members, cheering for those currently racing. As part of the team, I learned how to push myself in ways I hadn’t before, every pedal stroke making me stronger, and the feeling of reaching the top of the mountain was one of the best I’ve ever felt! I love being able to be outdoors with this sport, exploring new territory and improving skills on the bike, both up and downhill. Joining the Drake Mountain Bike Team was one of the best decisions I’ve made. Nothing feels better than feeling the success of a ride or a race when surrounded by an entire community lifting you up.
 
+<div style="clear: both;"></div>
 
 #### Maggie Nelson - senior
 
