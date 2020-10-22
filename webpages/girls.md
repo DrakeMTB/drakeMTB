@@ -25,6 +25,22 @@ Also take a look at this [great NorCal produced video](https://m.youtube.com/wat
 
 For more on our amazing #DrakeMTBGirls, see pictures and text below!
 
+#### Tiger Macphail - junior
+
+![pic of Tiger](../images/girls_Tiger.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+I've been mountain biking since about 7th grade really. Before that point in time, all I rode bikes for really was getting to school. When I first started mountain biking I was afraid of falling. As I've found people to ride with though, that part of it just up and vanished. I've found the community aspect in it to drive me forward. That sense of community resonated with me in White Hill's club, which spurred me on to the team here. With this great community, I've met some really rad friends. Getting out into nature has always been fun to me. It's even more fun with friends and the reckless abandon I find in myself when biking. I've always had a competitive spirit in me as well so the races have all provided me with an environment to give it my all and get some EPIC panoramas. I may still fall at least once a year, but all that leaves behind is literally a smile.
+
+<div style="clear: both;"></div>
+
+#### Sadie Marquit - senior
+
+![pic of Sadie](../images/girls_Sadie.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
+
+When I was little, I hated mountain biking and detested being dragged out on rides by my parents. As I got older, my hatred of the sport faded. By the time my freshman year rolled around, I was feeling a little lost, so on a whim I decided to join the mountain bike team. I had no idea that I had just made one of the best decisions of my life. Through the team, I’ve been able to explore miles of beautiful hills and mountains, push myself physically and mentally, meet tons of new people, and most importantly, I’ve become part of an extremely tight knit, welcoming, and supportive community. When the stress of high school gets really overwhelming, there is nothing better than letting your tires hit the dirt with some friends. I’m endlessly grateful for every ride, and each one is a tiny adventure that I will treasure forever.
+
+<div style="clear: both;"></div>
+
 #### Joylyn “Mimi” Freund - senior
 
 ![pic of Mimi](../images/girls_Mimi.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
