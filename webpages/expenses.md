@@ -5,7 +5,7 @@ stitle: expenses
 permalink: /expenses/
 ---
 # Racer Expenses
-Mountain biking is a resource-intensive sport. The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel. The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLSeWkgcqptHvln2eCe7VbFGzbxWAns1AbNXNwN6X0rM6yG6ojg/viewform).
+Mountain biking is a resource-intensive sport. The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel. The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLScTjtUG_yrK38Pkx-lIJacYb7sYB5CFP_i67DQREe85AHTGaw/viewform?usp=sf_link).
 
 Item  | Cost
 :-----------| ----------:
