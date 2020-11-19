@@ -49,7 +49,7 @@ div.sponsor span.caption {
     <span class="caption">(415) 847-3038<br>Official Team Smoothies</span>
   </div>
   <div class="w3-third sponsor">
-    <a href="https://www.sunshinebicycle.com" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"><br /></a>
+    <a href="https://www.sunshinebicycle.com/hsmtb21" target="_blank"><img src="/images/logo_Sunshine2.png" alt="Sunshine Bicycles" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 459-3334<br>Official Team Bike Shop</span>
   </div>
   <div class="w3-third sponsor">
