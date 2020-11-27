@@ -5,7 +5,7 @@ stitle: expenses
 permalink: /expenses/
 ---
 # Racer Expenses
-Mountain biking is a resource-intensive sport. The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel. The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our [Scholarship program](https://docs.google.com/forms/d/e/1FAIpQLScTjtUG_yrK38Pkx-lIJacYb7sYB5CFP_i67DQREe85AHTGaw/viewform?usp=sf_link).
+Mountain biking is a resource-intensive sport. The following information gives you guidelines on what to expect to spend on equipment, team dues, and travel. The Drake mountain bike team makes every effort to be inclusive, so if the following approximate expenses are outside of what you feel your household can afford, then please check out our Scholarship program.
 
 Item  | Cost
 :-----------| ----------:
@@ -27,7 +27,7 @@ Aproximate Total  | 2,800
 As a club sport, the mountain bike team does not receive school funding (except for about $1,000 from the Drake Fund each year), so annual dues are the financial foundation of the team. Dues for the 2020/2021 season are $350 (a substantial discount over years past due to COVID-19 impacts to our racing routine). About $75 of the dues go toward league race fees, and the rest help pay for coaches stipends and expenses, equipment, and activities. See [here for dues and payment details](https://docs.google.com/document/d/1lSemjzSGjtNW6NN2r0SL7BZzZinsvTsERGlHIA_sqp8/edit?usp=sharing).
 
 **Scholarships**
-If dues are outside of what you feel your family can afford, scholarships are available. Every year the team works to reserve funds from our team sponsorships for team members in need of financial assistance. Scholarship funds are available to those families who would like assistance in paying for some of the expenses associated with team participation. We trust our community members to be the best judges of their own need and to reserve these funds for those in greatest need. It is an honor-based system and scholarship awards do not include a financial review of your household revenue and expenses. The scholarship application is [here](https://docs.google.com/forms/d/e/1FAIpQLScTjtUG_yrK38Pkx-lIJacYb7sYB5CFP_i67DQREe85AHTGaw/viewform?usp=sf_link). Applications are due by November 23, 2020.
+If dues are outside of what you feel your family can afford, scholarships are available. Every year the team works to reserve funds from our team sponsorships for team members in need of financial assistance. Scholarship funds are available to those families who would like assistance in paying for some of the expenses associated with team participation. We trust our community members to be the best judges of their own need and to reserve these funds for those in greatest need. It is an honor-based system and scholarship awards do not include a financial review of your household revenue and expenses. Applications are due by November 23, 2020.
 
 **Bicycle**  
 If a rider does not already have a high-quality mountain bike, we suggest that you spend at least $1,000 on a used bike see <http://www.craiglist.org> or <http://www.pinkbike.com>  for excellent used bicycles and $1,500 on a new bike.  Most of the other racers will be on hard-tailed 29-inch wheel bikes, so this is a good configuration to look for; dual-suspension bikes tend to be heavier and more expensive, neither of which tend to enhance the cross-country racing experience.  
