@@ -20,12 +20,10 @@ permalink: /emergency/
 |Assistant Coach |Karl Vavrek|  415.613.7940|
 |Assistant Coach |Eric Betz|  415.272.1059|
 |Assistant Coach |Mitch Brown|  415.887.8536|
-|Assistant Coach |Ted Fehlhaber|  415.846.4510|
 | | | |
 |Ride Leader |Brian Karr|  415.710.7677|
 |Ride Leader |Bridget Clark|  415.370.0740|
 |Ride Leader |Darin Jackson|  415.531.0074|
-|Ride Leader |Dolores Mosqueda|  415.205.1501|
 |Ride Leader |Emily Karr|  415.310.8612|
 |Ride Leader |Nicole Palkovsky|  415.717.5181|
 |Ride Leader |Sam Lueck|  415.465.0127|
