@@ -185,14 +185,6 @@ Matt Willis is a man of many talents... father, doctor, engaging riding companio
 
 <div style="clear: both;"></div>
 
-#### Assistant Coach Ted Fehlhaber
-
-![ted]({{site.baseurl}}/images/ted-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
-
-Ted Fehlhaber got his first mountain bike so he could explore Marin in 1999 and has not stopped.  Over the years, he has volunteered for Safe Routes to School, MCBC, Access for Bikes and Friends of Tamarancho. "The more young people we can get riding and enjoying the outdoors, the better.  Its a great life skill, and fun too.”
-
-<div style="clear: both;"></div>
-
 <!---
 #### Ride Leader and General Volunteer Charlie Simpson ![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him. <div style="clear: both;"></div>
 --->
