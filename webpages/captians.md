@@ -40,7 +40,7 @@ Through thick and thin the team has been there for me, and so in this upcoming s
 
 <div style="clear: both;"></div>
 
-#### Jonas Pitcha
+#### Jonas Plichta
 
 ![Jonas]({{site.baseurl}}/images/jonas_captain.jpg){:style="float: left;margin-right: 12px;margin-bottom: 12px;"}
 
