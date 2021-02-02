@@ -17,15 +17,16 @@ permalink: /emergency/
 |Assistant Coach |Chris Kenton|  415.302.1318|
 |Assistant Coach |Chris Miller|  415.225.2184|
 |Assistant Coach |Jeffrey Guild|  510.708.7701|
-|Assistant Coach |Karl Vavrek|  415.613.7940|
-|Assistant Coach |Eric Betz|  415.272.1059|
 |Assistant Coach |Mitch Brown|  415.887.8536|
 | | | |
+|Ride Leader |Ben Wolin|  415.699.7668|
+|Ride Leader |Todd Schopp|  415.987.0333|
+|Ride Leader |Liam Guild|  925.876.8278|
 |Ride Leader |Brian Karr|  415.710.7677|
 |Ride Leader |Bridget Clark|  415.370.0740|
 |Ride Leader |Darin Jackson|  415.531.0074|
 |Ride Leader |Emily Karr|  415.310.8612|
-|Ride Leader |Nicole Palkovsky|  415.717.5181|
+|Ride Leader |Nate McKitterick|  650.787.7478|
 |Ride Leader |Sam Lueck|  415.465.0127|
 | | | |
 |Parent Committee co-President |Genise Swain|  415.265.9523|
