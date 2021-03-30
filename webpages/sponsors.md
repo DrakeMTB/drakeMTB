@@ -80,37 +80,43 @@ div.sponsor span.caption {
 
 <div class="sponsorGroup associate">
   ASSOCIATE<br />
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
     <a href="https://www.facebook.com/Java-Hut-Fairfax-138862579457427" target="_blank"><img src="/images/logo_JavaHut.png" alt="Java Hut" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 457-4581<br>Coffee + Bikes</span>
   </div>
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
     <a href="https://marinpoweryoga.com" target="_blank"><img src="/images/logo_MPY.jpg" alt="Marin Power Yoga" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 683-1191<br>Marin Power Yoga</span>
   </div>
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
     <a href="https://www.pelofitness.com" target="_blank"><img src="/images/pelo-logo.jpg" alt="Pelo Fitness" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 459-7356<br>Pelo Fitness</span>
   </div>
-  <div class="w3-quarter sponsor">
+</div>
+<div class="sponsorGroup associate">
+  <div class="w3-third sponsor">
     <a href="https://www.xmrfire.com/" target="_blank"><img src="/images/logo_XMRFire.png" alt="XMR Fire" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 218-1549<br>Wildfire Prevention Consulting</span>
   </div>
-</div>
-<div class="sponsorGroup associate">
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
     <a href="https://www.drakefund.org" target="_blank"><img src="/images/drake_fund.jpg" alt="Drake Fund" class="w3-square w3-hover-opacity"><br /></a>
       <span class="caption"><a href="mailto:drakefund@gmail.com">drakefund@gmail.com</a><br>Drake Fund</span>
   </div>
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
     <a href="http://www.gothomes.com" target="_blank"><img src="/images/got-homes.jpg" alt="Bill Johnson Real Estate Group" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(415) 925-3235<br>Marin Real Estate</span>
   </div>
-  <div class="w3-quarter sponsor">
+</div>
+<div class="sponsorGroup associate">
+  <div class="w3-third sponsor">
     <a href="https://apfinancing.com" target="_blank"><img src="/images/logo_APFinancing.png" alt="Allegiant Partners Equipment Financing" class="w3-square w3-hover-opacity"><br /></a>
     <span class="caption">(800) 604-4817<br>Commercial Equipment Financing</span>
   </div>
-  <div class="w3-quarter sponsor">
+  <div class="w3-third sponsor">
+    <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"><br /></a>
+      <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
+  </div>
+  <div class="w3-third sponsor">
     <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"><br /></a>
       <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
   </div>
