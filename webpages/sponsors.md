@@ -117,8 +117,8 @@ div.sponsor span.caption {
       <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
   </div>
   <div class="w3-third sponsor">
-    <a href="http://firstonscene.com" target="_blank"><img src="/images/First-On-Scene-Horz.jpg" alt="First On Scene" class="w3-square w3-hover-opacity"><br /></a>
-      <span class="caption"><a href="mailto:contact1a@firstonscene.com">contact1a@firstonscene.com</a><br>Fire Records Management Software</span>
+    <a href="https://www.thelodgefairfax.com/" target="_blank"><img src="/images/logo_Lodge.png" alt="The Lodge, Fairfax" class="w3-square w3-hover-opacity"><br /></a>
+      <span class="caption"><a href="mailto:contact@bigswingincycles.com">contact@bigswingincycles.com</a><br>The Lodge, Fairfax</span>
   </div>
 </div>
 
