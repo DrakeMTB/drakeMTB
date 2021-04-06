@@ -159,7 +159,7 @@ Roll Pirates!
 
 <div style="clear: both;"></div>
 
-<!--- #### Assistant Coach Lynn Valdivia ![lynn]({{site.baseurl}}/images/lynn-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine. <div style="clear: both;"></div> --->
+<!--- #### Assistant Coach Lynn Valdivia ![lynn]({{site.baseurl}}/images/lynn-coach.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Lynn has been the team director the last three years and is taking a vacation from that to be another valued asset to the Drake team as an assistant coach.  It means she gets to ride a lot more, and worry about forms and deadlines a lot less.  Lynn is an incredibly strong rider, and if you ever want to watch the sunrise on the golden gate bridge, hop on the commute (bike) train that leaves Imagination Park at 5:50am just about every weekday morning rain or shine. <div style="clear: both;"></div> 
   
 #### Assistant Coach Karl Vavrek
 
@@ -184,6 +184,7 @@ Mitch Brown is in his twelfth year of teaching at Manor School in Fairfax. He ha
 Matt Willis is a man of many talents... father, doctor, engaging riding companion, and [man who used to race against Soviets on a bicycle during the Cold War years](http://articles.mcall.com/1988-05-29/sports/2628327_1_soviets-lap-four-riders).  Quick with a smile and encouragement, Matt is a very welcome addition to the Drake MTB coaching staff.
 
 <div style="clear: both;"></div>
+--->
 
 <!---
 #### Ride Leader and General Volunteer Charlie Simpson ![charlie simpson]({{site.baseurl}}/images/charlie.JPG){:style="float: left;margin-right: 12px;margin-bottom: 12px;"} Charlie grew up in Colorado climbing 14,000’ peaks and rock climbing. His passion became alpine ski racing, which he did through college. Charlie has been mountain biking for about 20 years. His Drake coaching career started in 2013 and his primary goal is to have fun. He is also one of the team photographers on race day; so don’t forget to smile when you see him. <div style="clear: both;"></div>
