@@ -7,22 +7,20 @@ permalink: /races/
 
 <img src="{{site.baseurl}}/images/races.jpg" align="right" alt="DrakeMTB Races" style="margin: 0 0 10px 10px;">
 
-## Race Schedule for 2020 Season
+## Race Schedule for 2021 Season
 (The race schedule is not finalized yet.  For the most up-to-date information, check the <a href="https://www.norcalmtb.org/races-2/#raceflyers" target="_blank">NorcalMTB race site</a>
 
-* <a href="https://indd.adobe.com/view/2c1adbfa-0ce0-47c4-9dc4-aef1faeb0b36" target="_blank">Race #1 – Saturday, March 7 - Swasey Shred</a>
-* <a href="https://indd.adobe.com/view/496a2ab5-367e-46fd-bd78-18a21a07073e" target="_blank">Race #2 – Saturday, March 21 - Petaluma</a>
-* <a href="https://indd.adobe.com/view/5b70c89f-ab2f-4c28-a334-2842c41c5cdb" target="_blank">Race #3 – Saturday, April 4 - Granite Bay</a>
-* <a href="https://indd.adobe.com/view/52297f1d-f337-4f97-95d9-e2cf7847dfcd" target="_blank">Race #4 – Sunday, April 26 - Exchequer MTB Park, La Grange, CA</a>
-* <a href="https://indd.adobe.com/view/639b69e9-bf2f-4cec-9a44-9c099e7fbf51" target="_blank">Race #5 – Saturday, May 2 - Six Sigma Ranch</a>
-* <a href="#" target="_blank">Norcal Championships – Sunday, May 17 - Six Sigma Ranch</a>
+* <a href="https://indd.adobe.com/view/b6246693-90f3-48ca-a413-6dbd1c2713a6" target="_blank">Race #1 – Saturday, April 24 - Six Sigma Ranch</a>
+* <a href="https://indd.adobe.com/view/ff260434-2b7e-4796-a3c3-9b01e744baae" target="_blank">Race #2 – Saturday, May 1 - Six Sigma Ranch</a>
+* Race #3 – Saturday, May 14 - Six Sigma Ranch
 
+<!---
 *******
 
 ## <a href="https://docs.google.com/spreadsheets/d/1QVQzQvSp15jKttCX98bNlioRb_dnvYn5TKH7uDNrmIU/edit#gid=1677563385" target="_blank">Volunteer Sign Up Sheet</a>
 
 ## <a href="https://docs.google.com/spreadsheets/d/18DiawjPyMxpF9YrXjpJNLDMnzkfG5Ny-Xs2YKn7PrOY/edit#gid=0" target="_blank">Food Sign Up Sheet</a>
-
+--->
 *******
 
 ## [What Does a typical Race Day Look Like?]({{site.baseurl}}/raceday)
