@@ -14,6 +14,15 @@ permalink: /media/
 
 <img src="{{site.baseurl}}/images/media.jpg" align="right" alt="Drake MTB Media" style="margin: 0 0 10px 10px;">
 
+### 2021
+
+#### Photo & Video Collections
+
+##### Race #1 - We're back! - Six Sigma
+* <a href="https://photos.app.goo.gl/RnCXhfKBBUj5yARm8" target="_blank">Race photos (from Paul Zinnes)</a>
+* <a href="https://drive.google.com/drive/folders/1HHui5V6wb7Hm07Q0kxnnOZxZP3Uky5d8" target="_blank">Race photos (from team collection)</a>
+
+
 ### 2020
 
 #### Photo & Video Collections
