@@ -19,7 +19,7 @@ Don't take our word for it though... take a look at this video from our [third r
 Also take a look at this [great NorCal produced video](https://m.youtube.com/watch?v=RMzVFlOF8R4) on the impact of mountain biking on girls. More information can be found in [this article](https://www.trekbikes.com/us/en_US/story/the_new_normal).
 
 
-![drake girls group](../images/drake_girls_group.png)
+![drake girls group](../images/drake_girls_group.jpg)
 
 ****
 
