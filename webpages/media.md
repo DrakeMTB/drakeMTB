@@ -18,6 +18,9 @@ permalink: /media/
 
 #### Photo & Video Collections
 
+##### Race #2 - Six Sigma Showdown
+* <a href="https://photos.google.com/share/AF1QipNJQ7arvuoXJmLUEAmXg8m3M8eNLDVw2d4pZWW4iHny7FFpm-py0GhdoEmWR-TnHg?key=YjBvb0tKU0h1LURVTWNvTnk2b09WV2x1M3NDcTln" target="_blank">Race photos and videos (from Hamish Macphail)</a>
+
 ##### Race #1 - We're back! - Six Sigma
 * <a href="https://photos.app.goo.gl/RnCXhfKBBUj5yARm8" target="_blank">Race photos (from Paul Zinnes)</a>
 * <a href="https://photos.app.goo.gl/2Uju1uS3vGMuFEia9" target="_blank">Race photos (from Chris Nelson)</a>
